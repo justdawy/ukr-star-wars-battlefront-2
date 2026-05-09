@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-09 11:57+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-09 14:39+0000\nLast-Translator: Давид Шевня <dawidshevnya@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -461,7 +461,7 @@ msgstr ""
 #. pl: Klient: Dobra, co jeszcze?
 msgctxt "line_000091"
 msgid "Patron: Okay, what else?"
-msgstr ""
+msgstr "Відвідувач: Добре, що ще?"
 
 #. pl: REALIZACJA CELU
 msgctxt "line_000092"
@@ -576,7 +576,7 @@ msgstr ""
 #. pl: Nie przejdą. Umocnić pozycję!
 msgctxt "line_000114"
 msgid "Can't let them in. Secure that position!"
-msgstr ""
+msgstr "Не можемо їх впустити. Захищайте позицію!"
 
 #. pl: Ruszać się! Chcę poczuć swąd złomu!
 msgctxt "line_000115"

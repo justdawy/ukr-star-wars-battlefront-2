@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-09 15:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -19121,7 +19121,7 @@ msgstr ""
 #. pl: Maz: Han Solo.
 msgctxt "line_003817"
 msgid "Maz: Han Solo."
-msgstr ""
+msgstr "Маз: Ган Соло."
 
 #. pl: ODBLOKOWUJE EMOTKĘ „BLASTER”
 msgctxt "line_003818"
@@ -27690,7 +27690,7 @@ msgstr ""
 #. pl: SPECJALISTA
 msgctxt "line_005530"
 msgid "SPECIALIST"
-msgstr ""
+msgstr "СПЕЦІАЛІСТ"
 
 #. pl: Shriv: Tak. Dokładnie tak.¬Wejdźmy na to lądowisko.{0.080s:3.450s} Musimy wykraść ich prom!
 msgctxt "line_005531"
@@ -32012,7 +32012,7 @@ msgstr ""
 #. pl: HAN SOLO I CHEWBACCA
 msgctxt "line_006393"
 msgid "HAN SOLO AND CHEWBACCA"
-msgstr ""
+msgstr "ГАН СОЛО І ЧУБАККА"
 
 #. pl: WYCISZ
 msgctxt "line_006394"
@@ -37551,14 +37551,16 @@ msgid "PRESS %%OK%% TO START"
 msgstr ""
 
 #. pl: Oświetl 10 Ewoków latarką trybie łowów Ewoków.
+#, fuzzy
 msgctxt "line_007501"
 msgid "Spot 10 Ewoks with the Flashlight in Ewok Hunt."
-msgstr ""
+msgstr "Помітьте 10 евоків ліхтариком у режимі «Полювання на евоків»"
 
 #. pl: EHDA YUHYI EEDEEZA
+#, fuzzy
 msgctxt "line_007502"
 msgid "EHDA YUHYI EEDEEZA"
-msgstr ""
+msgstr "EHDA YUHYI EEDEEZA"
 
 #. pl: Shriv: Łuu! Mam ich!
 msgctxt "line_007503"
@@ -41878,7 +41880,7 @@ msgstr ""
 #. pl: Specjalista doskonale walczy na dystans, jednak słabo radzi sobie z bliska.
 msgctxt "line_008366"
 msgid "The Specialist excels at long ranged combat, but is vulnerable in close quarters."
-msgstr ""
+msgstr "Спеціаліст ідеальний у боях на великій відстані, але вразливий на ближній відстані."
 
 #. pl: West atrium secure. All units proceed to new objectives.
 msgctxt "line_008367"
@@ -54874,7 +54876,7 @@ msgstr ""
 #. pl: ROZGRYWKA
 msgctxt "line_010965"
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "ІГРОЛАД"
 
 #. pl: POZOSTAĆ W SZYKU BOJOWYM
 msgctxt "line_010966"
@@ -55034,7 +55036,7 @@ msgstr ""
 #. pl: ROZGRYWKA
 msgctxt "line_010997"
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "ІГРОЛАД"
 
 #. pl: LUNETA SKANUJĄCA
 msgctxt "line_010998"
@@ -59144,7 +59146,7 @@ msgstr ""
 #. pl: Wzmocnij 25 sojuszników za pomocą dowolnej KOMENDY BITEWNEJ oficera.
 msgctxt "line_011819"
 msgid "Buff 25 friends using any Battle Command with the Officer."
-msgstr ""
+msgstr "Накажіть 25 друзям, використавши будь-яку бойову команду, граючи як Офіцер."
 
 #. pl: SIŁA
 msgctxt "line_011820"
@@ -59159,7 +59161,7 @@ msgstr ""
 #. pl: GRACZ ZESPOŁOWY
 msgctxt "line_011822"
 msgid "TEAM PLAYER"
-msgstr ""
+msgstr "КОМАНДНИЙ ГРАВЕЦЬ"
 
 #. pl: Kylo Ren: Zaprowadzić mnie do więźnia.
 msgctxt "line_011823"
@@ -60489,7 +60491,7 @@ msgstr ""
 #. pl: ROZGRYWKA I KAMERA
 msgctxt "line_012088"
 msgid "GAMEPLAY & CAMERA"
-msgstr ""
+msgstr "ІГРОЛАД І КАМЕРА"
 
 #. pl: Del: Nie przebijemy się przez ten pancerz…
 msgctxt "line_012089"
@@ -60959,7 +60961,7 @@ msgstr ""
 #. pl: Rzuć 15 SAKIEWKAMI Z OGNIKAMI trybie łowów Ewoków.
 msgctxt "line_012182"
 msgid "Throw 15 Wistie Pouches in Ewok Hunt."
-msgstr ""
+msgstr "Жбурніть 15 мішечків із вісті у режимі «Полювання на евоків»."
 
 #. pl: THLEEK SIZ
 msgctxt "line_012183"
@@ -62834,7 +62836,7 @@ msgstr ""
 #. pl: WOLNE POŁĄCZENIE INTERNETOWE; MOŻE WPŁYNĄĆ NA ROZGRYWKĘ
 msgctxt "line_012557"
 msgid "SLOW INTERNET CONNECTION, THIS MIGHT AFFECT YOUR GAMEPLAY "
-msgstr ""
+msgstr "ПОВІЛЬНЕ ІНТЕРНЕТ-З'ЄДНАННЯ, МОЖЛИВИЙ ВПЛИВ НА ІГРОЛАД "
 
 #. pl: Krótki opis przedmiotu.
 msgctxt "line_012558"
@@ -63609,7 +63611,7 @@ msgstr ""
 #. pl: Zdolność specjalisty
 msgctxt "line_012712"
 msgid "Specialist Ability"
-msgstr ""
+msgstr "Здібність спеціаліста"
 
 #. pl: Iden: Sytuacja pod kontrolą. Agencie Hask, za mną.
 msgctxt "line_012713"
@@ -69494,7 +69496,7 @@ msgstr ""
 #. pl: STAŃ SIĘ SPECJALISTĄ
 msgctxt "line_013889"
 msgid "BECOME A SPECIALIST"
-msgstr ""
+msgstr "СТАНЬТЕ СПЕЦІАЛІСТОМ"
 
 #. pl: 3LATERAL
 msgctxt "line_013890"
@@ -94485,7 +94487,7 @@ msgstr ""
 #. pl: ZBADAJ
 msgctxt "line_018887"
 msgid "INSPECT"
-msgstr ""
+msgstr "ОГЛЯНУТИ"
 
 #. pl: Stymulanty błyskawicznie stabilizujące zranionych żołnierzy. Gdy zdolność jest aktywna, regeneracja zdrowia następuje natychmiast po odniesieniu obrażeń.
 msgctxt "line_018888"
@@ -96235,7 +96237,7 @@ msgstr ""
 #. pl: Ciężki strzelec po zajęciu odpowiedniej pozycji jest w stanie wyeliminować hordy przeciwników, ale jest mniej mobilny.
 msgctxt "line_019237"
 msgid "The Heavy trooper can take out hordes of enemies when positioned well, but is less mobile."
-msgstr ""
+msgstr "Важкоозброєний солдат може знищувати цілі орди ворогів, якщо займе вигідну позицію, проте є менш мобільним."
 
 #. pl: NAMIERZ CEL
 msgctxt "line_019238"
@@ -97380,13 +97382,12 @@ msgstr ""
 #. pl: GRAJ W DOWOLNYM TRYBIE PRZEZ 10 MINUT.
 msgctxt "line_019466"
 msgid "PLAY ANY MODE FOR 10 MINUTES."
-msgstr ""
+msgstr "ГРАЙТЕ У БУДЬ-ЯКОМУ РЕЖИМІ ПРОТЯГОМ 10-ТИ ХВИЛИН."
 
 #. pl: ROZEGRAJ CEL
-#, fuzzy
 msgctxt "line_019467"
 msgid "PLAY THE OBJECTIVE"
-msgstr "РОЗІГРАЙ ЦІЛЬ"
+msgstr "ВИКОНАТИ ЦІЛЬ"
 
 #. pl: Zay: Mamo, dajesz im niezły wycisk!
 msgctxt "line_019468"

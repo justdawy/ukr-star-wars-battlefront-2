@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-09 14:39+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-09 15:03+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -3984,7 +3984,7 @@ msgstr "RESEARCH MODERATOR"
 #. pl: Oczyść niebo
 msgctxt "line_000792"
 msgid "Clear the Skies"
-msgstr ""
+msgstr "Очистіть небо"
 
 #. pl: R2-D2: (dźwięki droida)
 msgctxt "line_000793"
@@ -3994,7 +3994,7 @@ msgstr ""
 #. pl: Iden: Agencie Hask, zbliżamy się do Corvusa. ¬Jak tam silniki?
 msgctxt "line_000794"
 msgid "Iden: Agent Hask, we are approaching the **Corvus**. What's the status of the engines?"
-msgstr ""
+msgstr "Іден: Агенте Гаску, ми наближаємося до Корвуса. Як там двигуни?"
 
 #. pl: Stosowane oburącz pistolety blasterowe, które podwajają siłę ognia.
 msgctxt "line_000795"
@@ -4004,7 +4004,7 @@ msgstr ""
 #. pl: PROCESS ANALYST
 msgctxt "line_000796"
 msgid "PROCESS ANALYST"
-msgstr ""
+msgstr "PROCESS ANALYST"
 
 #. pl: CIAŁO JEST SŁABE
 msgctxt "line_000797"
@@ -4029,7 +4029,7 @@ msgstr ""
 #. pl: Iden: Dotrzyj do mnie systemem wentylacji.
 msgctxt "line_000801"
 msgid "Iden: Use the ventilation system to reach me."
-msgstr ""
+msgstr "Іден: Дістанься до мене через вентиляційну систему."
 
 #. pl: Leia: Kolejny satelita skreślony z listy.
 msgctxt "line_000802"
@@ -4049,7 +4049,7 @@ msgstr ""
 #. pl: Iden: Droidzie, rusz się.
 msgctxt "line_000805"
 msgid "Iden: Droid, move."
-msgstr ""
+msgstr "Іден: Дроїде, рухайся."
 
 #. pl: Skrzynia zawierająca heroiczną gwiezdną kartę dla Finna.
 msgctxt "line_000806"
@@ -4059,7 +4059,7 @@ msgstr ""
 #. pl: Po użyciu zdolności należy odczekać, nim stanie się znów dostępna.
 msgctxt "line_000807"
 msgid "Abilities need time to refresh after they've been used"
-msgstr ""
+msgstr "Здібностям потрібен час на перезарядження після їх використання"
 
 #. pl: ASSOCIATE PRODUCT MANAGER
 msgctxt "line_000808"
@@ -4069,7 +4069,7 @@ msgstr "ASSOCIATE PRODUCT MANAGER"
 #. pl: Del: Ej, miałeś się tym zająć.
 msgctxt "line_000809"
 msgid "Del: Hey. You said you'd fix this."
-msgstr ""
+msgstr "Дель: Гей, ти ж мав цим зайнятися."
 
 #. pl: Leia: Nie wątpię, ale Ruch Oporu się ewakuuje.
 msgctxt "line_000810"
@@ -4219,7 +4219,7 @@ msgstr ""
 #. pl: Iden: Nie jesteśmy sami.
 msgctxt "line_000839"
 msgid "Iden: We're not alone."
-msgstr ""
+msgstr "Іден: Ми не самі."
 
 #. pl: WSCH. TRANSPORTOWIEC OPORU
 msgctxt "line_000840"
@@ -4410,7 +4410,7 @@ msgstr ""
 #. pl: NIE POZWÓLCIE REBELIANTOM UCIEC Z DANYMI
 msgctxt "line_000877"
 msgid "STOP THE REBELS FROM ESCAPING WITH THE DATA"
-msgstr ""
+msgstr "НЕ ДАЙТЕ ПОВСТАНЦЯМ УТЕКТИ З ДАНИМИ"
 
 #. pl: TEAM LEADERS
 msgctxt "line_000878"
@@ -4435,17 +4435,17 @@ msgstr ""
 #. pl: FRAUD RISK ANALYSTS
 msgctxt "line_000882"
 msgid "FRAUD RISK ANALYSTS"
-msgstr ""
+msgstr "FRAUD RISK ANALYSTS"
 
 #. pl: OCZEKIWANIE NA CELE
 msgctxt "line_000883"
 msgid "WAITING FOR OBJECTIVES"
-msgstr ""
+msgstr "ОЧІКУВАННЯ НА ЦІЛІ"
 
 #. pl: ID_SC_VEHICLE_STARCARD_TIE_SILENCER_REINFORCED_HULL_EFFECTVVVVVVVVVV
 msgctxt "line_000884"
 msgid "ID_SC_VEHICLE_STARCARD_TIE_SILENCER_REINFORCED_HULL_EFFECTVVVVV"
-msgstr ""
+msgstr "ID_SC_VEHICLE_STARCARD_TIE_SILENCER_REINFORCED_HULL_EFFECTVVVVV"
 
 #. pl: Skrzynia zawierająca zwycięską pozę – oficer.
 msgctxt "line_000885"
@@ -4455,7 +4455,7 @@ msgstr ""
 #. pl: SOLO VOCALIST
 msgctxt "line_000886"
 msgid "SOLO VOCALIST"
-msgstr ""
+msgstr "SOLO VOCALIST"
 
 #. pl: Shriv: Wal w silniki!
 msgctxt "line_000887"

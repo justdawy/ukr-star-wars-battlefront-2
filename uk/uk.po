@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: DeepL <noreply-mt-deepl@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: Давид Шевня <dawidshevnya@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -164,9 +164,10 @@ msgid "Rebel: I can’t believe we actually did it. Is the war really over?"
 msgstr "Повстанець: Не віриться, що ми це зробили. Невже війна закінчена?"
 
 #. pl: VP FINANCE
+#, fuzzy
 msgctxt "line_000033"
 msgid " VP FINANCE"
-msgstr ""
+msgstr " VP FINANCE"
 
 #. pl: PREMIA ZA ZABICIE W DYMIE
 msgctxt "line_000034"
@@ -205,9 +206,10 @@ msgid "IMPROVED RANGE FOR A280"
 msgstr "ПОКРАЩЕНИЙ ЗАСЯГ A280"
 
 #. pl: Gdy Luke Skywalker w końcu został Jedi, pokusy ciemnej strony okazały się niemal za silne podczas ostatecznej konfrontacji z Darthem Vaderem, który miał okazać się jego ojcem. Wierząc do samego końca, że Vader wciąż może przejść na jasną stronę Mocy, Luke nie odebrał ojcu życia, dzięki czemu Lord Sithów zwrócił się przeciw swojemu mistrzowi, Imperatorowi Palpatine'owi.
+#, fuzzy
 msgctxt "line_000041"
 msgid "At last a Jedi, the temptations of the dark side almost proved too much for Luke Skywalker in his final confrontation with Darth Vader, the man he’d discovered was his father. Clinging to his belief that Vader could be redeemed, Luke refused to take his father’s life; an action which would lead the Sith Lord to rise up against his master, Emperor Palpatine."
-msgstr "Нарешті ставши джедаєм, Люк Скайвокер ледь не піддався спокусам темної сторони під час своєї останньої сутички з Дартом Вейдером — чоловіком, якого він дізнався своїм батьком. Тримаючись за віру в те, що Вейдер може виправитися, Люк відмовився забрати життя свого батька; цей вчинок призвів до того, що Лорд Ситтів повстав проти свого господаря, Імператора Палпатіна."
+msgstr "Нарешті ставши джедаєм, Люк Скайвокер ледь не піддався спокусам темної сторони під час своєї останньої сутички з Дартом Вейдером — чоловіком, який виявився його батьком. Тримаючись за віру в те, що Вейдер може виправитися, Люк відмовився забрати життя свого батька. Цей вчинок призвів до того, що Лорд Ситхів повстав проти свого господаря, Імператора Палпатіна."
 
 #. pl: SZKOLENIE BOJOWE
 msgctxt "line_000042"
@@ -334,7 +336,7 @@ msgstr "ІНСТИНКТ ХИЖАКА"
 #. pl: Klient: Trandoshanin.
 msgctxt "line_000066"
 msgid "Patron: Trandoshan."
-msgstr ""
+msgstr "Відвідувач: Трандошан."
 
 #. pl: Leia Organa otrzymuje o {0:s} obrażeń mniej, gdy posługuje się blasterem E-11.
 msgctxt "line_000067"
@@ -6110,10 +6112,9 @@ msgid "Iden: Agent Meeko, engage those Rebel ships."
 msgstr ""
 
 #. pl: INTERAKCJA
-#, fuzzy
 msgctxt "line_001216"
 msgid "INTERACTION "
-msgstr "ВЗАЄМОДІЯ"
+msgstr "ВЗАЄМОДІЯ "
 
 #. pl: NIE WYMAGA NAPRAWY
 msgctxt "line_001217"
@@ -8778,10 +8779,9 @@ msgid "SENIOR MANAGER SUSTAINING PROGRAMS"
 msgstr ""
 
 #. pl: Skrzynia zawierająca emotkę Phasmy „ZABIJĄ WAS WSZYSTKICH”.
-#, fuzzy
 msgctxt "line_001749"
 msgid "This crate contains Phasma \"KILL YOU ALL\" emote."
-msgstr "Скриня містить емоцію Фазми «УБ’Ю ВАС УСІХ»"
+msgstr "Скриня містить емоцію Фазми «УБ’Ю ВАС УСІХ»."
 
 #. pl: Shriv: Dobry pomysł. Nie ryzykujmy zdrowiem Zay.
 msgctxt "line_001750"
@@ -10831,10 +10831,9 @@ msgid "SMUGGLER'S CREDITS CRATE"
 msgstr ""
 
 #. pl: SZYBCIEJ! SZYBCIEJ!
-#, fuzzy
 msgctxt "line_002159"
 msgid "FASTER, FASTER!"
-msgstr "ШВИДШЕ! ШВИДШЕ!"
+msgstr "ШВИДШЕ, ШВИДШЕ!"
 
 #. pl: GRANAT BŁYSKOWY
 msgctxt "line_002160"
@@ -20131,7 +20130,7 @@ msgstr "ДОСТАВЛЕННЯ"
 #, fuzzy
 msgctxt "line_004018"
 msgid "Searching for {0:s}..."
-msgstr "ПОШУК: {0:s}"
+msgstr "ПОШУК: {0:s}..."
 
 #. pl: Lando Calrissian namierza do pięciu przeciwników, po czym kolejno likwiduje ich celnym trafieniem w głowę.
 msgctxt "line_004019"
@@ -37567,10 +37566,9 @@ msgid "PRESS %%OK%% TO START"
 msgstr ""
 
 #. pl: Oświetl 10 Ewoków latarką trybie łowów Ewoków.
-#, fuzzy
 msgctxt "line_007501"
 msgid "Spot 10 Ewoks with the Flashlight in Ewok Hunt."
-msgstr "Помітьте 10 евоків ліхтариком у режимі «Полювання на евоків»"
+msgstr "Помітьте 10 евоків ліхтариком у режимі «Полювання на евоків»."
 
 #. pl: EHDA YUHYI EEDEEZA
 #, fuzzy
@@ -41896,7 +41894,7 @@ msgstr ""
 #. pl: Specjalista doskonale walczy na dystans, jednak słabo radzi sobie z bliska.
 msgctxt "line_008366"
 msgid "The Specialist excels at long ranged combat, but is vulnerable in close quarters."
-msgstr "Спеціаліст ідеальний у боях на великій відстані, але вразливий на ближній відстані."
+msgstr "Спеціаліст ідеальний у боях на великій відстані, однак вразливий на близькій."
 
 #. pl: West atrium secure. All units proceed to new objectives.
 msgctxt "line_008367"

@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: DeepL <noreply-mt-deepl@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -207,7 +207,7 @@ msgstr "ПОКРАЩЕНИЙ ЗАСЯГ A280"
 #. pl: Gdy Luke Skywalker w końcu został Jedi, pokusy ciemnej strony okazały się niemal za silne podczas ostatecznej konfrontacji z Darthem Vaderem, który miał okazać się jego ojcem. Wierząc do samego końca, że Vader wciąż może przejść na jasną stronę Mocy, Luke nie odebrał ojcu życia, dzięki czemu Lord Sithów zwrócił się przeciw swojemu mistrzowi, Imperatorowi Palpatine'owi.
 msgctxt "line_000041"
 msgid "At last a Jedi, the temptations of the dark side almost proved too much for Luke Skywalker in his final confrontation with Darth Vader, the man he’d discovered was his father. Clinging to his belief that Vader could be redeemed, Luke refused to take his father’s life; an action which would lead the Sith Lord to rise up against his master, Emperor Palpatine."
-msgstr ""
+msgstr "Нарешті ставши джедаєм, Люк Скайвокер ледь не піддався спокусам темної сторони під час своєї останньої сутички з Дартом Вейдером — чоловіком, якого він дізнався своїм батьком. Тримаючись за віру в те, що Вейдер може виправитися, Люк відмовився забрати життя свого батька; цей вчинок призвів до того, що Лорд Ситтів повстав проти свого господаря, Імператора Палпатіна."
 
 #. pl: SZKOLENIE BOJOWE
 msgctxt "line_000042"
@@ -242,7 +242,7 @@ msgstr "ТРІУМФНА СКРИНЯ ТЕХНІКИ"
 #. pl: Paldora: Co ciekawe, ¬większość statystyków zabijają ich uczniowie.
 msgctxt "line_000048"
 msgid "Paldora: Oddly enough most Statisticians are killed by apprentice Statisticians..."
-msgstr ""
+msgstr "Палдора: Як не дивно, але більшість статистиків гинуть від рук статистиків-початківців..."
 
 #. pl: Granat wyzwalający falę uderzeniową, która na pewien czas obezwładnia wrogów.
 #, fuzzy
@@ -291,10 +291,9 @@ msgid "Patron: The Republic doesn’t care about you. Neither does the Empire. C
 msgstr ""
 
 #. pl: Ten prymitywny, ale niezawodny karabin strzelający konwencjonalnymi pociskami umożliwia prowadzenie celnego ognia na ogromne odległości oraz penetrację energetycznych pól ochronnych.
-#, fuzzy
 msgctxt "line_000058"
 msgid "Designed to fire solid projectiles, this crude but reliable rifle is excellent at hitting targets at extreme ranges and penetrating energy shields."
-msgstr "Ця примітивна, але надійна гвинтівка, призначена для стрільби твердими снарядами, чудово підходить для ураження цілей на великій відстані та пробивання енергетичних щитів."
+msgstr "Ця примітивна, але надійна гвинтівка, призначена для стрільби твердими снарядами, чудово підходить для ураження цілей на надзвичайно великих відстанях та пробивання енергетичних щитів."
 
 #. pl: Zwiększa tempo regeneracji maksymalnego zdrowia o {0:s}.
 #, fuzzy
@@ -340,7 +339,7 @@ msgstr ""
 #. pl: Leia Organa otrzymuje o {0:s} obrażeń mniej, gdy posługuje się blasterem E-11.
 msgctxt "line_000067"
 msgid "Leia Organa receives {0:s} less damage while wielding the E-11. "
-msgstr ""
+msgstr "Лея Орґана отримує на {0:s} менше шкоди, коли використовує E-11. "
 
 #. pl: Dostosuj
 msgctxt "line_000068"

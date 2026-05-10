@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 14:52+0000\nLast-Translator: DeepL <noreply-mt-deepl@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 14:52+0000\nLast-Translator: Давид Шевня <dawidshevnya@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -120,7 +120,7 @@ msgstr "Оберіть, до якого центру обробки даних E
 #. pl: Iden: Oddział Inferno, skupić się wokół mnie.{0.000s:2.160s} Wrogi myśliwiec leci do generała Solo.
 msgctxt "line_000024"
 msgid "Iden: Inferno Squad, form up on me, enemy starfighter heading for General Solo."
-msgstr "Айден: «Інферно-загін», згрупуйтеся навколо мене, ворожий винищувач наближається до генерала Соло."
+msgstr "Іден: Загін «Інферно», до мене! Ворожий винищувач наближається до генерала Соло."
 
 #. pl: DZIAŁKO REPULSOROWE
 msgctxt "line_000025"

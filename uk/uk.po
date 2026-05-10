@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:51+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -711,6 +711,7 @@ msgid "Our multi-troop transport is en route to the Naboo palace. Clone resistan
 msgstr ""
 
 #. pl: New unit online. You are programmed to escort our multi-troop transport to the Naboo palace and to intercept Republic ion attacks. Proceed.
+#, fuzzy
 msgctxt "line_000140"
 msgid "New unit online. You are programmed to escort our multi-troop transport to the Naboo palace and to intercept Republic ion attacks. Proceed."
 msgstr "New unit online. You are programmed to escort our multi-troop transport to the Naboo palace and to intercept Republic ion attacks. Proceed."
@@ -981,11 +982,13 @@ msgid "Unrest stirs in the seat of Jabba the Hutt's criminal empire. The infamou
 msgstr ""
 
 #. pl: Explore 1 - TEMPVVVVV
+#, fuzzy
 msgctxt "line_000193"
 msgid "Explore 1 - TEMP"
 msgstr "Explore 1 - TEMP"
 
 #. pl: Explore 2 - TEMPVVVVV
+#, fuzzy
 msgctxt "line_000194"
 msgid "Explore 2 - TEMP"
 msgstr "Explore 2 - TEMP"
@@ -12335,6 +12338,7 @@ msgid "Example Popup"
 msgstr ""
 
 #. pl: {0:time:mm:ss}
+#, fuzzy
 msgctxt "line_002459"
 msgid "{0:time:mm:ss}"
 msgstr "{0:time:mm:ss}"
@@ -24266,6 +24270,7 @@ msgid "Shriv: It's busted. We can't get in."
 msgstr ""
 
 #. pl: {0:time:mm:ss}
+#, fuzzy
 msgctxt "line_004844"
 msgid "{0:time:mm:ss}"
 msgstr "{0:time:mm:ss}"
@@ -24741,6 +24746,7 @@ msgid "ENGINE UPGRADE"
 msgstr "ПОКРАЩЕННЯ ДВИГУНА"
 
 #. pl: {0:time:hh:mm:ss}
+#, fuzzy
 msgctxt "line_004939"
 msgid "{0:time:hh:mm:ss}"
 msgstr "{0:time:hh:mm:ss}"
@@ -28831,6 +28837,7 @@ msgid "Leia: Welcome to the New Republic."
 msgstr ""
 
 #. pl: Gadget : DETONITE MINEVVVVV
+#, fuzzy
 msgctxt "line_005756"
 msgid "Gadget : DETONITE CHARGE"
 msgstr "Gadget : DETONITE CHARGE"
@@ -31932,6 +31939,7 @@ msgid "Adequate. Proceed."
 msgstr ""
 
 #. pl: You are behind schedule.
+#, fuzzy
 msgctxt "line_006374"
 msgid "You are behind schedule."
 msgstr "You are behind schedule."

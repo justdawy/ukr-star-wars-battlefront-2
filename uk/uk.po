@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: Давид Шевня <dawidshevnya@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-10 13:48+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -105,12 +105,12 @@ msgstr "Жетон «Обманіть Джаббу»"
 #. pl: Ten myśliwiec TIE posiada dopalacz, torpedę protonową i może prowadzić ostrzał laserowy. Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej.
 msgctxt "line_000021"
 msgid "This TIE fighter is equipped with Afterburner, Proton Torpedo and Laser Barrage. Press %%ABILITYINFO%% for more info."
-msgstr "Цей TIE винищувач обладнаний форсажем, протонною торпедою та лазерним шквалом. Натисніть %%ABILITYINFO%%, щоб дізнатися більше."
+msgstr "Цей ЗІД-винищувач обладнаний форсажем, протонною торпедою та лазерним шквалом. Натисніть %%ABILITYINFO%%, щоб дізнатися більше."
 
 #. pl: Skrzynia zawierająca niepospolitą gwiezdną kartę dla myśliwców bohaterów i kredyty.
 msgctxt "line_000022"
 msgid "This crate contains a Hero Starfighter Uncommon  Star Card and credits."
-msgstr "Скриня містить незвичайну зоряну картку для героя зіркового винищувача та кредити."
+msgstr "Скриня містить незвичайну зоряну картку для героя зоряного винищувача та кредити."
 
 #. pl: Wybierz, z którym centrum danych EA chcesz się łączyć. Zmiana może spowodować wzrost opóźnienia sieci.
 msgctxt "line_000023"
@@ -201,6 +201,7 @@ msgid "IMPROVED COOLING FOR A280"
 msgstr "ПОКРАЩЕНЕ ОХОЛОДЖЕННЯ A280"
 
 #. pl: POPRAWIONY ZASIĘG A280
+#, fuzzy
 msgctxt "line_000040"
 msgid "IMPROVED RANGE FOR A280"
 msgstr "ПОКРАЩЕНИЙ ЗАСЯГ A280"
@@ -217,11 +218,13 @@ msgid "ASSAULT TRAINING"
 msgstr "БОЙОВЕ НАВЧАННЯ"
 
 #. pl: SKRZYNIA UXR – RZADKA
+#, fuzzy
 msgctxt "line_000043"
 msgid "UXR CRATE - RARE"
 msgstr "СКРИНЯ UXR — РІДКІСНА"
 
 #. pl: CORELLIAŃSKI ŁAJDAK
+#, fuzzy
 msgctxt "line_000044"
 msgid "CORELLIAN SCOUNDREL"
 msgstr "КОРЕЛЛІАНСЬКИЙ НЕГІДНИК"
@@ -239,7 +242,7 @@ msgstr "ПЕРЕМОЖНА СКРИНЯ ТЕХНІКИ"
 #. pl: TRIUMFALNA SKRZYNIA POJAZDU
 msgctxt "line_000047"
 msgid "VEHICLE TRIUMPHANT CRATE"
-msgstr "ТРІУМФНА СКРИНЯ ТЕХНІКИ"
+msgstr "ТРІУМФАЛЬНА СКРИНЯ ТЕХНІКИ"
 
 #. pl: Paldora: Co ciekawe, ¬większość statystyków zabijają ich uczniowie.
 msgctxt "line_000048"
@@ -384,6 +387,7 @@ msgid "Patron: Definitely a Wookiee."
 msgstr ""
 
 #. pl: Promień rażenia DETONATORÓW TERMICZNYCH zostaje zwiększony o {0:s} m.
+#, fuzzy
 msgctxt "line_000076"
 msgid "The blast radius of THERMAL DETONATORS is increased by {0:s} meters."
 msgstr "Радіус ураження теплового детонатора збільшено на {0:s} метрів."
@@ -40864,7 +40868,7 @@ msgstr ""
 #. pl: Zmierz się z zespołem przeciwników SI. Powstrzymaj wroga przed przejęciem stanowisk dowodzenia, aby zatrzymać jego natarcie.
 msgctxt "line_008160"
 msgid "Go up against the enemy team of AI opponents. Prevent the enemies from capturing any of your Command Posts to stop their advance."
-msgstr ""
+msgstr "Змагайтеся проти команди ворогів, керованих штучним інтелектом. Не дайте ворогам захопити жодного з ваших командних пунктів, щоб зупинити їхнє просування."
 
 #. pl: Starhawk: Ostrzał udany. Kto następny?
 msgctxt "line_008161"
@@ -60580,7 +60584,7 @@ msgstr ""
 #. pl: Szereg trybów gry dla wielu graczy, w skali od wielkiej po małą, które pozwolą ci wcielić się w ulubione postacie, zasiąść za sterami wspaniałych pojazdów i odwiedzić piękne światy.
 msgctxt "line_012103"
 msgid "A selection of multiplayer modes, from large to small, that let you to take control of your favorite characters, pilot extraordinary vehicles, and visit beautiful worlds."
-msgstr ""
+msgstr "Різноманітні режими багатоосібної гри, від масштабних до малих, які дозволяють вам грати за улюблених персонажів, керувати незвичайною технікою та відвідувати прекрасні світи."
 
 #. pl: ŁAŃCUCH PIORUNÓW
 msgctxt "line_012104"

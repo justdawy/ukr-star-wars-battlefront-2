@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-12 03:54+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-12 16:50+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -5085,7 +5085,7 @@ msgstr ""
 #. pl: ODNAWIANIE ZDOLNOŚCI
 msgctxt "line_001009"
 msgid "ABILITY RECHARGE"
-msgstr ""
+msgstr "ПЕРЕЗАРЯДЖАННЯ ЗДІБНОСТЕЙ"
 
 #. pl: Del: Jest ich więcej!
 msgctxt "line_001010"
@@ -7442,7 +7442,7 @@ msgstr ""
 #. pl: Zwiększa tempo przyspieszania i zwalniania.
 msgctxt "line_001480"
 msgid "Increases acceleration and deceleration rates"
-msgstr ""
+msgstr "Збільшує швидкість прискорення та уповільнення"
 
 #. pl: KASHYYYK
 msgctxt "line_001481"
@@ -8197,7 +8197,7 @@ msgstr ""
 #. pl: CZAS ODN. ZDOLNOŚCI
 msgctxt "line_001631"
 msgid "ABILITY RECHARGE TIME"
-msgstr ""
+msgstr "ЧАС ПЕРЕЗАРЯДЖАННЯ ЗДІБНОСТЕЙ"
 
 #. pl: PRZYCISK 22
 msgctxt "line_001632"
@@ -8984,7 +8984,7 @@ msgstr ""
 #. pl: W miarę jak Darth Maul pokonuje kolejnych przeciwników, jego zdolności odnawiają się coraz szybciej.
 msgctxt "line_001788"
 msgid "As Darth Maul eliminates more enemies, his ability recharge times are lowered."
-msgstr ""
+msgstr "Чим більше ворогів знищує Дарт Мол, тим швидше перезаряджаються його здібності."
 
 #. pl: Skrzynia zawierająca emotkę Yody „PO WIELKOŚCI SĄDZISZ MNIE?”.
 msgctxt "line_001789"
@@ -9215,7 +9215,7 @@ msgstr ""
 #. pl: Jako bohater Ruchu Oporu Finn inspiruje pobliskich sojuszników, zapewniając im dodatkowe zdrowie, redukcję obrażeń, niewrażliwość na przegrzanie broni i szybsze odnawianie zdolności.
 msgctxt "line_001834"
 msgid "As a hero of the Resistance, Finn inspires nearby allies supplying them with extra health, damage reduction, no weapon cooldown, and faster ability recharge."
-msgstr ""
+msgstr "Як герой Руху Опору, Фінн надихає союзників поблизу, надаючи їм додаткове здоров'я, зменшення шкоди від ворогів, відсутність перезаряджання зброї та швидше відновлення здібностей."
 
 #. pl: Otrzymaj cztery wyglądy w cenie dwóch. Zestaw zawierający wyglądy żołnierzy-klonów 501. Legionu w wariancie fazy II dla klas żołnierza szturmowego, ciężkiego strzelca, oficera i specjalisty. Każdy duplikat już posiadanego elementu zestawu zostanie wymieniony na 20 000 kredytów.
 msgctxt "line_001835"
@@ -12626,7 +12626,7 @@ msgstr ""
 #. pl: Jemini Shin: Według wywiadu doki Fondor mają wyjątkowego gościa: gwiezdny niszczyciel w trakcie napraw. Idealna okazja na zasadzkę, choć ryzykowna...
 msgctxt "line_002516"
 msgid "According to intel, The Fondor Docks have a special guest: a Star Destroyer undergoing repairs. The perfect opportunity for an ambush, though not without risk..."
-msgstr ""
+msgstr "За даними розвідки, у доках Фондора з'явився особливий гість — зоряний руйнівник, що перебуває на ремонті. Слушний момент для засідки, хоча й не без ризику..."
 
 #. pl: Jemini Shin: Na naprawy do stoczni zacumował gwiezdny niszczyciel. Trzeba zniszczyć system obrony, albo nasi są bez szans.
 msgctxt "line_002517"
@@ -15537,7 +15537,7 @@ msgstr ""
 #. pl: Imperator Palpatine eliminuje całe grupy przeciwników, wykorzystując potęgę Mocy, by spowalniać, ogłuszać i razić ich błyskawicami.
 msgctxt "line_003098"
 msgid "Emperor Palpatine eliminates whole groups of enemies at a time using his powerful manipulation of the Force to slow, stun, and pummel them with lightning."
-msgstr ""
+msgstr "Імператор Палпатін знищує цілі групи ворогів, використовуючи могутність Сили, щоб уповільнювати, оглушувати та вражати їх блискавками."
 
 #. pl: SCENARIUSZ BITWY
 msgctxt "line_003099"
@@ -17302,7 +17302,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_003451"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: Pokonaj 5000 wrogów jako Imperator Palpatine.
 msgctxt "line_003452"
@@ -34461,12 +34461,12 @@ msgstr ""
 #. pl: ABY GRAĆ, MUSISZ BYĆ ONLINE
 msgctxt "line_006877"
 msgid "YOU NEED TO BE ONLINE TO PLAY"
-msgstr ""
+msgstr "НЕОБХІДНО ПІД'ЄДНАТИСЯ ДО МЕРЕЖІ, ЩОБ ГРАТИ"
 
 #. pl: Imperator Palpatine razi prądem znajdujących przed nim wrogów, unieruchamiając ich.
 msgctxt "line_006878"
 msgid "Emperor Palpatine electrocutes enemies in front of him, immobilizing them."
-msgstr ""
+msgstr "Імператор Палпатін вражає електричним струмом ворогів, що стоять перед ним, сковуючи їх."
 
 #. pl: Tarcza sferyczna, która chroni przed ostrzałem blasterów.
 msgctxt "line_006879"
@@ -35051,7 +35051,7 @@ msgstr ""
 #. pl: Gratulacje! Sekretna wiadomość została wysłana galaktyce.
 msgctxt "line_006995"
 msgid "Congratulations! the secret message has been sent to the galaxy."
-msgstr ""
+msgstr "Вітаємо! Таємне повідомлення надіслане в галактику."
 
 #. pl: Darth Maul może wykonać 3 ATAKI OBROTOWE kosztem wydłużenia czasu odnawiania o {0:s}.
 msgctxt "line_006996"
@@ -57385,7 +57385,7 @@ msgstr ""
 #. pl: Na określonych poziomach klasy odkryjesz jej nowe gwiezdne karty. Aby ich użyć, odblokuj je przeznaczając na to punkt umiejętności.
 msgctxt "line_011461"
 msgid "At specific Class Levels, you will reveal new Star Cards for that class. Unlock these Star Cards for use by spending one Skill Point."
-msgstr ""
+msgstr "На певних рівнях класу ви відкриєте нові зоряні картки для цього класу. Розблокуйте ці зоряні картки для використання, витративши одне очко вмінь."
 
 #. pl: Ranga gracza określa globalną pozycję i zaangażowanie w grę. Nie wpływa ona bezpośrednio na twój postęp rozgrywki.
 msgctxt "line_011462"

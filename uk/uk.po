@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-12 16:50+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-12 16:50+0000\nLast-Translator: DeepL <noreply-mt-deepl@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -22185,7 +22185,7 @@ msgstr ""
 #. pl: Zwiększa tempo przyspieszania i zwalniania.
 msgctxt "line_004427"
 msgid "Increases Acceleration and Deceleration rates "
-msgstr ""
+msgstr "Збільшує швидкість прискорення та уповільнення "
 
 #. pl: KEY ACCOUNT MANAGER
 msgctxt "line_004428"
@@ -25530,7 +25530,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_005095"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: Hask: Nie mogę go zgubić!
 msgctxt "line_005096"
@@ -32625,7 +32625,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_006510"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: Ataki wręcz i odbicia pocisków Luke'a Skywalkera pochłaniają mniej wytrzymałości.
 msgctxt "line_006511"
@@ -34961,7 +34961,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_006977"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: CZYSTA SIŁA
 msgctxt "line_006978"
@@ -38977,7 +38977,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_007780"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: Luke: Szykuj się na więcej.
 msgctxt "line_007781"
@@ -41182,7 +41182,7 @@ msgstr ""
 #. pl: Zwiększa tempo przyspieszania i zwalniania.
 msgctxt "line_008221"
 msgid "Increases acceleration and deceleration rates"
-msgstr ""
+msgstr "Збільшує швидкість прискорення та уповільнення"
 
 #. pl: Postać wydaje komendę bitewną, która inspiruje pobliskich towarzyszy broni, by dali z siebie jeszcze więcej, zwiększając tym ich wytrzymałość na obrażenia.
 msgctxt "line_008222"
@@ -43747,7 +43747,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_008734"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: ZESTAW 104. BATALIONU
 msgctxt "line_008735"
@@ -50199,7 +50199,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_010024"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: Jaldessi Brenna: Systemy obronne nie działają. Czas zadać ostateczny cios. Celować w tylne silniki.
 msgctxt "line_010025"
@@ -53895,7 +53895,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_010763"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: VIDEO AND MEDIA DIRECTOR EDITOR
 msgctxt "line_010764"
@@ -58445,7 +58445,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_011673"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: {0:d}/{1:d}
 msgctxt "line_011674"
@@ -58940,7 +58940,7 @@ msgstr ""
 #. pl: Zwiększa tempo przyspieszania i zwalniania.
 msgctxt "line_011772"
 msgid "Increases Acceleration and Deceleration rates "
-msgstr ""
+msgstr "Збільшує швидкість прискорення та уповільнення "
 
 #. pl: Na pewno chcesz usunąć to przypisanie klawiszy?
 msgctxt "line_011773"
@@ -80556,7 +80556,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_016095"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: Lando: Te pompy lawy mogą się świetnie nadać.
 msgctxt "line_016096"
@@ -83616,7 +83616,7 @@ msgstr ""
 #. pl: MNOŻNIK PRZYSPIESZENIA I ZWALNIANIA
 msgctxt "line_016707"
 msgid "ACCELERATION / DECELERATION RATE MULTIPLIER"
-msgstr ""
+msgstr "КОЕФІЦІЄНТ ПРИСКОРЕННЯ / СПОВІЛЬНЕННЯ"
 
 #. pl: Iden: Ktoś musiał uszkodził dolną część kadłuba, to pewne.
 msgctxt "line_016708"
@@ -88376,7 +88376,7 @@ msgstr ""
 #. pl: Zwiększa tempo przyspieszania i zwalniania.
 msgctxt "line_017659"
 msgid "Increases acceleration and deceleration rates"
-msgstr ""
+msgstr "Збільшує швидкість прискорення та уповільнення"
 
 #. pl: ADDITIONAL TECHNICAL ARTIST
 msgctxt "line_017660"
@@ -93727,7 +93727,7 @@ msgstr ""
 #. pl: Zwiększa prędkość maksymalną oraz tempo przyspieszania i zwalniania.
 msgctxt "line_018729"
 msgid "Increases top speed and improves acceleration and deceleration rates."
-msgstr ""
+msgstr "Збільшує максимальну швидкість та покращує показники прискорення й уповільнення."
 
 #. pl: HEROICZNA SKRZYNIA RUCHU OPORU
 msgctxt "line_018730"

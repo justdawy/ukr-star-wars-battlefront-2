@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-12 16:50+0000\nLast-Translator: DeepL <noreply-mt-deepl@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-13 20:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -6241,7 +6241,7 @@ msgstr ""
 #. pl: Przetrwaj noc na Endorze.
 msgctxt "line_001240"
 msgid "Survive a night on Endor."
-msgstr ""
+msgstr "Переживіть ніч на Ендорі."
 
 #. pl: ANIMATION CRAFT DIRECTOR
 msgctxt "line_001241"
@@ -31135,7 +31135,7 @@ msgstr ""
 #. pl: Brońcie mostku dowodzenia
 msgctxt "line_006213"
 msgid "Protect the Command Bridge"
-msgstr ""
+msgstr "Захистіть командний місток"
 
 #. pl: Lekki wariant działka strażniczego, który cechuje się zwiększoną mobilnością kosztem siły ognia.
 msgctxt "line_006214"
@@ -31255,7 +31255,7 @@ msgstr ""
 #. pl: Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej o ofensywnych zdolnościach Hana Solo.
 msgctxt "line_006237"
 msgid "Press %%ABILITYINFO%% to learn more about Han Solo's aggressive abilities"
-msgstr ""
+msgstr "Натисніть %%ABILITYINFO%%, щоб дізнатися більше про агресивні здібності Гана Соло"
 
 #. pl: ATAK Z DOSKOKU
 msgctxt "line_006238"
@@ -31300,7 +31300,7 @@ msgstr ""
 #. pl: 10
 msgctxt "line_006246"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. pl: 12:00
 msgctxt "line_006247"
@@ -31315,7 +31315,7 @@ msgstr "ПЕРСОНАЖ"
 #. pl: DATABASE SERVICES SENIOR MANAGER
 msgctxt "line_006249"
 msgid "DATABASE SERVICES SENIOR MANAGER"
-msgstr ""
+msgstr "DATABASE SERVICES SENIOR MANAGER"
 
 #. pl: Iden: Nie, ruszaj. Dowódca leci ostatni.
 msgctxt "line_006250"
@@ -31395,7 +31395,7 @@ msgstr ""
 #. pl: LEAD ANIMATORS
 msgctxt "line_006265"
 msgid "LEAD ANIMATORS"
-msgstr ""
+msgstr "LEAD ANIMATORS"
 
 #. pl: Zdobądź 313 753 punktów myśliwcem przechwytującym.
 msgctxt "line_006266"
@@ -31490,7 +31490,7 @@ msgstr ""
 #. pl: Dysponujący znaczącą przewagą nad droidami bojowymi żołnierze-klony stanowili trzon Wielkiej Armii Republiki. Ci, powstali z kodu genetycznego łowcy nagród Jango Fetta, żołnierze stanowili kolejny krok w ewolucji wojny galaktycznej.¬¬41. Pluton Strażniczy stanowił grupę uderzeniową 41. Elitarnego Legionu, która w celach dywersyjnych sabotowała linie zaopatrzeniowe i instalacje wroga o szczególnym znaczeniu.
 msgctxt "line_006284"
 msgid "Far superior to battle droids, clone troopers formed the backbone of the Grand Army of the Republic. Bred from the genetic template of the bounty hunter Jango Fett, they represented the latest evolution in galactic warfare.¬¬The 41st Ranger Platoon was a strike team under the 41st Elite Corps deployed to sabotage enemy supply lines and vulnerable installations, diverting attention away from allied interests."
-msgstr ""
+msgstr "Набагато перевершуючи бойових дроїдів, солдати-клони становили основу Великої армії Республіки. Створені на основі генетичного шаблону мисливця за головами Джанго Фетта, вони уособлювали найновішу еволюцію в галактичній війні.¬¬41-й взвод рейнджерів був ударною групою в складі 41-го елітного корпусу, розгорнутою для саботажу ворожих ліній постачання та вразливих об'єктів, відвертаючи увагу від інтересів союзників."
 
 #. pl: Skrzynia kampanii zawierająca niepospolitą gwiezdną kartę dla Lei Organy oraz niepospolitą gwiezdną kartę dla ciężkiego strzelca.
 msgctxt "line_006285"
@@ -32449,7 +32449,7 @@ msgstr ""
 #. pl: MARKETING INTERN GSA
 msgctxt "line_006475"
 msgid "MARKETING INTERN GSA"
-msgstr ""
+msgstr "MARKETING INTERN GSA"
 
 #. pl: Del: Szkoda, że Hask zdołał uciec.
 msgctxt "line_006476"
@@ -52442,9 +52442,10 @@ msgid "STARFIGHTER ONSLAUGHT"
 msgstr ""
 
 #. pl: Walcz na jednej z wielu map, uczestnicząc w wielkich starciach drużyn i wykonując cele. Odwiedzaj słynne lokacje, wybieraj spośród czterech klas żołnierzy, pilotuj ulubione pojazdy, wzywaj wsparcie i stań się bohaterem.
+#, fuzzy
 msgctxt "line_010473"
 msgid "Battle on a series of large team-oriented, objective-based maps. Visit iconic locations, pilot favorite vehicles, choose from among four trooper classes, call in special units, and become a hero."
-msgstr ""
+msgstr "Бийтеся на одній із численних карт, беручи участь у масштабних командних боях та виконуючи завдання. Відвідайте культові локації, керуйте улюбленою технікою, обирайте з-поміж чотирьох класів солдатів, викликайте спеціальні підрозділи та станьте героєм."
 
 #. pl: ZESTAW {0:d}
 msgctxt "line_010474"
@@ -72405,7 +72406,7 @@ msgstr ""
 #. pl: TECHNICAL MODELLERS
 msgctxt "line_014465"
 msgid "TECHNICAL MODELLERS"
-msgstr ""
+msgstr "TECHNICAL MODELLERS"
 
 #. pl: ZNISZCZ
 msgctxt "line_014466"
@@ -72440,12 +72441,12 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie arcade.
 msgctxt "line_014472"
 msgid "Play 3 rounds of Arcade."
-msgstr ""
+msgstr "Зіграйте 3 раунди в режимі «Аркада»."
 
 #. pl: Rozegraj 3 rundy w trybie galaktycznego szturmu.
 msgctxt "line_014473"
 msgid "Play 3 rounds of Galactic Assault."
-msgstr ""
+msgstr "Зіграйте 3 раунди в режимі «Галактичний штурм»."
 
 #. pl: Pokonaj 30 wrogów.
 msgctxt "line_014474"

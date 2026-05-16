@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-13 20:12+0000\nLast-Translator: DeepL <noreply-mt-deepl@weblate.org>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-16 18:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -3706,7 +3706,7 @@ msgstr ""
 #. pl: Kapitan: Spójrz na mnie.
 msgctxt "line_000734"
 msgid "Captain: Look at me."
-msgstr ""
+msgstr "Капітан: Погляньте на мене."
 
 #. pl: UROCZYSTA SKRZYNIA PHASMY
 msgctxt "line_000735"
@@ -10055,7 +10055,7 @@ msgstr ""
 #. pl: IDEN VERSIO
 msgctxt "line_002002"
 msgid "IDEN VERSIO"
-msgstr ""
+msgstr "ІДЕН ВЕРСІО"
 
 #. pl: Leema Kai: Miałem wielką nadzieję na coś więcej.
 msgctxt "line_002003"
@@ -21220,7 +21220,7 @@ msgstr ""
 #. pl: Dawno, dawno temu w odległej¬galaktyce…
 msgctxt "line_004234"
 msgid "A long time ago in a galaxy far,¬far away...."
-msgstr ""
+msgstr "Колись давно¬у далекій-далекій галактиці…"
 
 #. pl: Shriv: Iden, tu Shriv.
 msgctxt "line_004235"
@@ -27407,7 +27407,7 @@ msgstr ""
 #. pl: Wkrótce po spotkaniu Hana Solo, Chewbacca i jego Corelliański przyjaciel zgłosili się do napadu organizowanego przez Tobiasa Becketta pracującego jako złodziej do wynajęcia. Poruszając się po kadłubie imperialnego transportowca pędzącego przez kaniony Vandoru, Chewie przedarł się przez zastępy szturmowców, aby zabezpieczyć ładunek i przygotować go do odbioru przez resztę szajki.
 msgctxt "line_005470"
 msgid "Shortly after meeting Han Solo, Chewbacca and his Corellian friend signed on to a heist orchestrated by thief-for-hire Tobias Beckett. Crawling across the exterior of an Imperial conveyex barreling through the canyons of Vandor, Chewie blasted his way through range troopers to liberate the cargo for their crew to pick up."
-msgstr ""
+msgstr "Невдовзі після зустрічі з Ганом Соло, Чубакка та його кореліанський друг долучилися до пограбування, організованого найманим злодієм Тобіасом Беккетом. Пробираючись обшивкою імперського конвеєкса, що мчав крізь каньйони Вандора, Чубакка з боєм прокладав собі шлях крізь штурмовиків-фронтовиків, щоб визволити вантаж для своєї команди."
 
 #. pl: TK77: Fala bombowców zniszczona. Bronić nadciągającej grupy.
 msgctxt "line_005471"
@@ -30511,7 +30511,7 @@ msgstr ""
 #. pl: Kapitan: Komandor Versio. Chyba jesteś ważna.
 msgctxt "line_006089"
 msgid "Captain: **Commander** Versio.  You must be important."
-msgstr ""
+msgstr "Капітан: **Командирка** Версіо.  Ви, мабуть, важлива. Ви, схоже, важливі."
 
 #. pl: Zdobądź 101 785 punktów myśliwcem przechwytującym.
 msgctxt "line_006090"
@@ -32681,7 +32681,7 @@ msgstr "ЛІКВІДУЙТЕ КОМАНДИРА"
 #. pl: Najwyższy Porządek uwięził grupę bojowników Ruchu Oporu na opuszczonej mineralnej planecie Crait. Zdesperowani obrońcy podejmują walkę na pokrytych solą pustkowiach, używając dostępnej im maszynerii w nadziei, że zapewnią sobie dość czasu, by obmyślić sposób ucieczki…
 msgctxt "line_006521"
 msgid "On the desolate mineral planet Crait, the First Order has trapped a group of Resistance fighters. Using the machinery at their disposal, the desperate survivors take to the salt covered wastes hoping to buy time until they can find a way to escape…."
-msgstr ""
+msgstr "На безлюдній мінеральній планеті Крейт Верховний Порядок заманив у пастку групу бійців Опору. Використовуючи техніку, що є в їхньому розпорядженні, зневірені вцілілі вирушають у вкриті сіллю пустки, сподіваючись виграти час, поки не знайдуть спосіб утекти…."
 
 #. pl: BROŃ CIĘŻKA W GOTOWOŚCI
 msgctxt "line_006522"
@@ -40967,7 +40967,7 @@ msgstr ""
 #. pl: Kapitan: Może porozmawiajmy,¬w końcu po to tu jestem.{0.000s:3.240s} ¬ {3.270s:4.340s} Ty masz kod aktywacji, a ja - możliwość, by ci pomóc.
 msgctxt "line_008178"
 msgid "Captain: So let's talk facts. That's what I'm here for. You have the activation code, I've got the ability to help you out. "
-msgstr ""
+msgstr "Капітан: Що ж, поговорімо — зрештою, я саме для цього тут. Ви маєте код активації, а я — можливість вам допомогти. "
 
 #. pl: Iden: Skoro tak mówisz.
 msgctxt "line_008179"
@@ -41727,7 +41727,7 @@ msgstr ""
 #. pl: NIEZŁOMNA WIARA
 msgctxt "line_008330"
 msgid "INVINCIBLE FAITH"
-msgstr ""
+msgstr "НЕЗЛАМНА ВІРА"
 
 #. pl: SPOJRZENIE
 msgctxt "line_008331"
@@ -56141,7 +56141,7 @@ msgstr ""
 #. pl: IDEN VERSIO
 msgctxt "line_011212"
 msgid "IDEN VERSIO"
-msgstr ""
+msgstr "ІДЕН ВЕРСІО"
 
 #. pl: Leia: Niech ktoś otworzy bramy pałacu!
 msgctxt "line_011213"
@@ -66831,7 +66831,7 @@ msgstr ""
 #. pl: REBELIANCKI KRĄŻOWNIK
 msgctxt "line_013350"
 msgid "REBEL SECURITY CRUISER"
-msgstr ""
+msgstr "ПОВСТАНСЬКИЙ КРЕЙСЕР"
 
 #. pl: Iden: Gdybyś mogła widzieć to, co ja…
 msgctxt "line_013351"
@@ -70921,7 +70921,7 @@ msgstr ""
 #. pl: Rebeliantka: Siły specjalne.
 msgctxt "line_014168"
 msgid "Rebel: She's special forces."
-msgstr ""
+msgstr "Повстанка: Вона — спецпризначенка."
 
 #. pl: Pokonaj 150 wrogów za pomocą IQA-11 na dowolnej mapie trybu online.
 msgctxt "line_014169"
@@ -71956,7 +71956,7 @@ msgstr ""
 #. pl: Rebeliantka: Kapitanie. Jest nieźle wyszkolona.{0.000s:3.220s} Dywersja. Infiltracja...{3.250s:5.360s} ¬ {5.390s:6.400s} Ewakuacja.
 msgctxt "line_014375"
 msgid "Rebel: Captain. She's highly trained. Deception. Infiltration. Extraction."
-msgstr ""
+msgstr "Повстанка: Капітане. Вона добре підготована. Дезінформація. Проникнення. Виведення."
 
 #. pl: HEROICZNA SKRZYNIA RUCHU OPORU
 msgctxt "line_014376"
@@ -78056,7 +78056,7 @@ msgstr ""
 #. pl: NIEZŁOMNA WIARA
 msgctxt "line_015595"
 msgid "INVINCIBLE FAITH"
-msgstr ""
+msgstr "НЕЗЛАМНА ВІРА"
 
 #. pl: WYPOSAŻ KARTY
 msgctxt "line_015596"
@@ -81237,7 +81237,7 @@ msgstr ""
 #. pl: Iden Versio
 msgctxt "line_016231"
 msgid "Iden Versio"
-msgstr ""
+msgstr "Іден Версіо"
 
 #. pl: Zwiększa szybkostrzelność broni głównej.
 msgctxt "line_016232"
@@ -81657,7 +81657,7 @@ msgstr ""
 #. pl: Kapitan: Więc daj mi ten kod.
 msgctxt "line_016315"
 msgid "Captain: Just give me the code."
-msgstr ""
+msgstr "Капітан: Просто назвіть код."
 
 #. pl: LEAD ENGAGEMENT DESIGNER
 msgctxt "line_016316"
@@ -95533,7 +95533,7 @@ msgstr ""
 #. pl: Kapitan: Oddział Inferno.
 msgctxt "line_019090"
 msgid "Captain: Inferno Squad."
-msgstr ""
+msgstr "Капітан: Загін «Інферно»."
 
 #. pl: Lando: Szybkie pytanie.{0.000s:1.290s} Czy oni zbudowali fabrykę w wulkanie?
 msgctxt "line_019091"
@@ -96798,7 +96798,7 @@ msgstr ""
 #. pl: Kapitan: Iden Versio.
 msgctxt "line_019343"
 msgid "Captain: Iden Versio. "
-msgstr ""
+msgstr "Капітан: Іден Версіо. "
 
 #. pl: Poznaj świat Battlefront™ II
 msgctxt "line_019344"

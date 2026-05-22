@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-16 18:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-22 19:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -115,7 +115,7 @@ msgstr "Скриня містить незвичайну зоряну картк
 #. pl: Wybierz, z którym centrum danych EA chcesz się łączyć. Zmiana może spowodować wzrost opóźnienia sieci.
 msgctxt "line_000023"
 msgid "Choose which EA data center to connect to. Can negatively affect network latency."
-msgstr "Оберіть, до якого центру обробки даних EA підключитися. Може негативно вплинути на затримку мережі."
+msgstr "Оберіть, до якого центру обробки даних EA під'єднатися. Може негативно вплинути на затримку мережі."
 
 #. pl: Iden: Oddział Inferno, skupić się wokół mnie.{0.000s:2.160s} Wrogi myśliwiec leci do generała Solo.
 msgctxt "line_000024"
@@ -314,7 +314,7 @@ msgstr "ГРАЙТЕ РАЗОМ З ІНШИМИ, ЩОБ ОТРИМАТИ ПОД�
 #. pl: Dysponujący znaczącą przewagą nad droidami bojowymi żołnierze-klony stanowili trzon Wielkiej Armii Republiki. Ci, powstali z kodu genetycznego łowcy nagród Jango Fetta, żołnierze stanowili kolejny krok w ewolucji wojny galaktycznej.¬¬212. Batalion Szturmowy zasłynął brawurowymi uderzeniami frontalnymi i przełamywaniem oblężeń, walcząc często u boku Legionu 501. Dowodzona przez generała Obi-Wana Kenobiego i komandora Cody'ego formacja wsławiła się w trakcie starć na Ryloth, Umbarze i Utapau.
 msgctxt "line_000061"
 msgid "Far superior to battle droids, clone troopers formed the backbone of the Grand Army of the Republic. Bred from the genetic template of the bounty hunter Jango Fett, they represented the latest evolution in galactic warfare.¬¬The 212th Attack Battalion was renowned for engaging in full-frontal assaults and their use of siegebreaking tactics, often serving alongside the 501st Legion. Under General Obi-Wan Kenobi and Commander Cody, the battalion saw success in battles on planets such as Ryloth, Umbara and Utapau."
-msgstr "Солдати-клони, що значно перевершували бойових дроїдів, становили основу Великої армії Республіки. Створені на основі генетичного шаблону Джанго Фетта, вони уособлювали найновіші досягнення в галактичній військовій справі.¬¬212-й штурмовий батальйон славився своїми наступами та тактикою прориву облоги, часто діючи разом із 501-м легіоном. Під командуванням генерала Обі-Вана Кенобі та командира Коді батальйон здобув перемоги в боях на таких планетах, як Рилот, Умбара та Утапау."
+msgstr "Солдати-клони, що значно перевершували бойових дроїдів, становили основу Великої армії Республіки. Створені на основі генетичного шаблону Джанго Фетта, вони уособлювали найновіші досягнення в галактичній військовій справі.¬¬212-й штурмовий батальйон славився своїми наступами та тактикою прориву облоги, часто діючи разом із 501-м легіоном. Під командуванням генерала Обі-Вана Кенобі та командира Коді батальйон здобув перемоги в боях на таких планетах, як Рілот, Умбара та Утапау."
 
 #. pl: Leia: Jeśli musisz, zniszcz najpierw zewnętrzne satelity.
 msgctxt "line_000062"
@@ -487,7 +487,7 @@ msgstr ""
 #. pl: Dotrzyj do hangaru
 msgctxt "line_000095"
 msgid "Reach The Hangar"
-msgstr "Дістаньтеся до ангару"
+msgstr "Дістаньтеся до ангара"
 
 #. pl: Ukończ wszystkie poziomy scenariusza bitewnego „Ratujmy skórę”.
 msgctxt "line_000096"
@@ -2271,7 +2271,7 @@ msgstr "СКРИНЯ «СИЛА ТЕМНОГО БОКУ»"
 #. pl: Zdobądź 122 721 punktów generałem Grievousem.
 msgctxt "line_000447"
 msgid "Earn 122721 score as General Grievous."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи генералом Ґрівусом."
 
 #. pl: Droid: (dźwięki droida)
 msgctxt "line_000448"
@@ -6106,7 +6106,7 @@ msgstr ""
 #. pl: Zdobądź 137 704 punktów oficerem.
 msgctxt "line_001213"
 msgid "Earn 137704 score as the Officer."
-msgstr ""
+msgstr "Заробіть 137704 очок, граючи офіцером."
 
 #. pl: Decyduje o procesach przetwarzania końcowego, takich jak rozmycie w ruchu, zniekształcenia, HDR oraz głębia pola.
 msgctxt "line_001214"
@@ -6856,7 +6856,7 @@ msgstr " EVENTS AND MEDIA"
 #. pl: Zdobądź 289 471 punktów oficerem.
 msgctxt "line_001363"
 msgid "Earn 289471 score as the Officer."
-msgstr ""
+msgstr "Заробіть 289471 очко, граючи офіцером."
 
 #. pl: Iden: Powiedz, że nic ci nie jest!
 msgctxt "line_001364"
@@ -7507,7 +7507,7 @@ msgstr ""
 #. pl: Dostęp sieciowy dla tej gry został ograniczony. Sprawdź adres e-mail powiązany z twoim kontem EA i zapoznaj się z dodatkowymi szczegółami na stronie ea.com/unable-to-connect.
 msgctxt "line_001493"
 msgid "We have restricted your online access for this game. Check your email associated with your EA account and see ea.com/unable-to-connect for more information."
-msgstr ""
+msgstr "Доступ до цієї гри в онлайн режимі обмежено. Перевірте електронну пошту, пов'язану з вашим обліковим записом EA, та перейдіть на сторінку ea.com/unable-to-connect, щоб отримати додаткову інформацію."
 
 #. pl: Luke: Odsłonię terminal.
 msgctxt "line_001494"
@@ -7637,7 +7637,7 @@ msgstr ""
 #. pl: Podstawowa, domyślna wieżyczka blasterowa. Namierza wrogich żołnierzy i pojazdy. Naprawiasz ją, stając obok. Można ją zdetonować ręcznie.
 msgctxt "line_001519"
 msgid "Your basic default Blaster Turret. Locks on to enemy soldiers and vehicles. Is repaired by staying close to it. Can be manually detonated."
-msgstr ""
+msgstr "Ваша базова стандартна бластерна турель. Автоматично наводиться на ворожих солдатів та техніку. Ремонтується, якщо стояти поруч. Можна підірвати вручну."
 
 #. pl: {0:s} WYMAGA POZ. {1:d}
 msgctxt "line_001520"
@@ -7757,7 +7757,7 @@ msgstr ""
 #. pl: Zdobądź 641 765 punktów oficerem.
 msgctxt "line_001543"
 msgid "Earn 641765 score as the Officer."
-msgstr ""
+msgstr "Заробіть 641765 очок, граючи офіцером."
 
 #. pl: HYBRYDOWA HIPERRAKIETA
 msgctxt "line_001544"
@@ -8673,7 +8673,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Chewbaccą.
 msgctxt "line_001726"
 msgid "Earn 122721 score as Chewbacca."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Чубаккою."
 
 #. pl: Możesz wymienić 40 części na 1 punkt umiejętności dla wybranej postaci.
 msgctxt "line_001727"
@@ -9485,7 +9485,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Chewbaccą.
 msgctxt "line_001888"
 msgid "Earn 389809 score as Chewbacca."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Чубаккою."
 
 #. pl: Iden: Okej, zajmę się nim. Ty wracaj bezpiecznie na Corvusa.
 msgctxt "line_001889"
@@ -10315,7 +10315,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Hanem Solo.
 msgctxt "line_002054"
 msgid "Earn 122721 score as Han Solo."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Ганом Соло."
 
 #. pl: COMMUNITY ENGAGEMENT SPECIALIST
 msgctxt "line_002055"
@@ -11160,7 +11160,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Hanem Solo.
 msgctxt "line_002223"
 msgid "Earn 389809 score as Han Solo."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Ганом Соло."
 
 #. pl: FIRST PARTY RELATIONS
 msgctxt "line_002224"
@@ -11995,7 +11995,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Lando Calrissianem.
 msgctxt "line_002390"
 msgid "Earn 122721 score as Lando Calrissian."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Лендо Калріссіаном."
 
 #. pl: OTĘPIAJĄCA MANIPULACJA Obi-Wana Kenobiego uniemożliwi przeciwnikom stosowanie uników.
 msgctxt "line_002391"
@@ -13056,7 +13056,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Lando Calrissianem.
 msgctxt "line_002602"
 msgid "Earn 389809 score as Lando Calrissian."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Лендо Калріссіаном."
 
 #. pl: STACJA KONTROLI
 msgctxt "line_002603"
@@ -13851,12 +13851,12 @@ msgstr ""
 #. pl: Ulepszona wersja GRANATU UDAROWEGO o większym polu rażenia i krótszym czasie odnawiania.
 msgctxt "line_002761"
 msgid "An improved Impact Grenade, with increased blast radius and shorter recharge time."
-msgstr ""
+msgstr "Удосконалена ударна граната зі збільшеним радіусом вибуху та скороченим часом перезарядки."
 
 #. pl: SOKÓŁ MILLENIUM
 msgctxt "line_002762"
 msgid "MILLENNIUM FALCON"
-msgstr ""
+msgstr "СОКІЛ ТИСЯЧОЛІТТЯ"
 
 #. pl: Del: Ja… się… oprę…
 msgctxt "line_002763"
@@ -13866,12 +13866,12 @@ msgstr ""
 #. pl: SENIOR SOCIAL CONTENT SPECIALIST
 msgctxt "line_002764"
 msgid " SENIOR SOCIAL CONTENT SPECIALIST"
-msgstr ""
+msgstr " SENIOR SOCIAL CONTENT SPECIALIST"
 
 #. pl: Zdobądź 122 721 punktów Leią Organą.
 msgctxt "line_002765"
 msgid "Earn 122721 score as Leia Organa."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Леєю Орґаною."
 
 #. pl: Ryzykant 4: Pomogę ci z następnym.
 msgctxt "line_002766"
@@ -14252,7 +14252,7 @@ msgstr ""
 #. pl: Im mniejsza odległość, tym zakłócacz jonowy namierza szybciej.
 msgctxt "line_002841"
 msgid "The Ion Disruptor locks on faster the closer you are."
-msgstr ""
+msgstr "Чим ближче ви до цілі, тим швидше іонний дезінтегратор наводиться на ціль."
 
 #. pl: Salwa z zakłócacza jonowego z małej odległości zatrzyma MTT na pewien czas.
 msgctxt "line_002842"
@@ -14272,7 +14272,7 @@ msgstr ""
 #. pl: ZNEUTRALIZUJCIE STANOWISKA DOWODZENIA REPUBLIKI
 msgctxt "line_002845"
 msgid "NEUTRALIZE THE REPUBLIC COMMAND POSTS"
-msgstr ""
+msgstr "НЕЙТРАЛІЗУЙТЕ КОМАНДНІ ПУНКТИ РЕСПУБЛІКИ"
 
 #. pl: Zay: Nie. Co ty w ogóle mówisz? Nie.
 msgctxt "line_002846"
@@ -14315,9 +14315,10 @@ msgid "Crack that hull, boys! Go!"
 msgstr ""
 
 #. pl: VICE SENIOR DIRECTORS BUSINESS DEVELOPMENT
+#, fuzzy
 msgctxt "line_002854"
 msgid "VICE SENIOR DIRECTORS BUSINESS DEVELOPMENT"
-msgstr ""
+msgstr "VICE SENIOR DIRECTORS BUSINESS DEVELOPMENT"
 
 #. pl: Maz: „Zawsze zacieram ślady”.¬Tak mówiłeś!{0.000s:2.680s} A teraz nad moim jeziorem latają statki!
 msgctxt "line_002855"
@@ -14327,7 +14328,7 @@ msgstr ""
 #. pl: Podłącz inny kontroler dla drugiego gracza.
 msgctxt "line_002856"
 msgid "Please connect another controller for the second player."
-msgstr ""
+msgstr "Будь ласка, під'єднайте ще один контролер для другого гравця."
 
 #. pl: Przekalibrowanie blastera umożliwiające miotanie pocisków z trzylufowej wyrzutni, kosztem szybszego nagrzewania się broni.
 msgctxt "line_002857"
@@ -14360,9 +14361,10 @@ msgid "Play as the Millennium Falcon for 10 minutes."
 msgstr ""
 
 #. pl: VICE PRESIDENT
+#, fuzzy
 msgctxt "line_002863"
 msgid "VICE PRESIDENT"
-msgstr ""
+msgstr "VICE PRESIDENT"
 
 #. pl: PAD KIERUNKOWY W GÓRĘ
 msgctxt "line_002864"
@@ -14405,9 +14407,10 @@ msgid "HIGH"
 msgstr ""
 
 #. pl: UPRISE STUDIO OFFICE ASSISTANT
+#, fuzzy
 msgctxt "line_002872"
 msgid " UPRISE STUDIO OFFICE ASSISTANT"
-msgstr ""
+msgstr " UPRISE STUDIO OFFICE ASSISTANT"
 
 #. pl: ZNISZCZ
 msgctxt "line_002873"
@@ -14605,9 +14608,10 @@ msgid "East atrium is nearly under control."
 msgstr ""
 
 #. pl: DISNEY LOCALIZATION
+#, fuzzy
 msgctxt "line_002912"
 msgid "DISNEY LOCALIZATION"
-msgstr ""
+msgstr "DISNEY LOCALIZATION"
 
 #. pl: Promień obszaru działania BACTOWEGO WSPARCIA jest zwiększony, ale odnawianie tej zdolności trwa dłużej.
 msgctxt "line_002913"
@@ -14865,9 +14869,10 @@ msgid "{0:d}"
 msgstr ""
 
 #. pl: **{0:d}**
+#, fuzzy
 msgctxt "line_002964"
 msgid "**{0:d}**"
-msgstr ""
+msgstr "**{0:d}**"
 
 #. pl: Del: Nie mogę…
 msgctxt "line_002965"
@@ -14875,59 +14880,70 @@ msgid "Del: I can't..."
 msgstr ""
 
 #. pl: CT-2504
+#, fuzzy
 msgctxt "line_002966"
 msgid "CT-2504"
-msgstr ""
+msgstr "CT-2504"
 
 #. pl: CT-1710
+#, fuzzy
 msgctxt "line_002967"
 msgid "CT-1710"
-msgstr ""
+msgstr "CT-1710"
 
 #. pl: CT-2005
+#, fuzzy
 msgctxt "line_002968"
 msgid "CT-2005"
-msgstr ""
+msgstr "CT-2005"
 
 #. pl: CT-2711
+#, fuzzy
 msgctxt "line_002969"
 msgid "CT-2711"
-msgstr ""
+msgstr "CT-2711"
 
 #. pl: CT-1509
+#, fuzzy
 msgctxt "line_002970"
 msgid "CT-1509"
-msgstr ""
+msgstr "CT-1509"
 
 #. pl: CT-1410
+#, fuzzy
 msgctxt "line_002971"
 msgid "CT-1410"
-msgstr ""
+msgstr "CT-1410"
 
 #. pl: CT-2901
+#, fuzzy
 msgctxt "line_002972"
 msgid "CT-2901"
-msgstr ""
+msgstr "CT-2901"
 
 #. pl: CT-2911
+#, fuzzy
 msgctxt "line_002973"
 msgid "CT-2911"
-msgstr ""
+msgstr "CT-2911"
 
 #. pl: CT-2805
+#, fuzzy
 msgctxt "line_002974"
 msgid "CT-2805"
-msgstr ""
+msgstr "CT-2805"
 
 #. pl: CT-2602
+#, fuzzy
 msgctxt "line_002975"
 msgid "CT-2602"
-msgstr ""
+msgstr "CT-2602"
 
 #. pl: CT-2312
+#, fuzzy
 msgctxt "line_002976"
 msgid "CT-2312"
-msgstr ""
+msgstr "CT-2312"
 
 #. pl: Brońcie mostku venatora
 msgctxt "line_002977"
@@ -14945,9 +14961,10 @@ msgid "PROTECT THE VENATOR'S ENGINES"
 msgstr ""
 
 #. pl: INTERNATIONAL SALES
+#, fuzzy
 msgctxt "line_002980"
 msgid "INTERNATIONAL SALES"
-msgstr ""
+msgstr "INTERNATIONAL SALES"
 
 #. pl: Del: Dość!
 msgctxt "line_002981"
@@ -14992,12 +15009,12 @@ msgstr ""
 #. pl: Wyeliminuj drużyny Rebeliantów
 msgctxt "line_002989"
 msgid "Eliminate Rebel Squads"
-msgstr ""
+msgstr "Ліквідуйте загони повстанців"
 
 #. pl: Wyeliminuj wsparcie Rebeliantów
 msgctxt "line_002990"
 msgid "Eliminate Rebel Reinforcements"
-msgstr ""
+msgstr "Ліквідуйте підкріплення повстанців"
 
 #. pl: Dotrzyj do agenta Meeko
 msgctxt "line_002991"
@@ -15032,12 +15049,12 @@ msgstr ""
 #. pl: Wyeliminuj Rebeliantów
 msgctxt "line_002997"
 msgid "Eliminate Rebels"
-msgstr ""
+msgstr "Ліквідуйте повстанців"
 
 #. pl: Podążaj za agentem Meeko
 msgctxt "line_002998"
 msgid "Follow Agent Meeko"
-msgstr ""
+msgstr "Слідуйте за агентом Міко"
 
 #. pl: Obroń Corvusa
 msgctxt "line_002999"
@@ -15052,12 +15069,13 @@ msgstr ""
 #. pl: Pokonaj pozostałe myśliwce
 msgctxt "line_003001"
 msgid "Defeat Remaining Starfighters"
-msgstr ""
+msgstr "Знищте решту винищувачів"
 
 #. pl: GPR SUBMISSIONS COORDINATORS
+#, fuzzy
 msgctxt "line_003002"
 msgid " GPR SUBMISSIONS COORDINATORS"
-msgstr ""
+msgstr " GPR SUBMISSIONS COORDINATORS"
 
 #. pl: ZWIĘKSZENIE LIMITU CIEPŁA
 msgctxt "line_003003"
@@ -15077,37 +15095,39 @@ msgstr ""
 #. pl: NIE POZWÓLCIE SEPARATYSTOM ZDOBYĆ PRÓBEK DNA
 msgctxt "line_003006"
 msgid "STOP THE SEPARATISTS FROM OBTAINING THE DNA SAMPLES"
-msgstr ""
+msgstr "НЕ ДАЙТЕ СЕПАРАТИСТАМ ЗАВОЛОДІТИ ЗРАЗКАМИ ДНК"
 
 #. pl: ZDOBĄDŹ PRÓBKI DNA KLONÓW
 msgctxt "line_003007"
 msgid "OBTAIN CLONE DNA SAMPLES"
-msgstr ""
+msgstr "Отримайте зразки ДНК клонів"
 
 #. pl: SENIOR DIRECTOR OPERATIONS AND REPORTING
+#, fuzzy
 msgctxt "line_003008"
 msgid " SENIOR DIRECTOR OPERATIONS AND REPORTING"
-msgstr ""
+msgstr " SENIOR DIRECTOR OPERATIONS AND REPORTING"
 
 #. pl: SHAPES MODELLER SUPERVISOR
+#, fuzzy
 msgctxt "line_003009"
 msgid " SHAPES MODELLER SUPERVISOR"
-msgstr ""
+msgstr " SHAPES MODELLER SUPERVISOR"
 
 #. pl: Przez 30 minut graj jako Chewbacca.
 msgctxt "line_003010"
 msgid "Play as Chewbacca for 30 minutes."
-msgstr ""
+msgstr "Грайте за Чубакку протягом 30 хвилин."
 
 #. pl: Pocisk samonaprowadzający
 msgctxt "line_003011"
 msgid "Auto-tracking missile"
-msgstr ""
+msgstr "Самонавідна ракета"
 
 #. pl: Przytrzymaj %%LOCKON%%, aby odbijać strzały z blasterów.
 msgctxt "line_003012"
 msgid "Hold %%LOCKON%% to reflect blaster fire."
-msgstr ""
+msgstr "Утримуйте %%LOCKON%%, щоб відбивати постріли з бластерів."
 
 #. pl: VIDEO LOCALIZATION QUALITY ASSURANCE SPECIALIST
 msgctxt "line_003013"
@@ -15215,9 +15235,10 @@ msgid "Regenerates health - Trait increased with kills or hero damage, effect ap
 msgstr ""
 
 #. pl: EXPERIENCE AND OPTIMIZATION CHANGE MANAGER
+#, fuzzy
 msgctxt "line_003034"
 msgid "EXPERIENCE AND OPTIMIZATION CHANGE MANAGER"
-msgstr ""
+msgstr "EXPERIENCE AND OPTIMIZATION CHANGE MANAGER"
 
 #. pl: RUCH / RUCH NA BOKI
 msgctxt "line_003035"
@@ -32219,7 +32240,7 @@ msgstr ""
 #. pl: Zdobądź 5000 punktów jako dowolny żołnierz.
 msgctxt "line_006429"
 msgid "Earn 5000 score as any Trooper."
-msgstr ""
+msgstr "Заробіть 5000 очок, граючи за будь-якого солдата."
 
 #. pl: ZDROWIE ZA ELIMINACJĘ
 msgctxt "line_006430"
@@ -36021,7 +36042,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Leią Organą.
 msgctxt "line_007189"
 msgid "Earn 389809 score as Leia Organa."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Леєю Орґаною."
 
 #. pl: Iden: Dio! Nic ci nie jest?
 msgctxt "line_007190"
@@ -36796,7 +36817,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Lukiem Skywalkerem.
 msgctxt "line_007344"
 msgid "Earn 122721 score as Luke Skywalker."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Люком Скайвокером."
 
 #. pl: Iden: Dio nie działa! Nie ma szans na naprawy!
 msgctxt "line_007345"
@@ -37561,7 +37582,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Lukiem Skywalkerem.
 msgctxt "line_007497"
 msgid "Earn 389809 score as Luke Skywalker."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Люком Скайвокером."
 
 #. pl: Iden: Moje pole padło!
 msgctxt "line_007498"
@@ -39220,9 +39241,10 @@ msgid "ENGINE UPGRADE"
 msgstr ""
 
 #. pl: Zdobądź 389 809 punktów Rey.
+#, fuzzy
 msgctxt "line_007829"
 msgid "Earn 389809 score as Rey."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Рей."
 
 #. pl: Iden: Niech to, straciłam pole ochronne!
 msgctxt "line_007830"
@@ -40017,7 +40039,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Yodą.
 msgctxt "line_007988"
 msgid "Earn 122721 score as Yoda."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Йодою."
 
 #. pl: Iden: Awaria uzbrojenia!
 msgctxt "line_007989"
@@ -40947,7 +40969,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Yodą.
 msgctxt "line_008174"
 msgid "Earn 389809 score as Yoda."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Йодою."
 
 #. pl: Iden: Del, uważaj na skrzydła. Te szczątki są niebezpieczne.
 msgctxt "line_008175"
@@ -41857,7 +41879,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Iden Versio.
 msgctxt "line_008356"
 msgid "Earn 122721 score as Iden Versio."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Іден Версіо."
 
 #. pl: PRECYZJA MYSZY W MYŚLIWCU
 msgctxt "line_008357"
@@ -42612,7 +42634,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Iden Versio.
 msgctxt "line_008507"
 msgid "Earn 389809 score as Iden Versio."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Іден Версіо."
 
 #. pl: SKRZYNIA WALUTOWA BOHATERA
 msgctxt "line_008508"
@@ -43562,7 +43584,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Bosskiem.
 msgctxt "line_008697"
 msgid "Earn 122721 score as Bossk."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Боском."
 
 #. pl: NEMEZIS
 msgctxt "line_008698"
@@ -50689,7 +50711,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów generałem Grievousem.
 msgctxt "line_010122"
 msgid "Earn 389809 score as General Grievous."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи генералом Ґрівусом."
 
 #. pl: Podstawowy obszar działania HEROICZNEJ SIŁY zostaje zwiększony.
 msgctxt "line_010123"
@@ -55946,7 +55968,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów droidem BB-8.
 msgctxt "line_011173"
 msgid "Earn 122721 score as BB-8."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи дроїдом BB-8."
 
 #. pl: Przez 10 minut graj bombowcem.
 msgctxt "line_011174"
@@ -56746,7 +56768,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów droidem BB-8.
 msgctxt "line_011333"
 msgid "Earn 389809 score as BB-8."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи дроїдом BB-8."
 
 #. pl: Pokonaj bombowcem 10 wrogów.
 msgctxt "line_011334"
@@ -60921,7 +60943,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Anakinem Skywalkerem.
 msgctxt "line_012168"
 msgid "Earn 122721 score as Anakin Skywalker."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Енакіном Скайвокером."
 
 #. pl: DOŚWIADCZONY ANAKIN SKYWALKER
 msgctxt "line_012169"
@@ -61041,7 +61063,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów droidem BB-9E.
 msgctxt "line_012192"
 msgid "Earn 122721 score as BB-9E."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи дроїдом BB-9E."
 
 #. pl: ARCADE
 msgctxt "line_012193"
@@ -61131,7 +61153,7 @@ msgstr ""
 #. pl: Zdobądź 88 768 punktów droidem BB-8.
 msgctxt "line_012210"
 msgid "Earn 88768 score as BB-8."
-msgstr ""
+msgstr "Заробіть 88768 очок, граючи дроїдом BB-8."
 
 #. pl: EKSCYTACJA
 msgctxt "line_012211"
@@ -61706,7 +61728,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Anakinem Skywalkerem.
 msgctxt "line_012325"
 msgid "Earn 389809 score as Anakin Skywalker."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Енакіном Скайвокером."
 
 #. pl: PROJECT COORDINATOR PLANNING AND ENGAGEMENT
 msgctxt "line_012326"
@@ -61911,7 +61933,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów droidem BB-9E.
 msgctxt "line_012366"
 msgid "Earn 389809 score as BB-9E."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи дроїдом BB-9E."
 
 #. pl: Ulepszona rzutka skanująca, która jest aktywna dłużej i ujawnia pozycje wroga.
 msgctxt "line_012367"
@@ -62116,7 +62138,7 @@ msgstr ""
 #. pl: Zdobądź 277 233 punktów droidem BB-8.
 msgctxt "line_012407"
 msgid "Earn 277233 score as BB-8."
-msgstr ""
+msgstr "Заробіть 277233 очок, граючи дроїдом BB-8."
 
 #. pl: KCIUK W GÓRĘ
 msgctxt "line_012408"
@@ -62846,7 +62868,7 @@ msgstr ""
 #. pl: Zdobądź 88 768 punktów droidem BB-9E.
 msgctxt "line_012553"
 msgid "Earn 88768 score as BB-9E."
-msgstr ""
+msgstr "Заробіть 88768 очок, граючи дроїдом BB-9E."
 
 #. pl: SZKOLENIE STRZELECKIE – DL-18
 msgctxt "line_012554"
@@ -62971,7 +62993,7 @@ msgstr ""
 #. pl: Zdobądź 511 540 punktów droidem BB-8.
 msgctxt "line_012578"
 msgid "Earn 511540 score as BB-8."
-msgstr ""
+msgstr "Заробіть 511540 очок, граючи дроїдом BB-8."
 
 #. pl: Skrzynia zawierająca 1 rzadką oraz 3 niepospolite gwiezdne karty żołnierzy, myśliwców, jednostek specjalnych lub bohaterów.
 msgctxt "line_012579"
@@ -63836,7 +63858,7 @@ msgstr ""
 #. pl: Zdobądź 277 233 punktów droidem BB-9E.
 msgctxt "line_012751"
 msgid "Earn 277233 score as BB-9E."
-msgstr ""
+msgstr "Заробіть 277233 очок, граючи дроїдом BB-9E."
 
 #. pl: EKRAN {0:d}
 msgctxt "line_012752"
@@ -63931,7 +63953,7 @@ msgstr ""
 #. pl: Zdobądź 755 710 punktów droidem BB-8.
 msgctxt "line_012770"
 msgid "Earn 755710 score as BB-8."
-msgstr ""
+msgstr "Заробіть 755710 очок, граючи дроїдом BB-8."
 
 #. pl: Skraca czas potrzebny do namierzenia wroga rakietą.
 msgctxt "line_012771"
@@ -64646,7 +64668,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Bosskiem.
 msgctxt "line_012913"
 msgid "Earn 389809 score as Bossk."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Боском."
 
 #. pl: Hask: Tak, pani komandor.
 msgctxt "line_012914"
@@ -64831,7 +64853,7 @@ msgstr ""
 #. pl: Zdobądź 511 540 punktów droidem BB-9E.
 msgctxt "line_012950"
 msgid "Earn 511540 score as BB-9E."
-msgstr ""
+msgstr "Заробіть 511540 очок, граючи BB-9E."
 
 #. pl: BACZNOŚĆ
 msgctxt "line_012951"
@@ -65496,7 +65518,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Darthem Vaderem.
 msgctxt "line_013083"
 msgid "Earn 122721 score as Darth Vader."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Дартом Вейдером."
 
 #. pl: Shriv: Niezły strzał, Versio.
 msgctxt "line_013084"
@@ -65746,7 +65768,7 @@ msgstr ""
 #. pl: Zdobądź 755 710 punktów droidem BB-9E.
 msgctxt "line_013133"
 msgid "Earn 755710 score as BB-9E."
-msgstr ""
+msgstr "Заробіть 755710 очок, граючи BB-9E."
 
 #. pl: CZAS AKTYWNOŚCI
 msgctxt "line_013134"
@@ -65771,7 +65793,7 @@ msgstr ""
 #. pl: Zdobądź 5000 punktów w trybie natarcia myśliwców.
 msgctxt "line_013138"
 msgid "Earn 5000 score in Starfighter Assault."
-msgstr ""
+msgstr "Заробіть 5000 очок, граючи у режимі «Атака винищувачів»."
 
 #. pl: BROŃCIE KORWET
 msgctxt "line_013139"
@@ -66401,7 +66423,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Darthem Vaderem.
 msgctxt "line_013264"
 msgid "Earn 389809 score as Darth Vader."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Дартом Вейдером."
 
 #. pl: Del: Nie, nie, nie! To nie wystarczy. Lepsze to…!
 msgctxt "line_013265"
@@ -67386,7 +67408,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Kylo Renem.
 msgctxt "line_013461"
 msgid "Earn 122721 score as Kylo Ren."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Кайлом Реном."
 
 #. pl: SKANOWANIE
 msgctxt "line_013462"
@@ -68591,7 +68613,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Kylo Renem.
 msgctxt "line_013702"
 msgid "Earn 389809 score as Kylo Ren."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Кайлом Реном."
 
 #. pl: Iden: Zdobądź od admirała współrzędne spotkania.
 msgctxt "line_013703"
@@ -69331,7 +69353,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Imperatorem Palpatinem.
 msgctxt "line_013850"
 msgid "Earn 122721 score as Emperor Palpatine."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Імператором Палпатіном."
 
 #. pl: Ewoki mogą tropić swoją zwierzynę za pomocą INSTYNKTÓW ŁOWIECKICH.
 msgctxt "line_013851"
@@ -70151,7 +70173,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Imperatorem Palpatinem.
 msgctxt "line_014014"
 msgid "Earn 389809 score as Emperor Palpatine."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Імператором Палпатіном."
 
 #. pl: Iden: Są jakieś imperialne?
 msgctxt "line_014015"
@@ -71216,7 +71238,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Darthem Maulem.
 msgctxt "line_014227"
 msgid "Earn 122721 score as Darth Maul."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Дартом Молом."
 
 #. pl: ID_SC_VEHICLE_STARCARD_TIEADVANCED_FOCUSED_ANGER_EFFECTVVVVVVVVVV
 msgctxt "line_014228"
@@ -72161,7 +72183,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Darthem Maulem.
 msgctxt "line_014416"
 msgid "Earn 389809 score as Darth Maul."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Дартом Молом."
 
 #. pl: CIOS Z DOSKOKU można wykonać 3 razy, lecz wydłuża to czas odnawiania zdolności o {0:s}.
 msgctxt "line_014417"
@@ -73171,7 +73193,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Finnem.
 msgctxt "line_014618"
 msgid "Earn 122721 score as Finn."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Фінном."
 
 #. pl: Szturmowiec: Gdzie cię wysyłają?
 msgctxt "line_014619"
@@ -75766,7 +75788,7 @@ msgstr ""
 #. pl: Zdobądź 137 704 punktów żołnierzem szturmowym.
 msgctxt "line_015137"
 msgid "Earn 137704 score as the Assault."
-msgstr ""
+msgstr "Заробіть 137704 очок, граючи штурмовиком."
 
 #. pl: Animowany kwadrat Lua
 msgctxt "line_015138"
@@ -76521,7 +76543,7 @@ msgstr ""
 #. pl: Zdobądź 289 471 punktów żołnierzem szturmowym.
 msgctxt "line_015288"
 msgid "Earn 289471 score as the Assault."
-msgstr ""
+msgstr "Заробіть 289471 очко, граючи штурмовиком."
 
 #. pl: AQUALISHANKA
 msgctxt "line_015289"
@@ -77491,7 +77513,7 @@ msgstr ""
 #. pl: Zdobądź 641 765 punktów żołnierzem szturmowym.
 msgctxt "line_015482"
 msgid "Earn 641765 score as the Assault."
-msgstr ""
+msgstr "Заробіть 641765 очок, граючи штурмовиком."
 
 #. pl: Raythe: Dwa statki wciąż przeszukują stację. ¬Powstrzymajcie je, nim zdołają się wedrzeć na mój okręt!
 msgctxt "line_015483"
@@ -78491,7 +78513,7 @@ msgstr ""
 #. pl: Zdobądź 137 704 punktów specjalistą.
 msgctxt "line_015682"
 msgid "Earn 137704 score as the Specialist."
-msgstr ""
+msgstr "Заробіть 137704 очок, граючи спеціалістом."
 
 #. pl: DIGITAL MERCHANDISING LEADS
 msgctxt "line_015683"
@@ -79346,7 +79368,7 @@ msgstr ""
 #. pl: Zdobądź 289 471 punktów specjalistą.
 msgctxt "line_015853"
 msgid "Earn 289471 score as the Specialist."
-msgstr ""
+msgstr "Заробіть 289471 очко, граючи спеціалістом."
 
 #. pl: W walce Chewbacca ostrzeliwuje przeciwników kuszą energetyczną oraz wykorzystuje swoją siłę fizyczną, by okładać pięściami i miażdżyć pobliskie cele. Jest wystarczająco wytrzymały, by znieść nawet najpotężniejsze ataki.
 msgctxt "line_015854"
@@ -80322,7 +80344,7 @@ msgstr ""
 #. pl: Zdobądź 641 765 punktów specjalistą.
 msgctxt "line_016048"
 msgid "Earn 641765 score as the Specialist."
-msgstr ""
+msgstr "Заробіть 641765 очок, граючи спеціалістом."
 
 #. pl: DEBUGOWANIE ZDOLNOŚCI
 msgctxt "line_016049"
@@ -81097,7 +81119,7 @@ msgstr ""
 #. pl: Zdobądź 137 704 punktów ciężkim strzelcem.
 msgctxt "line_016203"
 msgid "Earn 137704 score as the Heavy."
-msgstr ""
+msgstr "Заробіть 137704 очок, граючи важким солдатом."
 
 #. pl: Ukończ scenariusz bitwy „Kończ to, co zacząłeś”.
 msgctxt "line_016204"
@@ -81882,7 +81904,7 @@ msgstr ""
 #. pl: Zdobądź 289 471 punktów ciężkim strzelcem.
 msgctxt "line_016360"
 msgid "Earn 289471 score as the Heavy."
-msgstr ""
+msgstr "Заробіть 289471 очко, граючи важким солдатом."
 
 #. pl: Klient: Świetnie.
 msgctxt "line_016361"
@@ -82792,7 +82814,7 @@ msgstr ""
 #. pl: Zdobądź 641 765 punktów ciężkim strzelcem.
 msgctxt "line_016542"
 msgid "Earn 641765 score as the Heavy."
-msgstr ""
+msgstr "Заробіть 641765 очок, граючи важким солдатом."
 
 #. pl: LORNETKA TERMOWIZYJNA
 msgctxt "line_016543"
@@ -86520,9 +86542,10 @@ msgid "LIVE QA PROJECT LEAD"
 msgstr ""
 
 #. pl: Zdobądź 122 721 punktów Obi-Wanem Kenobim.
+#, fuzzy
 msgctxt "line_017288"
 msgid "Earn 122721 score as Obi-Wan Kenobi"
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Обі-Ваном Кенобі."
 
 #. pl: Del: Chciałbym podróżować. Zwiedzić galaktykę. ¬Lothal, Mykapo…
 msgctxt "line_017289"
@@ -87220,9 +87243,10 @@ msgid "Iden: They'll do everything they can to keep us grounded!"
 msgstr ""
 
 #. pl: Zdobądź 389 809 punktów Obi-Wanem Kenobim.
+#, fuzzy
 msgctxt "line_017428"
 msgid "Earn 389809 score as Obi-Wan Kenobi"
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Обі-Ваном Кенобі."
 
 #. pl: Iden: Lecę!
 msgctxt "line_017429"
@@ -90780,9 +90804,10 @@ msgid "Iden: **Corvus**, lower the ramp, get everyone on board."
 msgstr ""
 
 #. pl: Zdobądź 122 721 punktów hrabią Dooku.
+#, fuzzy
 msgctxt "line_018140"
 msgid "Earn 122721 score as Count Dooku"
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи графом Дуку."
 
 #. pl: INTERNATIONAL PUBLISHING ORGANIZATION COMMUNICATIONS
 msgctxt "line_018141"
@@ -91795,9 +91820,10 @@ msgid "Lando: Shriv, did you find us a ride?"
 msgstr ""
 
 #. pl: Zdobądź 389 809 punktów hrabią Dooku.
+#, fuzzy
 msgctxt "line_018343"
 msgid "Earn 389809 score as Count Dooku"
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи графом Дуку."
 
 #. pl: Iden: Mówiłam ci, nie jesteśmy wrogami. Już nie.
 msgctxt "line_018344"
@@ -94033,7 +94059,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Finnem.
 msgctxt "line_018790"
 msgid "Earn 389809 score as Finn."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Фінном."
 
 #. pl: WORLDWIDE CUSTOMER EXPERIENCE
 msgctxt "line_018791"
@@ -94868,7 +94894,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Phasmą.
 msgctxt "line_018957"
 msgid "Earn 122721 score as Phasma."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Фазмою."
 
 #. pl: POZOSTAŁE: {0:d}
 msgctxt "line_018958"
@@ -95698,7 +95724,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Phasmą.
 msgctxt "line_019123"
 msgid "Earn 389809 score as Phasma."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Фазмою."
 
 #. pl: Wyczyny statków bohaterów
 msgctxt "line_019124"
@@ -96678,7 +96704,7 @@ msgstr ""
 #. pl: Zdobądź 122 721 punktów Bobą Fettem.
 msgctxt "line_019319"
 msgid "Earn 122721 score as Boba Fett."
-msgstr ""
+msgstr "Заробіть 122721 очко, граючи Бобою Феттом."
 
 #. pl: 1.4 FD P-TOWER
 msgctxt "line_019320"
@@ -97443,7 +97469,7 @@ msgstr ""
 #. pl: Zdobądź 389 809 punktów Bobą Fettem.
 msgctxt "line_019472"
 msgid "Earn 389809 score as Boba Fett."
-msgstr ""
+msgstr "Заробіть 389809 очок, граючи Бобою Феттом."
 
 #. pl: ODBLOKOWUJE TWORZENIE HEROICZNYCH KART
 msgctxt "line_019473"

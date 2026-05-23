@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-22 19:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-23 20:31+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -14789,9 +14789,10 @@ msgid "This crate contains 1 Epic Hero Star Card, as well as 3 Uncommon Star Car
 msgstr ""
 
 #. pl: TALENT ACQUISITION
+#, fuzzy
 msgctxt "line_002948"
 msgid " TALENT ACQUISITION"
-msgstr ""
+msgstr " TALENT ACQUISITION"
 
 #. pl: Iden: Okej, Dio znalazł coś przy silnikach! Na tyły okrętu!
 msgctxt "line_002949"
@@ -14804,9 +14805,10 @@ msgid "(PASSIVE TRAIT)"
 msgstr ""
 
 #. pl: 200 ZABIĆ JAKO SPECJALISTA
+#, fuzzy
 msgctxt "line_002951"
 msgid "200 SPECIALIST KILLS"
-msgstr ""
+msgstr "200 ВБИВСТВ СПЕЦІАЛІСТОМ"
 
 #. pl: Del: Przestań…
 msgctxt "line_002952"
@@ -14854,9 +14856,10 @@ msgid "CREDITS"
 msgstr "КРЕДИТИ"
 
 #. pl: QUALITY PROJECT MANAGEMENT OFFICE
+#, fuzzy
 msgctxt "line_002961"
 msgid "QUALITY PROJECT MANAGEMENT OFFICE"
-msgstr ""
+msgstr "QUALITY PROJECT MANAGEMENT OFFICE"
 
 #. pl: ZRESTARTUJ
 msgctxt "line_002962"
@@ -14864,9 +14867,10 @@ msgid "RESTART"
 msgstr ""
 
 #. pl: {0:d}
+#, fuzzy
 msgctxt "line_002963"
 msgid "{0:d}"
-msgstr ""
+msgstr "{0:d}"
 
 #. pl: **{0:d}**
 #, fuzzy
@@ -15333,7 +15337,7 @@ msgstr ""
 #. pl: GRANAT UDAROWY
 msgctxt "line_003053"
 msgid "IMPACT GRENADE"
-msgstr ""
+msgstr "УДАРНА ГРАНАТА"
 
 #. pl: ZMNIEJSZONY ODRZUT CR-2
 msgctxt "line_003054"

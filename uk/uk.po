@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-23 20:31+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-25 17:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -164,7 +164,6 @@ msgid "Rebel: I can’t believe we actually did it. Is the war really over?"
 msgstr "Повстанець: Не віриться, що ми це зробили. Невже війна закінчена?"
 
 #. pl: VP FINANCE
-#, fuzzy
 msgctxt "line_000033"
 msgid " VP FINANCE"
 msgstr " VP FINANCE"
@@ -201,13 +200,11 @@ msgid "IMPROVED COOLING FOR A280"
 msgstr "ПОКРАЩЕНЕ ОХОЛОДЖЕННЯ A280"
 
 #. pl: POPRAWIONY ZASIĘG A280
-#, fuzzy
 msgctxt "line_000040"
 msgid "IMPROVED RANGE FOR A280"
-msgstr "ПОКРАЩЕНИЙ ЗАСЯГ A280"
+msgstr "ЗБІЛЬШЕНА ДАЛЬНІСТЬ СТРІЛЬБИ A280"
 
 #. pl: Gdy Luke Skywalker w końcu został Jedi, pokusy ciemnej strony okazały się niemal za silne podczas ostatecznej konfrontacji z Darthem Vaderem, który miał okazać się jego ojcem. Wierząc do samego końca, że Vader wciąż może przejść na jasną stronę Mocy, Luke nie odebrał ojcu życia, dzięki czemu Lord Sithów zwrócił się przeciw swojemu mistrzowi, Imperatorowi Palpatine'owi.
-#, fuzzy
 msgctxt "line_000041"
 msgid "At last a Jedi, the temptations of the dark side almost proved too much for Luke Skywalker in his final confrontation with Darth Vader, the man he’d discovered was his father. Clinging to his belief that Vader could be redeemed, Luke refused to take his father’s life; an action which would lead the Sith Lord to rise up against his master, Emperor Palpatine."
 msgstr "Нарешті ставши джедаєм, Люк Скайвокер ледь не піддався спокусам темної сторони під час своєї останньої сутички з Дартом Вейдером — чоловіком, який виявився його батьком. Тримаючись за віру в те, що Вейдер може виправитися, Люк відмовився забрати життя свого батька. Цей вчинок призвів до того, що Лорд Ситхів повстав проти свого господаря, Імператора Палпатіна."
@@ -218,10 +215,9 @@ msgid "ASSAULT TRAINING"
 msgstr "БОЙОВЕ НАВЧАННЯ"
 
 #. pl: SKRZYNIA UXR – RZADKA
-#, fuzzy
 msgctxt "line_000043"
 msgid "UXR CRATE - RARE"
-msgstr "СКРИНЯ UXR — РІДКІСНА"
+msgstr "РІДКІСНА СКРИНЯ UXR"
 
 #. pl: CORELLIAŃSKI ŁAJDAK
 #, fuzzy
@@ -2604,9 +2600,10 @@ msgid "TARGETING COMPUTER"
 msgstr ""
 
 #. pl: RPM SERVICE MANAGEMENT
+#, fuzzy
 msgctxt "line_000514"
 msgid " RPM SERVICE MANAGEMENT"
-msgstr ""
+msgstr " RPM SERVICE MANAGEMENT"
 
 #. pl: ZAMÓW PRZED PREMIERĄ
 msgctxt "line_000515"

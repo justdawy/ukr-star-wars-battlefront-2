@@ -2508,7 +2508,7 @@ msgstr "Перегрупуйтеся з капітаном Ліндсей"
 #. pl: Broń punktu ewakuacyjnego
 msgctxt "line_000495"
 msgid "Defend the Evac Point"
-msgstr ""
+msgstr "Оберігайте зону евакуації"
 
 #. pl: Wróć do swojego myśliwca
 msgctxt "line_000496"
@@ -2518,7 +2518,7 @@ msgstr "Дістаньтеся до свого винищувача"
 #. pl: Siły Republiki zostały wyeliminowane
 msgctxt "line_000497"
 msgid "Republic Forces Were Eliminated"
-msgstr ""
+msgstr "Сили Республіки знищені"
 
 #. pl: Shriv: Lando! Zasłona dymna!
 msgctxt "line_000498"
@@ -2538,12 +2538,12 @@ msgstr ""
 #. pl: Ukończ wszystkie poziomy scenariusza bitewnego „Atak droidów”.
 msgctxt "line_000501"
 msgid "Complete all tiers of the Battle Scenario Attack Of The Droids"
-msgstr ""
+msgstr "Пройдіть усі рівні бойового сценарію «Атака дроїдів»"
 
 #. pl: NIC Z TEGO
 msgctxt "line_000502"
 msgid "DENIED"
-msgstr ""
+msgstr "ВІДХИЛЕНО"
 
 #. pl: Iden: Już po nim.
 msgctxt "line_000503"
@@ -2553,22 +2553,22 @@ msgstr ""
 #. pl: WYDARZENIE
 msgctxt "line_000504"
 msgid "EVENT"
-msgstr ""
+msgstr "ПОДІЯ"
 
 #. pl: Commencing Phase Two. Proceed to the palace and capture designated coordinates. The clones have delayed us too long.
 msgctxt "line_000505"
 msgid "Commencing Phase Two. Proceed to the palace and capture designated coordinates. The clones have delayed us too long."
-msgstr ""
+msgstr "Початок другої фази. Рухайтеся до палацу та захопіть зазначені координати. Клони занадто довго нас затримували."
 
 #. pl: Beginning Phase Two. Clone opposition is disrupting our plan. Begin capture of all designated coordinates.
 msgctxt "line_000506"
 msgid "Beginning Phase Two. Clone opposition is disrupting our plan. Begin capture of all designated coordinates."
-msgstr ""
+msgstr "Початок другої фази. Опір клонів заважає реалізації нашого плану. Почати захоплення всіх визначених координат."
 
 #. pl: TRYB OBLĘŻNICZY
 msgctxt "line_000507"
 msgid "SIEGE MODE"
-msgstr ""
+msgstr "РЕЖИМ ОБЛОГИ"
 
 #. pl: Del: Świetnie! Został tylko jeden terminal.
 msgctxt "line_000508"
@@ -2593,7 +2593,7 @@ msgstr ""
 #. pl: Skrzynia zawierająca do 2 gwiezdnych kart myśliwców i kredyty.
 msgctxt "line_000512"
 msgid "This crate contains up to 2 Starfighter Star Cards and credits."
-msgstr ""
+msgstr "Ця скринька містить до 2 карт «Зоряний винищувач» та кредити."
 
 #. pl: KOMPUTER CELOWNICZY
 msgctxt "line_000513"

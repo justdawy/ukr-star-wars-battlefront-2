@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-25 17:12+0000\nLast-Translator: Nazar <melniknazar88@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-26 13:53+0000\nLast-Translator: Nazar <melniknazar88@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -212,7 +212,7 @@ msgstr "Нарешті ставши джедаєм, Люк Скайвокер л
 #. pl: SZKOLENIE BOJOWE
 msgctxt "line_000042"
 msgid "ASSAULT TRAINING"
-msgstr "БОЙОВЕ НАВЧАННЯ"
+msgstr "БОЙОВА ПІДГОТОВКА"
 
 #. pl: SKRZYNIA UXR – RZADKA
 msgctxt "line_000043"
@@ -264,7 +264,7 @@ msgstr ""
 #. pl: ULEPSZONY GRANAT PORAŻAJĄCY
 msgctxt "line_000052"
 msgid "IMPROVED SHOCK GRENADE"
-msgstr "ПОКРАЩЕНА ШОКОВА ГРАНАТА"
+msgstr "МОДИФІКОВАНА ШОКОВА ГРАНАТА"
 
 #. pl: WIEŻYCZKA RESURGENTA
 msgctxt "line_000053"
@@ -488,7 +488,7 @@ msgstr "Дістаньтеся до ангара"
 #. pl: Ukończ wszystkie poziomy scenariusza bitewnego „Ratujmy skórę”.
 msgctxt "line_000096"
 msgid "Complete all tiers of the Battle Scenario Save Our Skins "
-msgstr "Пройдіть всі рівні бойового сценарію «Урятуйте наші шкури» "
+msgstr "Пройдіть всі рівні бойового сценарію «Врятуйте напівтрупів» "
 
 #. pl: Iden: Bum.
 msgctxt "line_000097"
@@ -633,7 +633,7 @@ msgstr ""
 #. pl: Broń strzelająca rakietami śledzącymi namierzony pojazd i wyrządzającymi duże szkody.
 msgctxt "line_000125"
 msgid "Weapon that fires a missile that tracks the locked vehicle and deals high damage."
-msgstr ""
+msgstr "Випускає ракету, яка самонаводиться на захоплену техніку і завдає їй значних ушкоджень."
 
 #. pl: DZISIAJ
 msgctxt "line_000126"
@@ -699,7 +699,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_000138"
 msgid "ENGINE UPGRADE"
-msgstr "ПОКРАЩЕННЯ ДВИГУНА"
+msgstr "МОДИФІКАЦІЯ ДВИГУНА"
 
 #. pl: Our multi-troop transport is en route to the Naboo palace. Clone resistance is immenent. Escort the MTT and counter trooper ion attacks.
 msgctxt "line_000139"
@@ -710,7 +710,7 @@ msgstr ""
 #, fuzzy
 msgctxt "line_000140"
 msgid "New unit online. You are programmed to escort our multi-troop transport to the Naboo palace and to intercept Republic ion attacks. Proceed."
-msgstr "New unit online. You are programmed to escort our multi-troop transport to the Naboo palace and to intercept Republic ion attacks. Proceed."
+msgstr "Техніка активована. Ваше завдання: відбити всі атаки зі сторони Республіки,що загрожуть нашому MTT."
 
 #. pl: Skrzynia zawierająca heroiczną gwiezdną kartę dla żołnierzy.
 msgctxt "line_000141"
@@ -720,7 +720,7 @@ msgstr "Скриня містить епічну зоряну картку шт�
 #. pl: Możesz przedłużyć czas użytkowania kanonierki LAAT, pokonując przeciwników.
 msgctxt "line_000142"
 msgid "You can extend your time in the LAAT gunship by defeating enemies with it."
-msgstr ""
+msgstr "Знищуйте ворогів на борту LAAT, щоб отримати більше часу на керування ним."
 
 #. pl: SKRZYNIA WZMACNIAJĄCA NAJW. PORZĄDKU
 #, fuzzy
@@ -741,12 +741,12 @@ msgstr ""
 #. pl: Użyj śmigaczy, żeby zadawać ogromne uszkodzenia osłabionym maszynom kroczącym i zapewnić piechocie osłonę w postaci czerwonego pyłu.
 msgctxt "line_000146"
 msgid "Use the Ski Speeders to provide cover for infantry via the red dust and deal massive damage against weakened walkers."
-msgstr ""
+msgstr "Прикривайте піхоту червоним пилом зі спідерів та завдавайте масованої шкоди послабленим ходунам."
 
 #. pl: Rey zadaje dodatkowe obrażenia wrogom będącym pod wpływem dowolnego efektu unieruchamiającego, łącznie z MANIPULACJĄ UMYSŁEM.
 msgctxt "line_000147"
 msgid "Rey deals bonus damage to enemies affected by any immobilizing effect, including MIND TRICK. "
-msgstr ""
+msgstr "Рей наносить додаткову шкоду на ворогів,що опинилися під дією \"Ігри з розумом\". "
 
 #. pl: Jesteś offline. Połącz się ponownie w MENU GŁÓWNYM.
 msgctxt "line_000148"
@@ -756,17 +756,17 @@ msgstr "Ви не в мережі. Під’єднайтесь через гол
 #. pl: Pokonaj 75 wrogów za pomocą Blurrga-1120 na dowolnej mapie trybu online.
 msgctxt "line_000149"
 msgid "Defeat 75 Enemies with the Blurrg-1120 on any multiplayer map."
-msgstr ""
+msgstr "Убийте 75 ворогів за допомогою Blurrg-1120 на будь-якій багатокористувацькій мапі."
 
 #. pl: OPORTUNISTKA
 msgctxt "line_000150"
 msgid "OPPORTUNIST"
-msgstr ""
+msgstr "ОППОРТУНІСТ"
 
 #. pl: Impuls jonowy X-winga unieszkodliwia wrogie statki i wieżyczki. Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej.
 msgctxt "line_000151"
 msgid "This X-wing's Ion Pulse disables enemy ships and turrets . Press %%ABILITYINFO%% for more info."
-msgstr ""
+msgstr "Цей X-wing обладнаний іонним імпульсом, який паралізує ворожі кораблі та турелі. Натисніть %%ABILITYINFO%%, щоб дізнатися більше."
 
 #. pl: Iden: Leema Kai ma dopalacz! Jest za szybki!
 msgctxt "line_000152"
@@ -781,7 +781,7 @@ msgstr "ADDITIONAL SOFTWARE ENGINEER"
 #. pl: Konwój na Kessel będzie dostępny dla wszystkich graczy od 12 czerwca.
 msgctxt "line_000154"
 msgid "Extraction on Kessel is coming to all players on June 12th."
-msgstr ""
+msgstr "Оновлення «Видобуток на Кесселі» стане доступним для всіх гравців 12 червня."
 
 #. pl: WYMIENIĆ TO!
 msgctxt "line_000155"
@@ -804,10 +804,9 @@ msgid " SENIOR NETWORK ENGINEER"
 msgstr " SENIOR NETWORK ENGINEER"
 
 #. pl: Emotki
-#, fuzzy
 msgctxt "line_000159"
 msgid "Emotes"
-msgstr "Жести"
+msgstr "Емоції"
 
 #. pl: Przez 5 minut graj oficerem.
 #, fuzzy
@@ -824,7 +823,7 @@ msgstr "ВСТУПАЙ ДО АРМІЇ"
 #. pl: PŁN. SEKTOR DOWODZENIA
 msgctxt "line_000162"
 msgid "COMMAND SECTOR NORTH"
-msgstr ""
+msgstr "КОМАНДУВАННЯ СЕКТОРУ ПІВНІЧ"
 
 #. pl: CERTIFICATION MANAGEMENT
 msgctxt "line_000163"
@@ -844,12 +843,12 @@ msgstr " SENIOR DIRECTOR OF COMMUNITY ENGAGEMENT"
 #. pl: Tac: Ciężko mi to przyznać, ale trafiliśmy na godnego przeciwnika. Wycofać się, póki możecie.
 msgctxt "line_000166"
 msgid "Hate to admit it, but we've met our match. Retreat while we still can."
-msgstr ""
+msgstr "Не хочеться цього визнавати, але ми натрапили на гідного супротивника. Відступіть поки можете."
 
 #. pl: Tac: Trafiliśmy na godnego przeciwnika. Wycofać się, póki możecie.
 msgctxt "line_000167"
 msgid "We've met our match. Retreat while we still can."
-msgstr ""
+msgstr "Ми зустріли гідний опір. Назад поки не пізно."
 
 #. pl: SKRZYNIA MYŚLIWCA
 msgctxt "line_000168"
@@ -885,17 +884,17 @@ msgstr ""
 #. pl: 41. ELITARNY LEGION
 msgctxt "line_000174"
 msgid "41ST ELITE CORPS"
-msgstr ""
+msgstr "41-Й ЕЛІТНИЙ КОРПУС"
 
 #. pl: 91. KORPUS ZWIADOWCZY
 msgctxt "line_000175"
 msgid "91ST RECON CORPS"
-msgstr ""
+msgstr "91-Й РОЗВІДКОРПУС"
 
 #. pl: Stwórz wokół siebie gęstą zasłonę dymną, aby zniknąć z pola widzenia przeciwników.
 msgctxt "line_000176"
 msgid "Instantly deploy a thick smoke screen on your position, preventing enemies from seeing you."
-msgstr ""
+msgstr "Миттєво створіть щільну димову завісу навколо своєї позиції, щоб вороги не могли вас побачити."
 
 #. pl: Hask: Tak, pani komandor. Przekazuję transmisję.
 msgctxt "line_000177"
@@ -915,7 +914,7 @@ msgstr ""
 #. pl: Jaldessi Brenna: Reaktor niszczyciela gwiezdnego jest już prawie zniszczony. Czas działać. Zgnieść rebeliantów!
 msgctxt "line_000180"
 msgid "The Star Destroyer's reactor is on the brink of failure. Now is the time: Crush the Rebels."
-msgstr ""
+msgstr "Реактор «Зоряного руйнівника» ось-ось вийде з ладу. Настав час: Знищіть повстанців."
 
 #. pl: EA DICE
 msgctxt "line_000181"
@@ -930,17 +929,17 @@ msgstr ""
 #. pl: Zdobądź 77 671 punktów żołnierzem powietrznym.
 msgctxt "line_000183"
 msgid "Earn 77671 score as the Aerial."
-msgstr ""
+msgstr "Наберіть 77671 очок за Десантника."
 
 #. pl: Skrzynia zawierająca heroiczną gwiezdną kartę dla specjalisty.
 msgctxt "line_000184"
 msgid "This crate contains a Specialist Class Epic Star Card. "
-msgstr ""
+msgstr "Ця скринька містить епічну зіркову картку класу «Спеціаліст». "
 
 #. pl: Rakiety można wystrzelić w trybie niekierowanym, naciskając dwukrotnie przycisk zdolności - polecą wtedy na wprost.
 msgctxt "line_000185"
 msgid "Missiles can be fired unguided by double-tapping the ability button. They will fly in a straight line. "
-msgstr ""
+msgstr "Ракети можна запускати без наведення, двічі натиснувши кнопку вміння. Вони летітимуть по прямій лінії. "
 
 #. pl: ZAGUBIONA SKRZYNIA
 msgctxt "line_000186"
@@ -975,7 +974,7 @@ msgstr "ВАЛЮТНА СКРИНЯ ВЕРХОВНОГО ПОРЯДКУ"
 #. pl: W siedzibie kryminalnego imperium Hutta Jabby wrze. Cieszący się złą sławą pałac gangstera przyciągnął niepożądaną uwagę… zarówno ze strony Rebelii, jak i Imperium.
 msgctxt "line_000192"
 msgid "Unrest stirs in the seat of Jabba the Hutt's criminal empire. The infamous gangster's palace has attracted unwanted attention... of both the Rebel and Imperial variety."
-msgstr ""
+msgstr "У столиці злочинної імперії Джабби Хатта назріває заворушення. Палац цього сумнозвісного гангстера привернув до себе небажану увагу... як з боку Повстанців, так і з боку Імперії."
 
 #. pl: Explore 1 - TEMPVVVVV
 #, fuzzy
@@ -1002,17 +1001,17 @@ msgstr ""
 #. pl: Brzękacze odbiją wam schody? Przegrupować się!
 msgctxt "line_000197"
 msgid "You gonna lose the stairs to clankers? Regroup!"
-msgstr ""
+msgstr "Ви здали позиції бляшанкам? Перегрупуватися!"
 
 #. pl: Tracimy schody! Zaraz zmuszą nas do odwrotu!
 msgctxt "line_000198"
 msgid "We're losing the stairs! This goes on, we'll have to fall back!"
-msgstr ""
+msgstr "Ми втратили позиції біля сходів. Відступайте!"
 
 #. pl: Ostatnia szansa! Ściągnąć ich ze schodów!
 msgctxt "line_000199"
 msgid "One last chance! Get them off the stairs!"
-msgstr ""
+msgstr "Останній шанс! Стримайте їх зі сходів!"
 
 #. pl: Mała skrzynia kupiona w sklepie za kredyty.
 msgctxt "line_000200"
@@ -1025,15 +1024,14 @@ msgid "SMALL FOR CREDITS CRATE"
 msgstr "МАЛА СКРИНЯ ЗА КРЕДИТИ"
 
 #. pl: Wyeliminuj oficerów
-#, fuzzy
 msgctxt "line_000202"
 msgid "Eliminate Officers"
-msgstr "Усуньте офіцерів"
+msgstr "Ліквідуйте офіцерів"
 
 #. pl: Zniszcz myśliwce
 msgctxt "line_000203"
 msgid "Destroy the Starfighters"
-msgstr ""
+msgstr "Знищіть винищувачів"
 
 #. pl: ŁĄCZENIE...
 #, fuzzy
@@ -1044,12 +1042,12 @@ msgstr "З'ЄДНАННЯ..."
 #. pl: Przesuń kamerę, aby namierzyć wiele celów. Naciśnij %%FIRE%%, aby strzelić.
 msgctxt "line_000205"
 msgid "Pan the camera to lock on to multiple targets. Press %%FIRE%% to fire."
-msgstr ""
+msgstr "Наведіть камеру, щоб навести її на кілька цілей. Натисніть %%FIRE%%, щоб здійснити пострілу."
 
 #. pl: Skrzynia zawierająca do 3 gwiezdnych kart pojazdów i kredyty.
 msgctxt "line_000206"
 msgid "This crate contains up to 3 Vehicle Star Cards and credits."
-msgstr ""
+msgstr "Ця скринька містить до 3 карт «Зірка транспортного засобу» та кредити."
 
 #. pl: CINEMATICS ANIMATORS
 msgctxt "line_000207"
@@ -1110,7 +1108,7 @@ msgstr ""
 #. pl: PRZEJĘTE CELE: {0:f.0}
 msgctxt "line_000218"
 msgid "{0:f.0} OBJECTIVES CAPTURED"
-msgstr ""
+msgstr "{0:f.0} ЗАХОПЛЕННЯ ЦІЛІ"
 
 #. pl: Kashyyyk
 msgctxt "line_000219"
@@ -1120,7 +1118,7 @@ msgstr "Кашиїк"
 #. pl: Jedi jest w stanie użyć Mocy, aby wpłynąć na pośledni umysł, a w przypadku Mistrza pokroju Kenobiego – wręcz zniechęcić wrogów do użycia przeciwko niemu zdolności.
 msgctxt "line_000220"
 msgid "A Jedi’s mastery of the Force can influence the weak-minded, and in the case of Master Kenobi, even subvert his enemy’s desire to use their abilities against him. "
-msgstr ""
+msgstr "Здібності Сили дозволяють джедаям підкоряти слабку волю. Майстер Кенобі здатний навіть змусити ворогів забути про власні вміння і не використовувати їх проти нього. "
 
 #. pl: WOLA ŻYCIA
 msgctxt "line_000221"
@@ -1145,7 +1143,7 @@ msgstr "УБИВСТВО ЦІЛІ"
 #. pl: TRANSPORTOWCE
 msgctxt "line_000225"
 msgid "TROOP TRANSPORTS"
-msgstr ""
+msgstr "ТРАНСПОРТУВАННЯ ВІЙСЬК"
 
 #. pl: FACILITIES
 msgctxt "line_000226"
@@ -1155,7 +1153,7 @@ msgstr " FACILITIES"
 #. pl: Pokonaj 50 wrogów za pomocą zdolności STRZELEC WYBOROWY szpiega Caphex.
 msgctxt "line_000227"
 msgid "Defeat 50 enemies using the Caphex Spy's sharpshooter ability."
-msgstr ""
+msgstr "Знищте 50 ворогів, використовуючи здібність «Інтенсиивний вогонь» за Кафекського шпигуна ."
 
 #. pl: X-wing T-65B to podstawowy myśliwiec floty Rebelii, który sprawdza się w wielu rolach.
 msgctxt "line_000228"
@@ -1245,7 +1243,7 @@ msgstr ""
 #. pl: Przyznaje SE-44C i 200 kredytów
 msgctxt "line_000245"
 msgid "Awards you with SE-44C and 200 Credits"
-msgstr ""
+msgstr "Ви отримуєте SE-44C та 200 кредитів"
 
 #. pl: Iden: Jesteś wreszcie. Pora wyrwać się z tej celi.
 msgctxt "line_000246"
@@ -1265,12 +1263,12 @@ msgstr "Змінити точність мінімапи."
 #. pl: Jeszcze trochę! Cała broń, ognia!
 msgctxt "line_000249"
 msgid "Just a little more! All weapons, fire!"
-msgstr ""
+msgstr "Ще трохи! Усім, вогонь!"
 
 #. pl: Pewnie, spokojnie… zdemolować go!
 msgctxt "line_000250"
 msgid "Clean and steady– blow it to bits!"
-msgstr ""
+msgstr "Чисто і впевнено — рознеси це на друзки!"
 
 #. pl: Del: Mamy trzy minuty, zanim system eksploduje!
 msgctxt "line_000251"

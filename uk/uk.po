@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-26 13:53+0000\nLast-Translator: Nazar <melniknazar88@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-27 15:12+0000\nLast-Translator: Nazar <melniknazar88@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -1449,7 +1449,7 @@ msgstr "НИЗ:"
 #. pl: Nie widać cię na skanerach wroga podczas strzelania i zadajesz większe obrażenia w walce wręcz.
 msgctxt "line_000285"
 msgid "You remain hidden from enemy scanners when firing your weapon, and you deal increased melee damage."
-msgstr ""
+msgstr "Під час стрільби ви залишаєтеся невидимими для ворожих сканерів, а також завдаєте більшої шкоди в ближньому бою."
 
 #. pl: L3+R3:
 msgctxt "line_000286"
@@ -1465,12 +1465,12 @@ msgstr "ЛІВОРУЧ:"
 #. pl: Wydłuża czas działania OTĘPIAJĄCEJ MANIPULACJI na przeciwników o {0:s} sekundę.
 msgctxt "line_000288"
 msgid "Increase the time enemies are affected by RESTRICTIVE MIND TRICK for {0:s} more second."
-msgstr ""
+msgstr "Збільшує час, на який вороги підпадають під дію «Обман розуму», ще на {0:s} сек."
 
 #. pl: Skrzynia zawierająca 2 gwiezdne karty myśliwców, 1 inny przedmiot* oraz części do tworzenia.¬ ¬*Inne przedmioty stanowią: gwiezdne karty żołnierzy, gwiezdne karty bohaterów, gwiezdne karty jednostek specjalnych, gwiezdne karty pojazdów, zwycięskie pozy, emotki i broń. Duplikaty kart zostaną zamienione na kredyty.
 msgctxt "line_000289"
 msgid "This crate contains 2 Starfighter Star Cards, 1 other item*, and Crafting Parts.¬ ¬*Other items include: Trooper Star Cards, Hero Star Cards, Special Star Cards, Vehicle Star Cards, Victory Poses, Emotes, and Weapons. Duplicate Star Cards will be converted to Credits."
-msgstr ""
+msgstr "Цей ящик містить 2 зіркові картки «Зоряний винищувач», 1 інший предмет* та деталі для виготовлення. ¬ ¬*До інших предметів належать: зіркові картки «Солдат», зіркові картки «Герой», спеціальні зіркові картки, зіркові картки «Транспорт», жести перемоги, емоції та зброя. Дублікати зіркових карток будуть конвертовані в кредити."
 
 #. pl: We're securing the east atrium!
 msgctxt "line_000290"
@@ -1536,7 +1536,7 @@ msgstr "ВІХА ВИКОНАНА"
 #. pl: RZUT MIECZEM zadaje dodatkowe obrażenia wrogom trafionym drugi raz tym samym rzutem.
 msgctxt "line_000302"
 msgid "LIGHTSABER THROW deals bonus damage to enemies hit by it a second time in one throw."
-msgstr ""
+msgstr "Ціль, вражена КИДКОМ СВІТЛОВОГО МЕЧА двічі за один напад, отримує підвищену шкоду."
 
 #. pl: Klientka: Jesteś nieznośny.
 msgctxt "line_000303"
@@ -1546,12 +1546,12 @@ msgstr ""
 #. pl: Uzbrojona w zjonizowane rakiety wieżyczka, która sprawdza się w walce z pojazdami oraz innymi gadżetami.
 msgctxt "line_000304"
 msgid "Turret armed with ionized rockets that are highly effective against vehicles and other gadgets."
-msgstr ""
+msgstr "Ракетна іонна турель. Ефективно знищує ворожу техніку та гаджети."
 
 #. pl: SPOTĘGOWANY RZUT MIECZEM
 msgctxt "line_000305"
 msgid "INTENSIFIED LIGHTSABER THROW"
-msgstr ""
+msgstr "ІНТЕНСИВНИЙ КИДОК СВІТЛОВОГО МЕЧА"
 
 #. pl: Del: Spróbuj innych.
 msgctxt "line_000306"
@@ -1571,7 +1571,7 @@ msgstr ""
 #. pl: Gwiezdne karty można odblokowywać¬i ulepszać w menu KOLEKCJI.
 msgctxt "line_000309"
 msgid "Star Cards can be unlocked and upgraded from the COLLECTION menus"
-msgstr ""
+msgstr "Зоряних карток можна розблокувати та покращити в меню «КОЛЕКЦІЯ»"
 
 #. pl: UWAGA
 msgctxt "line_000310"
@@ -1586,7 +1586,7 @@ msgstr ""
 #. pl: Zwiększa ilość zdrowia przywracaną przez BB-8.
 msgctxt "line_000312"
 msgid "Increases the health restored by BB-8."
-msgstr ""
+msgstr "BB-8 може відновлювати більше здоров'я."
 
 #. pl: Iden: Del, przejmij ster. Ja obsłużę broń.
 msgctxt "line_000313"
@@ -1596,7 +1596,7 @@ msgstr ""
 #. pl: OPIS KAMINO
 msgctxt "line_000314"
 msgid "KAMINO DESCRIPTION"
-msgstr ""
+msgstr "ОПИС КАМІНО"
 
 #. pl: ZWYCIĘSKA POZA – PHASMA
 msgctxt "line_000315"
@@ -1621,7 +1621,7 @@ msgstr "ПЕРЕМОЖНА ПОЗА — ФАЗМА"
 #. pl: KAMINO
 msgctxt "line_000319"
 msgid "KAMINO"
-msgstr ""
+msgstr "КАМІНО"
 
 #. pl: ŻOŁNIERZ SZTURMOWY – POZ. RZADKI
 msgctxt "line_000320"
@@ -1646,17 +1646,17 @@ msgstr " DIRECTOR GLOBAL CONTENT STRATEGY"
 #. pl: Kryjówka zbieracza złomu
 msgctxt "line_000324"
 msgid "Scavenger's Hideout"
-msgstr ""
+msgstr "Схованка мародера"
 
 #. pl: Maszynownia
 msgctxt "line_000325"
 msgid "Pipe Room"
-msgstr ""
+msgstr "Трубопровідне приміщення"
 
 #. pl: Hangar myśliwców TIE
 msgctxt "line_000326"
 msgid "TIE Fighter Bay"
-msgstr ""
+msgstr "Ангар винищувачів TIE"
 
 #. pl: Plac zaopatrzeniowy
 msgctxt "line_000327"
@@ -1666,7 +1666,7 @@ msgstr ""
 #. pl: Reaktor
 msgctxt "line_000328"
 msgid "Reactor"
-msgstr ""
+msgstr "Реактор"
 
 #. pl: SULLUST
 msgctxt "line_000329"
@@ -1676,12 +1676,12 @@ msgstr ""
 #. pl: Przez chwilę twoja broń zadaje zwiększone obrażenia.
 msgctxt "line_000330"
 msgid "Your weapons do more damage for a short period of time."
-msgstr ""
+msgstr "Ваша зброя завдає більшої шкоди протягом короткого часу."
 
 #. pl: Rey otrzymuje mniej obrażeń, gdy wykonuje SZARŻĘ.
 msgctxt "line_000331"
 msgid "Rey receives less damage while charging forward with DASH STRIKE. "
-msgstr ""
+msgstr "Рей отримує меншої шкоди під час СТРІМКОГО УДАРУ. "
 
 #. pl: Przytrzymaj %%LOCKON%%, aby przybliżyć.
 msgctxt "line_000332"
@@ -1696,7 +1696,7 @@ msgstr "УРОЧИСТА СКРИНЯ ФІННА"
 #. pl: Pokonaj 150 wrogów za pomocą Blurrga-1120 na dowolnej mapie trybu online.
 msgctxt "line_000334"
 msgid "Defeat 150 Enemies with the Blurrg-1120 on any multiplayer map."
-msgstr ""
+msgstr "Знищте 150 ворогів із Blurrg-1120 на будь-якій мапі в мережевій грі."
 
 #. pl: NIEUGIĘTA SARŻA
 msgctxt "line_000335"
@@ -1706,22 +1706,22 @@ msgstr ""
 #. pl: MYSZ
 msgctxt "line_000336"
 msgid "MOUSE"
-msgstr "МИША"
+msgstr "МИШКА"
 
 #. pl: BITWA O JAKKU: ZBIERACZ
 msgctxt "line_000337"
 msgid "THE BATTLE OF JAKKU: SCAVENGER"
-msgstr ""
+msgstr "БИТВА ЗА ДЖАККУ: МАРОДЕРСТВО"
 
 #. pl: UMIEJĘTNOŚĆ JEST AKTYWNA
 msgctxt "line_000338"
 msgid "ABILITY ALREADY ACTIVE"
-msgstr ""
+msgstr "ЗДІБНОСТІ УЖЕ ЗАСТОСОВАНІ"
 
 #. pl: Yoda może rzucić się przed siebie nawet dwa razy, zadając obrażenia wrogom bez możliwości zablokowania ataku.
 msgctxt "line_000339"
 msgid "Yoda leaps forwards up to two times, dealing damage without being blocked."
-msgstr ""
+msgstr "Йода робить до двох стрибків уперед, завдаючи шкоди, яку неможливо заблокувати."
 
 #. pl: PRZEJMOWANIE
 msgctxt "line_000340"
@@ -1731,7 +1731,7 @@ msgstr "ЗАХОПЛЕННЯ"
 #. pl: Wielofunkcyjna wyrzutnia, która domyślnie wystrzeliwuje pojemniki ze żrącym kwasem raniącym humanoidów i uszkadzającym droidy.
 msgctxt "line_000341"
 msgid "Multi-purpose launcher that defaults to firing canisters of corrosive acid that hurts both humanoids and droids that are exposed to it."
-msgstr ""
+msgstr "Зброя, яка вистріляює каністри з корозійним вмістом, завдає серйозної шкоди."
 
 #. pl: +{0:d}
 msgctxt "line_000342"
@@ -1741,12 +1741,12 @@ msgstr "+{0:d}"
 #. pl: DESIGNERS
 msgctxt "line_000343"
 msgid " DESIGNERS"
-msgstr " DESIGNERS"
+msgstr " ДИЗАЙНЕРИ"
 
 #. pl: DESIGN UI
 msgctxt "line_000344"
 msgid "DESIGN UI"
-msgstr "DESIGN UI"
+msgstr "ДИЗАЙН UI"
 
 #. pl: Skrzynia zawierająca heroiczną gwiezdną kartę dla TIE Silencera i kredyty.
 msgctxt "line_000345"
@@ -1761,7 +1761,7 @@ msgstr ""
 #. pl: 2D ART DIRECTOR
 msgctxt "line_000347"
 msgid " 2D ART DIRECTOR"
-msgstr " 2D ART DIRECTOR"
+msgstr " 2D АРТ ДИРЕКТОР"
 
 #. pl: Skrzynia zawierająca zwycięską pozę – oficer.
 msgctxt "line_000348"
@@ -1782,7 +1782,7 @@ msgstr "Це призведе до скидання всіх навчальни�
 #. pl: WYPOSAŻONE KARTY
 msgctxt "line_000351"
 msgid "EQUIPPED CARDS"
-msgstr "СПОРЯДЖЕНІ КАРТКИ"
+msgstr "ПОТОЧНІ КАРТКИ"
 
 #. pl: Zresetowanie samouczków spowoduje, że wszystkie samouczki będą wyświetlane jak przy pierwszym włączeniu gry.
 msgctxt "line_000352"
@@ -1792,7 +1792,7 @@ msgstr "Скидання всіх навчальних повідомлень п
 #. pl: ZRESETUJ SAMOUCZKI
 msgctxt "line_000353"
 msgid "RESET TUTORIALS"
-msgstr "СКИНУТИ НАВЧАННЯ"
+msgstr "СКАСУВАТИ НАВЧАННЯ"
 
 #. pl: OBRONA
 msgctxt "line_000354"
@@ -1818,12 +1818,12 @@ msgstr "ОТРИМУЙТЕ КРЕДИТИ, ГРАЮЧИ У РЕЖИМ АРКАД
 #. pl: LEAD ONLINE ENGINEER
 msgctxt "line_000358"
 msgid " LEAD ONLINE ENGINEER                                                                                 "
-msgstr " LEAD ONLINE ENGINEER                                                                                 "
+msgstr " КЕРІВНИК ОНЛАЙН-ІНЖЕНЕРІВ                                                                                 "
 
 #. pl: TALLIE LINTRA
 msgctxt "line_000359"
 msgid "TALLIE LINTRA"
-msgstr "TALLIE LINTRA"
+msgstr "ТАЛІ ЛІНТРА"
 
 #. pl: Ukończ misję „Inferno”.
 #, fuzzy
@@ -1834,17 +1834,17 @@ msgstr "Завершіть місію «Інферно»."
 #. pl: KADET MYŚLIWCA
 msgctxt "line_000361"
 msgid "FIGHTER CADET"
-msgstr ""
+msgstr "КУРСАНТ-ПІЛОТ"
 
 #. pl: Ukończ wszystkie zadania sezonowe.
 msgctxt "line_000362"
 msgid "Complete all Seasonal Quests."
-msgstr ""
+msgstr "Виконайте всі сезонні завдання."
 
 #. pl: OFICER NOWICJUSZ
 msgctxt "line_000363"
 msgid "NOVICE OFFICER"
-msgstr ""
+msgstr "МОЛОДШИЙ ОФІЦЕР"
 
 #. pl: PŁACZ
 msgctxt "line_000364"
@@ -1859,7 +1859,7 @@ msgstr ""
 #. pl: CZŁOWIEK, NAJW. PORZĄDEK 01
 msgctxt "line_000366"
 msgid "HUMAN FIRST ORDER 01"
-msgstr ""
+msgstr "ЛЮДИНА (ВЕРХОВНИЙ ПОРЯДОК) 01"
 
 #. pl: Iden: Admirale, oddział Inferno ewakuuje Endor. Jaka jest sytuacja?
 msgctxt "line_000367"
@@ -1899,7 +1899,7 @@ msgstr " SENIOR IT SERVICE SPECIALIST"
 #. pl: SKRZYNIA ŻOŁNIERZA SZTURMOWEGO 91.
 msgctxt "line_000374"
 msgid "91ST ASSAULT CRATE"
-msgstr ""
+msgstr "91-Й РОЗВІДКОРПУС"
 
 #. pl: PROMIEŃ RAŻENIA
 msgctxt "line_000375"
@@ -1919,7 +1919,7 @@ msgstr ""
 #. pl: Zdobądź 132 887 punktów żołnierzem powietrznym.
 msgctxt "line_000378"
 msgid "Earn 132887 score as the Aerial."
-msgstr ""
+msgstr "Набери 132887 очок за Десантника."
 
 #. pl: Iden: Jak my wszyscy, agencie.
 msgctxt "line_000379"
@@ -1929,7 +1929,7 @@ msgstr ""
 #. pl: Wydaje wszystkie heroiczne gwiezdne karty dla zwykłych myśliwców.
 msgctxt "line_000380"
 msgid "Gives out all regular Starfighter Epic Star Cards"
-msgstr ""
+msgstr "Видає всі звичайні епічні зіркові картки «Винищувач»"
 
 #. pl: DEBUG – SKRZYNKA Z MYŚLIWCAMI
 msgctxt "line_000381"
@@ -1944,7 +1944,7 @@ msgstr "TC LOCALIZATION TESTING TEAM"
 #. pl: ULEPSZ
 msgctxt "line_000383"
 msgid "UPGRADE"
-msgstr "ПОКРАЩИТИ"
+msgstr "ВДОСКОНАЛИТИ"
 
 #. pl: Droid: (dźwięki droida)
 msgctxt "line_000384"
@@ -1974,12 +1974,12 @@ msgstr ""
 #. pl: Blaster Lei Organy jest wyposażony w alternatywny tryb działania. Przytrzymaj %%LOCKON%%, aby naładować broń i oddać strzał.
 msgctxt "line_000389"
 msgid "Leia Organa's blaster has an alternate fire mode. Hold down %%LOCKON%% to charge up and fire a shot."
-msgstr ""
+msgstr "Бластер Леї Орґани має альтернативний режим стрільби. Утримуйте кнопку %%LOCKON%%, щоб зарядити зброю та вистрілити."
 
 #. pl: Pokonaj 10 bohaterów jasnej strony.
 msgctxt "line_000390"
 msgid "Defeat 10 lightsided Heroes."
-msgstr "Переможіть 10 героїв світлого боку сили."
+msgstr "Здолайте 10 героїв світлої сторони сили."
 
 #. pl: DOBRZE, DOBRZE
 msgctxt "line_000391"
@@ -2019,12 +2019,12 @@ msgstr "IV"
 #. pl: EMOTKA „JESTEŚ TYLKO CELEM”
 msgctxt "line_000398"
 msgid "\"YOU'RE JUST ANOTHER TARGET\" EMOTE"
-msgstr "ЖЕСТ «ТИ ТІЛЬКИ ЩЕ ОДНА ЦІЛЬ»"
+msgstr "«ТИ - ЩЕ ОДНА ЦІЛЬ» ЕМОЦІЯ"
 
 #. pl: DUSZENIE
 msgctxt "line_000399"
 msgid "CHOKE"
-msgstr ""
+msgstr "УДУШЕННЯ"
 
 #. pl: PRODUCTION AND FACILITY ASSISTANT
 msgctxt "line_000400"
@@ -2049,92 +2049,94 @@ msgstr "CHIEF MARKETING ORGANIZATION"
 #. pl: They're deploying ion disruptors. Protect the MTT.
 msgctxt "line_000404"
 msgid "They're deploying ion disruptors. Protect the MTT."
-msgstr ""
+msgstr "Вони застосовують іонні дезінтегратори. Захистіть MTT."
 
 #. pl: Protect the MTT from the ion disruptors.
 msgctxt "line_000405"
 msgid "Protect the MTT from the ion disruptors."
-msgstr ""
+msgstr "Охороняйте транспорт МТТ від ударів іонних бластерів."
 
 #. pl: They're readying an ion disruptor.
 msgctxt "line_000406"
 msgid "They're readying an ion disruptor."
-msgstr ""
+msgstr "Вони заряджають іонного дезінтегратора."
 
 #. pl: The enemy just picked up an ion disruptor.
 msgctxt "line_000407"
 msgid "The enemy just picked up an ion disruptor."
-msgstr ""
+msgstr "Ворог узяв іонного дезінтегратора."
 
 #. pl: Enemy troopers with ion disruptors are converging on the MTT.
 msgctxt "line_000408"
 msgid "Enemy troopers with ion disruptors are converging on the MTT."
-msgstr ""
+msgstr "Ворог з дезінтеграторами наближаються до MTT."
 
 #. pl: Ion disruptor spotted. Don't let them deploy it.
 msgctxt "line_000409"
 msgid "Ion disruptor spotted. Don't let them deploy it."
-msgstr ""
+msgstr "Помічено іонного дезінтегратора. Не дайте їм заволодіти."
 
 #. pl: Ion disruptor spotted.
 msgctxt "line_000410"
 msgid "Ion disruptor spotted."
-msgstr ""
+msgstr "Дезінтегратора виявлено."
 
 #. pl: Enemy ion disruptor deployed.
 msgctxt "line_000411"
 msgid "Enemy ion disruptor deployed."
-msgstr ""
+msgstr "Ворог здіснив пострілу з дезінтегратора."
 
 #. pl: The MTT is vulnerable to ion disruptor attacks. Protect it.
+#, fuzzy
 msgctxt "line_000412"
 msgid "The MTT is vulnerable to ion disruptor attacks. Protect it."
-msgstr ""
+msgstr "MTT вразливий до іонних атак. Захистіть його!"
 
 #. pl: Imperative: eliminate all troopers with ion disruptors.
 msgctxt "line_000413"
 msgid "Imperative: eliminate all troopers with ion disruptors."
-msgstr ""
+msgstr "Наказ: знищити всіх ворогів з дезінтеграторами."
 
 #. pl: Trooper carrying an ion disruptor closing in on the MTT.
 msgctxt "line_000414"
 msgid "Trooper carrying an ion disruptor closing in on the MTT."
-msgstr ""
+msgstr "Ворог з іонним дезінтегратором наближається до MTT."
 
 #. pl: Ion disruptor trooper closing in.
 msgctxt "line_000415"
 msgid "Ion disruptor trooper closing in."
-msgstr ""
+msgstr "Ворог з іонним дезінтегратором наближається."
 
 #. pl: Ion disruptor trooper spotted.
 msgctxt "line_000416"
 msgid "Ion disruptor trooper spotted."
-msgstr ""
+msgstr "Бійця з іонним дезінтегратором знайдено."
 
 #. pl: Sensors indicate an ion disruptor nearby.
 msgctxt "line_000417"
 msgid "Sensors indicate an ion disruptor nearby."
-msgstr ""
+msgstr "Датчики фіксують наявність іонного дезінтрегратора поблизу."
 
 #. pl: Sensors picking up an ion disruptor signature.
 msgctxt "line_000418"
 msgid "Sensors picking up an ion disruptor signature."
-msgstr ""
+msgstr "Датчики фіксують сигнал іонного дезінтегратора."
 
 #. pl: Ion disruptor spotted nearby.
 msgctxt "line_000419"
 msgid "Ion disruptor spotted nearby."
-msgstr ""
+msgstr "Поруч виявлено іонний дезінтегратор."
 
 #. pl: Destroy all ion disruptor carriers.
 msgctxt "line_000420"
 msgid "Destroy all ion disruptor carriers."
-msgstr ""
+msgstr "Знищити всіх бійців з іонним дезінтеграторами."
 
 #. pl: Ion disruptor ready to fire. Stop it.
+#, fuzzy
 msgctxt "line_000421"
 msgid "Ion disruptor ready to fire. Stop it."
-msgstr ""
+msgstr "Іонний дезінтегратору готується до застосування. Зупиніть!"
 
 #. pl: Imperative: No ion disruptors must come near the MTT.
 msgctxt "line_000422"
@@ -2164,7 +2166,7 @@ msgstr ""
 #. pl: Zwiększa możliwości systemów bojowych bombowca.
 msgctxt "line_000427"
 msgid "Improves the Bomber's weapon system ability."
-msgstr ""
+msgstr "Покращує характеристики системи озброєння бомбардувальника."
 
 #. pl: {0:s} opuszcza twój skład
 msgctxt "line_000428"
@@ -2189,7 +2191,7 @@ msgstr "ALL ORIGINAL MUSIC MIXED BY"
 #. pl: Skrzynia zawierająca 3 gwiezdne karty specjalisty.
 msgctxt "line_000432"
 msgid "This crate contains 3 Specialist Class Star Cards."
-msgstr ""
+msgstr "Ця коробка містить 3 зіркові картки класу «Спеціаліст»."
 
 #. pl: RZADKA SKRZYNIA RUCHU OPORU
 msgctxt "line_000433"
@@ -2229,12 +2231,12 @@ msgstr " INTERNATIONAL PUBLISHING ORGANIZATION MARKETING"
 #. pl: Skrzynia zawierająca do 3 gwiezdnych kart myśliwców bohaterów i kredyty.
 msgctxt "line_000440"
 msgid "This crate contains up to 3 Hero Starfighter Star Cards and credits."
-msgstr ""
+msgstr "Ця коробка містить до 3 карт «Герой-винищувач» та кредити."
 
 #. pl: ZABIJ POSTACIE SI
 msgctxt "line_000441"
 msgid "KILL ALL AI"
-msgstr ""
+msgstr "УБИТИ ВСІХ ШІ"
 
 #. pl: Del: Oczywiście, że¬jest we mnie konflikt.{0.010s:1.690s} ¬ {1.710s:3.330s} Nie jestem ślepy! Wiem, do czego jest zdolne Imperium. Ale…{3.350s:6.150s} ¬ {6.170s:7.560s} ...co mi zostało?
 msgctxt "line_000442"
@@ -2300,7 +2302,7 @@ msgstr ""
 #. pl: WYRZUTNIA RAKIET
 msgctxt "line_000454"
 msgid "ROCKET LAUNCHER"
-msgstr ""
+msgstr "РАКЕТНА УСТАНОВКА"
 
 #. pl: MINIMAPA WYŁĄCZONA
 msgctxt "line_000455"
@@ -2345,17 +2347,17 @@ msgstr "ТАНЕЦЬ 4"
 #. pl: TK77: Bombowce typu Hyena zakończyły nalot.
 msgctxt "line_000463"
 msgid "Hyena-class bombers have completed their attack run."
-msgstr ""
+msgstr "Бомбардувальники класу «Гієна» завершили наліт."
 
 #. pl: TK77: Nalot bombowców typu Hyena zakończony powodzeniem.
 msgctxt "line_000464"
 msgid "Hyena-class bomber attack run successful."
-msgstr ""
+msgstr "Напад бомбардувальників класу «Гієна» пройшов успішно."
 
 #. pl: TK77: Ostrzał ukończony. Bombowce opuszczają pole bitwy.
 msgctxt "line_000465"
 msgid "Bombardment complete. Droid bombers departing."
-msgstr ""
+msgstr "Бомбардування завершено. Дроїди-бомбардувальники відлітають."
 
 #. pl: LOCALIZATION VOICE TALENT ITALIAN
 msgctxt "line_000466"
@@ -2365,7 +2367,7 @@ msgstr ""
 #. pl: OPIS YAVIN 4
 msgctxt "line_000467"
 msgid "YAVIN 4 DESCRIPTION"
-msgstr ""
+msgstr "ОПИС ЯВІН 4"
 
 #. pl: 1 GRACZ
 msgctxt "line_000468"
@@ -2385,7 +2387,7 @@ msgstr ""
 #. pl: YAVIN 4
 msgctxt "line_000471"
 msgid "YAVIN 4"
-msgstr "YAVIN 4"
+msgstr "ЯВІН 4"
 
 #. pl: 1 GRACZ
 msgctxt "line_000472"
@@ -2395,7 +2397,7 @@ msgstr "1 ГРАВЕЦЬ"
 #. pl: DOPALACZ
 msgctxt "line_000473"
 msgid "BOOST"
-msgstr ""
+msgstr "ПІДСИЛЕННЯ"
 
 #. pl: SKRADZIONY AT-AT
 msgctxt "line_000474"
@@ -2405,7 +2407,7 @@ msgstr "УКРАДЕНИЙ AT-AT"
 #. pl: Skrzynia zawierająca niepospolitą gwiezdną kartę dla „Czarnego” i kredyty.
 msgctxt "line_000475"
 msgid "This crate contains a Black One Uncommon  Star Card and credits."
-msgstr ""
+msgstr "Ця скринька містить незвичайну зіркову картку «Чорний один» та кредити."
 
 #. pl: TYMCZASOWY OPIS
 msgctxt "line_000476"
@@ -2425,7 +2427,7 @@ msgstr "УЗГОДЖЕНИЙ ВОГОНЬ"
 #. pl: SZAŁ
 msgctxt "line_000479"
 msgid "FRENZY"
-msgstr ""
+msgstr "БЕЗУМСТВО"
 
 #. pl: Del: Ja się tym zajmę. Trzymaj tylko z dala to robactwo.
 msgctxt "line_000480"
@@ -2438,14 +2440,15 @@ msgid "Luke: It’s not what’s inside; it’s who put it there."
 msgstr ""
 
 #. pl: SKRZYNIA WZMACNIAJĄCA MYŚLIWCA
+#, fuzzy
 msgctxt "line_000482"
 msgid "STARFIGHTER BOOSTER CRATE"
-msgstr ""
+msgstr "ЯЩИК З ПІДСИЛЮВАЧАМИ ДЛЯ  ВИНИЩУВАЧІВ"
 
 #. pl: POSTRACH JEDI
 msgctxt "line_000483"
 msgid "JEDI KILLER"
-msgstr ""
+msgstr "УБИВЦЯ ДЖЕДАЇВ"
 
 #. pl: MVP
 msgctxt "line_000484"
@@ -2455,7 +2458,7 @@ msgstr "MVP"
 #. pl: EMOTKA „BLASTER”
 msgctxt "line_000485"
 msgid "\"BLASTER\" EMOTE"
-msgstr "ЖЕСТ «БЛАСТЕР»"
+msgstr "«БЛАСТЕР» ЕМОЦІЯ"
 
 #. pl: LEAD WORLD AND GAME MODE DESIGNER
 msgctxt "line_000486"
@@ -2480,27 +2483,27 @@ msgstr ""
 #. pl: Wyląduj
 msgctxt "line_000490"
 msgid "Land Your Ship"
-msgstr ""
+msgstr "Приземліть свій корабель"
 
 #. pl: Uratuj żołnierzy Republiki
 msgctxt "line_000491"
 msgid "Save the Republic Troops"
-msgstr "Урятуйте штурмовиків Республіки"
+msgstr "Врятуйте бійців Республіки"
 
 #. pl: Zdobądź lornetkę
 msgctxt "line_000492"
 msgid "Retrieve Binocs"
-msgstr ""
+msgstr "Отримайте бінокль"
 
 #. pl: Zniszcz maszyny AT-AT
 msgctxt "line_000493"
 msgid "Destroy the AT-ATs"
-msgstr ""
+msgstr "Знищити AT-ATs"
 
 #. pl: Spotkaj się z kapitanem Lindsey
 msgctxt "line_000494"
 msgid "Regroup With Captain Lindsey"
-msgstr ""
+msgstr "Перегрупуйтеся з капітаном Ліндсей"
 
 #. pl: Broń punktu ewakuacyjnego
 msgctxt "line_000495"

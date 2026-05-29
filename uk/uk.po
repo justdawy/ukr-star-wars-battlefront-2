@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-27 15:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-30 20:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -217,7 +217,7 @@ msgstr "БОЙОВЕ НАВЧАННЯ"
 #. pl: SKRZYNIA UXR – RZADKA
 msgctxt "line_000043"
 msgid "UXR CRATE - RARE"
-msgstr "РІДКІСНА СКРИНЯ UXR"
+msgstr ""
 
 #. pl: CORELLIAŃSKI ŁAJDAK
 #, fuzzy
@@ -233,12 +233,12 @@ msgstr "ЕНДОР"
 #. pl: ZWYCIĘSKA SKRZYNIA POJAZDU
 msgctxt "line_000046"
 msgid "VEHICLE VICTORY CRATE"
-msgstr "ПЕРЕМОЖНА СКРИНЯ ТЕХНІКИ"
+msgstr ""
 
 #. pl: TRIUMFALNA SKRZYNIA POJAZDU
 msgctxt "line_000047"
 msgid "VEHICLE TRIUMPHANT CRATE"
-msgstr "ТРІУМФАЛЬНА СКРИНЯ ТЕХНІКИ"
+msgstr ""
 
 #. pl: Paldora: Co ciekawe, ¬większość statystyków zabijają ich uczniowie.
 msgctxt "line_000048"
@@ -14198,9 +14198,10 @@ msgid "TEMP"
 msgstr "TEMP"
 
 #. pl: SONY  PLM SUBMISSIONS PLANNERS
+#, fuzzy
 msgctxt "line_002831"
 msgid "SONY  PLM SUBMISSIONS PLANNERS"
-msgstr ""
+msgstr "SONY  PLM SUBMISSIONS PLANNERS"
 
 #. pl: CONVERSATION MANAGER
 msgctxt "line_002832"

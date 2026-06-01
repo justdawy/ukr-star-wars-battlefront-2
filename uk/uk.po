@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-02 08:12+0000\nLast-Translator: Nazar <melniknazar88@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-02 08:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -105,7 +105,7 @@ msgstr "Жетон «Обманіть Джаббу»"
 #. pl: Ten myśliwiec TIE posiada dopalacz, torpedę protonową i może prowadzić ostrzał laserowy. Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej.
 msgctxt "line_000021"
 msgid "This TIE fighter is equipped with Afterburner, Proton Torpedo and Laser Barrage. Press %%ABILITYINFO%% for more info."
-msgstr "Цей ЗІД-винищувач обладнаний форсажем, протонною торпедою та лазерним шквалом. Натисніть %%ABILITYINFO%%, щоб дізнатися більше."
+msgstr "Цей TIE-винищувач обладнаний форсажем, протонною торпедою та лазерним шквалом. Натисніть %%ABILITYINFO%%, щоб дізнатися більше."
 
 #. pl: Skrzynia zawierająca niepospolitą gwiezdną kartę dla myśliwców bohaterów i kredyty.
 msgctxt "line_000022"
@@ -563,7 +563,7 @@ msgstr "Йода може здійснити 3 атаки з підскоку, �
 #. pl: Na pozycje obronne! Już!
 msgctxt "line_000111"
 msgid "Defensive positions! Now!"
-msgstr "Оборонні позиції!"
+msgstr ""
 
 #. pl: Nie dajcie im przejąć tego punktu! Jazda!
 msgctxt "line_000112"
@@ -578,7 +578,7 @@ msgstr ""
 #. pl: Nie przejdą. Umocnić pozycję!
 msgctxt "line_000114"
 msgid "Can't let them in. Secure that position!"
-msgstr "Не можна їм цього дозволити. Утримуйте позицію!"
+msgstr "Не можемо їх впустити. Захищайте позицію!"
 
 #. pl: Ruszać się! Chcę poczuć swąd złomu!
 msgctxt "line_000115"
@@ -616,6 +616,7 @@ msgid "Rebel: No Imperials in sight here."
 msgstr ""
 
 #. pl: KOPNIAK KYLO
+#, fuzzy
 msgctxt "line_000122"
 msgid "KYLO'S KICK"
 msgstr "Копняк Кайло Рена"
@@ -646,6 +647,7 @@ msgid "THERE IS NO ESCAPE"
 msgstr "ВТЕКТИ НЕМОЖЛИВО"
 
 #. pl: NACIŚNIJ %%ACTIVATE%%, ABY GRAĆ JAKO {0:s}
+#, fuzzy
 msgctxt "line_000128"
 msgid "PRESS %%ACTIVATE%% TO PLAY AS {0:s}"
 msgstr "НАТИСНІТЬ %%ACTIVATE%%, ЩОБ ГРАТИ ЯК {0:s}"
@@ -699,7 +701,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_000138"
 msgid "ENGINE UPGRADE"
-msgstr "ПОКРАЩЕННЯ ДВИГУНА"
+msgstr "ВДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Our multi-troop transport is en route to the Naboo palace. Clone resistance is immenent. Escort the MTT and counter trooper ion attacks.
 msgctxt "line_000139"
@@ -751,7 +753,7 @@ msgstr ""
 #. pl: Jesteś offline. Połącz się ponownie w MENU GŁÓWNYM.
 msgctxt "line_000148"
 msgid "You are offline. Reconnect in the MAIN MENU."
-msgstr "Ви не в мережі. Під’єднайтесь через ГОЛОВНЕ МЕНЮ."
+msgstr "Ви не в мережі. Під’єднайтесь через головне меню."
 
 #. pl: Pokonaj 75 wrogów za pomocą Blurrga-1120 na dowolnej mapie trybu online.
 msgctxt "line_000149"
@@ -761,7 +763,7 @@ msgstr ""
 #. pl: OPORTUNISTKA
 msgctxt "line_000150"
 msgid "OPPORTUNIST"
-msgstr "ОППОРТУНІСТ"
+msgstr ""
 
 #. pl: Impuls jonowy X-winga unieszkodliwia wrogie statki i wieżyczki. Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej.
 msgctxt "line_000151"
@@ -811,7 +813,7 @@ msgstr "Емоції"
 #. pl: Przez 5 minut graj oficerem.
 msgctxt "line_000160"
 msgid "Play as the Officer for 5 minutes."
-msgstr "Протягом 5 хвилин грайте за офіцера."
+msgstr "Грайте офіцером протягом 5 хвилин."
 
 #. pl: WSTĄP DO ARMII
 #, fuzzy
@@ -852,7 +854,7 @@ msgstr ""
 #. pl: SKRZYNIA MYŚLIWCA
 msgctxt "line_000168"
 msgid "STARFIGHTER CRATE"
-msgstr "СКРИНЯ ЗІРКОВОГО ВИНИЩУВАЧА"
+msgstr "СКРИНЯ ЗОРЯНОГО ВИНИЩУВАЧА"
 
 #. pl: Iden: Agencie Meeko, ten myśliwiec jest twój.
 msgctxt "line_000169"
@@ -963,9 +965,10 @@ msgstr "ID_SC_VEHICLE_STARCARD_GUNSHIP_COOLDOWN_EFFECTVVVVV"
 #. pl: ABY TWORZYĆ BROŃ, POŁĄCZ SIĘ Z SIECIĄ.
 msgctxt "line_000190"
 msgid "GO ONLINE TO BE ABLE TO CRAFT WEAPONS"
-msgstr "ЩОБ СТВОРИТИ ЗБРОЮ, ПІД’ЄДНАЙТЕСЬ ДО МЕРЕЖІ"
+msgstr "ПІД’ЄДНАЙТЕСЬ ДО МЕРЕЖІ, ЩОБ СТВОРИТИ ЗБРОЮ"
 
 #. pl: SKRZYNIA WALUTOWA NAJWYŻSZEGO PORZĄDKU
+#, fuzzy
 msgctxt "line_000191"
 msgid "FIRST ORDER CURRENCY CRATE"
 msgstr "ВАЛЮТНА СКРИНЯ ВЕРХОВНОГО ПОРЯДКУ"
@@ -1031,7 +1034,7 @@ msgstr "Усуньте офіцерів"
 #. pl: Zniszcz myśliwce
 msgctxt "line_000203"
 msgid "Destroy the Starfighters"
-msgstr "Знищіть винищувачів"
+msgstr "Знищіть винищувачі"
 
 #. pl: ŁĄCZENIE...
 #, fuzzy
@@ -1118,7 +1121,7 @@ msgstr "Кашиїк"
 #. pl: Jedi jest w stanie użyć Mocy, aby wpłynąć na pośledni umysł, a w przypadku Mistrza pokroju Kenobiego – wręcz zniechęcić wrogów do użycia przeciwko niemu zdolności.
 msgctxt "line_000220"
 msgid "A Jedi’s mastery of the Force can influence the weak-minded, and in the case of Master Kenobi, even subvert his enemy’s desire to use their abilities against him. "
-msgstr "Майстерність Сили дозволяє джедаям впливати на слабкодухих, а Кенобі — навіть блокувати ворожі здібності, спрямовані проти нього. "
+msgstr "Майстерність джедая у володінні Силою дозволяє впливати на слабких розумом, а у випадку з Майстром Кенобі — навіть відбивати у ворогів будь-яке бажання застосовувати проти нього свої здібності. "
 
 #. pl: WOLA ŻYCIA
 msgctxt "line_000221"
@@ -1131,6 +1134,7 @@ msgid "Patron: Ah! The rare and legendary purple Wookiee."
 msgstr ""
 
 #. pl: OTĘPIAJĄCA MANIPULACJA
+#, fuzzy
 msgctxt "line_000223"
 msgid "RESTRICTIVE MIND TRICK"
 msgstr "ОГЛУШЛИВА МАНІПУЛЯЦІЯ"
@@ -1183,7 +1187,7 @@ msgstr ""
 #. pl: TWÓJ NOWY NAJLEPSZY WYNIK
 msgctxt "line_000233"
 msgid "NEW PERSONAL BEST"
-msgstr "ВАШ НОВИЙ НАЙКРАЩИЙ РАХУНОК"
+msgstr "НОВИЙ ОСОБИСТИЙ РЕКОРД"
 
 #. pl: PARTNER ENGAGEMENT DIRECTOR
 msgctxt "line_000234"
@@ -1787,7 +1791,7 @@ msgstr "СПОРЯДЖЕНІ КАРТКИ"
 #. pl: Zresetowanie samouczków spowoduje, że wszystkie samouczki będą wyświetlane jak przy pierwszym włączeniu gry.
 msgctxt "line_000352"
 msgid "Resetting the tutorials will make all the tutorials show up again like they did the first time you played."
-msgstr "Скидання всіх навчальних повідомлень призведе до того, що всі повідомлення будуть відображатися так, як при першому запуску гри."
+msgstr "Скидання навчання призведе до того, що всі навчальні підказки будуть відображатися так, як при першому запуску гри."
 
 #. pl: ZRESETUJ SAMOUCZKI
 msgctxt "line_000353"
@@ -1821,6 +1825,7 @@ msgid " LEAD ONLINE ENGINEER                                                    
 msgstr " LEAD ONLINE ENGINEER                                                                                 "
 
 #. pl: TALLIE LINTRA
+#, fuzzy
 msgctxt "line_000359"
 msgid "TALLIE LINTRA"
 msgstr "TALLIE LINTRA"
@@ -1869,7 +1874,7 @@ msgstr ""
 #. pl: EMOTKA „TCHÓRZE!”
 msgctxt "line_000368"
 msgid "\"COWARDS!\" EMOTE"
-msgstr "ЖЕСТ «БОЯГУЗИ!»"
+msgstr "ЕМОЦІЯ «БОЯГУЗИ!»"
 
 #. pl: LEAD GAMEMODE DESIGNER
 msgctxt "line_000369"
@@ -2017,6 +2022,7 @@ msgid "IV"
 msgstr "IV"
 
 #. pl: EMOTKA „JESTEŚ TYLKO CELEM”
+#, fuzzy
 msgctxt "line_000398"
 msgid "\"YOU'RE JUST ANOTHER TARGET\" EMOTE"
 msgstr "ЕМОЦІЯ «ТИ — ЩЕ ОДНА ЦІЛЬ»"
@@ -2385,7 +2391,7 @@ msgstr ""
 #. pl: YAVIN 4
 msgctxt "line_000471"
 msgid "YAVIN 4"
-msgstr "YAVIN 4"
+msgstr "ЯВІН 4"
 
 #. pl: 1 GRACZ
 msgctxt "line_000472"
@@ -2485,7 +2491,7 @@ msgstr ""
 #. pl: Uratuj żołnierzy Republiki
 msgctxt "line_000491"
 msgid "Save the Republic Troops"
-msgstr "Урятуйте штурмовиків Республіки"
+msgstr "Урятуйте військо Республіки"
 
 #. pl: Zdobądź lornetkę
 msgctxt "line_000492"
@@ -3356,7 +3362,7 @@ msgstr ""
 #. pl: Wróć do swojego myśliwca
 msgctxt "line_000665"
 msgid "Reach Your Ship"
-msgstr "Дістаньтеся до свого корабля"
+msgstr "Дістаньтеся до свого винищувача"
 
 #. pl: POŁĄCZ SIĘ Z SIECIĄ, ABY ODEBRAĆ NAGRODĘ
 msgctxt "line_000666"
@@ -4447,7 +4453,7 @@ msgstr "FRAUD RISK ANALYSTS"
 #. pl: OCZEKIWANIE NA CELE
 msgctxt "line_000883"
 msgid "WAITING FOR OBJECTIVES"
-msgstr "ОЧІКУВАННЯ НА ЦІЛІ"
+msgstr "ОЧІКУВАННЯ ЦІЛЕЙ"
 
 #. pl: ID_SC_VEHICLE_STARCARD_TIE_SILENCER_REINFORCED_HULL_EFFECTVVVVVVVVVV
 msgctxt "line_000884"
@@ -15118,7 +15124,7 @@ msgstr " SHAPES MODELLER SUPERVISOR"
 #. pl: Przez 30 minut graj jako Chewbacca.
 msgctxt "line_003010"
 msgid "Play as Chewbacca for 30 minutes."
-msgstr "Грайте за Чубакку протягом 30 хвилин."
+msgstr "Грайте Чубаккою протягом 30 хвилин."
 
 #. pl: Pocisk samonaprowadzający
 msgctxt "line_003011"
@@ -22961,6 +22967,7 @@ msgid "ID_SC_VEHICLE_STARCARD_INTERCEPTOR_OFFENSIVE_EFFECTVVVVV"
 msgstr "ID_SC_VEHICLE_STARCARD_INTERCEPTOR_OFFENSIVE_EFFECTVVVVV"
 
 #. pl: WYGLĄD HANA SOLO — „PRZEMYTNIK”
+#, fuzzy
 msgctxt "line_004578"
 msgid "HAN SOLO \"SMUGGLER\" APPEARANCE"
 msgstr "ЗОВНІШНІСТЬ ХАНА СОЛО — «КОНТРАБАНДИСТ»"
@@ -28777,7 +28784,7 @@ msgstr ""
 #. pl: NIE POZWÓLCIE REBELIANTOM UCIEC Z DANYMI
 msgctxt "line_005739"
 msgid "STOP THE REBELS FROM ESCAPING WITH THE DATA"
-msgstr ""
+msgstr "НЕ ДАЙТЕ ПОВСТАНЦЯМ УТЕКТИ З ДАНИМИ"
 
 #. pl: Zay: Znowu żołnierze na zerowym!
 msgctxt "line_005740"
@@ -29927,7 +29934,7 @@ msgstr "ФОРСАЖ"
 #. pl: ZAGRAJ JAKO DARTH VADER
 msgctxt "line_005968"
 msgid "PLAY AS DARTH VADER"
-msgstr "ГРАЙТЕ ЯК ДАРТ ВЕЙДЕР"
+msgstr "ГРАЙТЕ ДАРТОМ ВЕЙДЕРОМ"
 
 #. pl: Zay: Jeszcze działam.
 msgctxt "line_005969"

@@ -809,10 +809,9 @@ msgid "Emotes"
 msgstr "Емоції"
 
 #. pl: Przez 5 minut graj oficerem.
-#, fuzzy
 msgctxt "line_000160"
 msgid "Play as the Officer for 5 minutes."
-msgstr "Протягом 5 хвилин грайте як офіцер."
+msgstr "Протягом 5 хвилин грайте за офіцера."
 
 #. pl: WSTĄP DO ARMII
 #, fuzzy

@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-05-30 20:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-02 08:12+0000\nLast-Translator: Nazar <melniknazar88@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -563,7 +563,7 @@ msgstr "Йода може здійснити 3 атаки з підскоку, �
 #. pl: Na pozycje obronne! Już!
 msgctxt "line_000111"
 msgid "Defensive positions! Now!"
-msgstr ""
+msgstr "Оборонні позиції!"
 
 #. pl: Nie dajcie im przejąć tego punktu! Jazda!
 msgctxt "line_000112"
@@ -578,7 +578,7 @@ msgstr ""
 #. pl: Nie przejdą. Umocnić pozycję!
 msgctxt "line_000114"
 msgid "Can't let them in. Secure that position!"
-msgstr "Не можемо їх впустити. Захищайте позицію!"
+msgstr "Не можна їм цього дозволити. Утримуйте позицію!"
 
 #. pl: Ruszać się! Chcę poczuć swąd złomu!
 msgctxt "line_000115"
@@ -751,7 +751,7 @@ msgstr ""
 #. pl: Jesteś offline. Połącz się ponownie w MENU GŁÓWNYM.
 msgctxt "line_000148"
 msgid "You are offline. Reconnect in the MAIN MENU."
-msgstr "Ви не в мережі. Під’єднайтесь через головне меню."
+msgstr "Ви не в мережі. Під’єднайтесь через ГОЛОВНЕ МЕНЮ."
 
 #. pl: Pokonaj 75 wrogów za pomocą Blurrga-1120 na dowolnej mapie trybu online.
 msgctxt "line_000149"
@@ -761,7 +761,7 @@ msgstr ""
 #. pl: OPORTUNISTKA
 msgctxt "line_000150"
 msgid "OPPORTUNIST"
-msgstr ""
+msgstr "ОППОРТУНІСТ"
 
 #. pl: Impuls jonowy X-winga unieszkodliwia wrogie statki i wieżyczki. Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej.
 msgctxt "line_000151"

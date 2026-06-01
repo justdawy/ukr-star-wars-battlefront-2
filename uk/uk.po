@@ -804,10 +804,9 @@ msgid " SENIOR NETWORK ENGINEER"
 msgstr " SENIOR NETWORK ENGINEER"
 
 #. pl: Emotki
-#, fuzzy
 msgctxt "line_000159"
 msgid "Emotes"
-msgstr "Жести"
+msgstr "Емоції"
 
 #. pl: Przez 5 minut graj oficerem.
 #, fuzzy

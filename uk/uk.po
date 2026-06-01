@@ -883,12 +883,12 @@ msgstr ""
 #. pl: 41. ELITARNY LEGION
 msgctxt "line_000174"
 msgid "41ST ELITE CORPS"
-msgstr ""
+msgstr "41-Й ЕЛІТНИЙ КОРПУС"
 
 #. pl: 91. KORPUS ZWIADOWCZY
 msgctxt "line_000175"
 msgid "91ST RECON CORPS"
-msgstr ""
+msgstr "91-Й РОЗВІДКОРПУС"
 
 #. pl: Stwórz wokół siebie gęstą zasłonę dymną, aby zniknąć z pola widzenia przeciwników.
 msgctxt "line_000176"
@@ -1031,7 +1031,7 @@ msgstr "Усуньте офіцерів"
 #. pl: Zniszcz myśliwce
 msgctxt "line_000203"
 msgid "Destroy the Starfighters"
-msgstr ""
+msgstr "Знищіть винищувачів"
 
 #. pl: ŁĄCZENIE...
 #, fuzzy
@@ -1118,7 +1118,7 @@ msgstr "Кашиїк"
 #. pl: Jedi jest w stanie użyć Mocy, aby wpłynąć na pośledni umysł, a w przypadku Mistrza pokroju Kenobiego – wręcz zniechęcić wrogów do użycia przeciwko niemu zdolności.
 msgctxt "line_000220"
 msgid "A Jedi’s mastery of the Force can influence the weak-minded, and in the case of Master Kenobi, even subvert his enemy’s desire to use their abilities against him. "
-msgstr ""
+msgstr "Майстерність Сили дозволяє джедаям впливати на слабкодухих, а Кенобі — навіть блокувати ворожі здібності, спрямовані проти нього. "
 
 #. pl: WOLA ŻYCIA
 msgctxt "line_000221"

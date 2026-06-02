@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-02 08:12+0000\nLast-Translator: Давид Шевня <dawidshevnya@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-02 12:33+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -1034,7 +1034,7 @@ msgstr "Усуньте офіцерів"
 #. pl: Zniszcz myśliwce
 msgctxt "line_000203"
 msgid "Destroy the Starfighters"
-msgstr "Знищіть винищувачі"
+msgstr "Знищте винищувачі"
 
 #. pl: ŁĄCZENIE...
 #, fuzzy
@@ -1680,7 +1680,7 @@ msgstr ""
 #. pl: Przez chwilę twoja broń zadaje zwiększone obrażenia.
 msgctxt "line_000330"
 msgid "Your weapons do more damage for a short period of time."
-msgstr "Тимчасово збільшує шкоду від вашої зброї."
+msgstr "Ваша зброя завдає більшої шкоди протягом короткого періоду часу."
 
 #. pl: Rey otrzymuje mniej obrażeń, gdy wykonuje SZARŻĘ.
 msgctxt "line_000331"
@@ -1720,7 +1720,7 @@ msgstr ""
 #. pl: UMIEJĘTNOŚĆ JEST AKTYWNA
 msgctxt "line_000338"
 msgid "ABILITY ALREADY ACTIVE"
-msgstr ""
+msgstr "ЗДІБНІСТЬ УЖЕ АКТИВОВАНА"
 
 #. pl: Yoda może rzucić się przed siebie nawet dwa razy, zadając obrażenia wrogom bez możliwości zablokowania ataku.
 msgctxt "line_000339"
@@ -1978,12 +1978,12 @@ msgstr ""
 #. pl: Blaster Lei Organy jest wyposażony w alternatywny tryb działania. Przytrzymaj %%LOCKON%%, aby naładować broń i oddać strzał.
 msgctxt "line_000389"
 msgid "Leia Organa's blaster has an alternate fire mode. Hold down %%LOCKON%% to charge up and fire a shot."
-msgstr ""
+msgstr "Бластер Леї Орґани має альтернативний режим стрільби. Утримуйте %%LOCKON%%, щоб зарядити зброю та вистрілити."
 
 #. pl: Pokonaj 10 bohaterów jasnej strony.
 msgctxt "line_000390"
 msgid "Defeat 10 lightsided Heroes."
-msgstr "Здолайте 10 героїв світлої сторони сили."
+msgstr "Переможіть 10 героїв світлого боку Сили."
 
 #. pl: DOBRZE, DOBRZE
 msgctxt "line_000391"
@@ -2194,7 +2194,7 @@ msgstr "ALL ORIGINAL MUSIC MIXED BY"
 #. pl: Skrzynia zawierająca 3 gwiezdne karty specjalisty.
 msgctxt "line_000432"
 msgid "This crate contains 3 Specialist Class Star Cards."
-msgstr ""
+msgstr "Ця скриня містить 3 зоряних картки класу «Спеціаліст»."
 
 #. pl: RZADKA SKRZYNIA RUCHU OPORU
 msgctxt "line_000433"
@@ -2239,7 +2239,7 @@ msgstr "Ця скриня містить до 3 карт «Герой-винищ
 #. pl: ZABIJ POSTACIE SI
 msgctxt "line_000441"
 msgid "KILL ALL AI"
-msgstr "УБИТИ ВСІХ ШІ"
+msgstr ""
 
 #. pl: Del: Oczywiście, że¬jest we mnie konflikt.{0.010s:1.690s} ¬ {1.710s:3.330s} Nie jestem ślepy! Wiem, do czego jest zdolne Imperium. Ale…{3.350s:6.150s} ¬ {6.170s:7.560s} ...co mi zostało?
 msgctxt "line_000442"
@@ -2264,7 +2264,7 @@ msgstr "Генерал Ґрівус"
 #. pl: SKRZYNIA „SIŁA CIEMNEJ STRONY”
 msgctxt "line_000446"
 msgid "POWER OF THE DARK SIDE EMOTE CRATE"
-msgstr "СКРИНЯ «СИЛА ТЕМНОЇ СТОРОНИ СИЛИ»"
+msgstr "СКРИНЯ «СИЛА ТЕМНОГО БОКУ»"
 
 #. pl: Zdobądź 122 721 punktów generałem Grievousem.
 msgctxt "line_000447"
@@ -2369,7 +2369,7 @@ msgstr ""
 #. pl: OPIS YAVIN 4
 msgctxt "line_000467"
 msgid "YAVIN 4 DESCRIPTION"
-msgstr "ЯВІН 4 ОПИС"
+msgstr "ОПИС ЯВІН 4"
 
 #. pl: 1 GRACZ
 msgctxt "line_000468"
@@ -2499,7 +2499,7 @@ msgstr ""
 #. pl: Zniszcz maszyny AT-AT
 msgctxt "line_000493"
 msgid "Destroy the AT-ATs"
-msgstr ""
+msgstr "Знищте AT-AT"
 
 #. pl: Spotkaj się z kapitanem Lindsey
 msgctxt "line_000494"
@@ -2845,7 +2845,7 @@ msgstr ""
 #. pl: Górująca nad polami bitewnymi od Jedhy po Endor zwiadowcza maszyna krocząca AT-ST stanowiła podporę działań wojennych Imperium Galaktycznego. Rodzący się Najwyższy Porządek zaadaptował następnie słynną konstrukcję, modyfikując jej płyty pancerza i układy ruchowe, przez co AT-ST raz jeszcze siał postrach wśród przeciwników.
 msgctxt "line_000562"
 msgid "Towering over battles from Jedha to Endor, the agile All Terrain Scout Vehicle was a staple of the Galactic Empire’s war effort. In the years that followed, the rise of the First Order saw them leverage the AT-ST’s iconic design and re-engineer the walker’s armor plating and locomotion systems to instill fear in any who opposed them."
-msgstr "Маневрений ходун AT-ST був основою армії Галактичної Імперії від Джеди до Ендора. Пізніше Верховний Порядок перейняв цю культову конструкцію, оновивши броню та системи руху ходуна, щоб уселяти жах у всіх незгодних."
+msgstr "Цей розвідувальний всюдихід AT-ST, що височів над полями битв від Джеди до Ендора, був основою військової машини Галактичної Імперії. Згодом Верховний Порядок перейняв культову конструкцію, модернізувавши бронепластини та системи руху ходуна, щоб знову вселяти жах у кожного, хто наважиться протистояти йому."
 
 #. pl: Wykonuj cotygodniowe wyzwania frakcji, aby otrzymać: **Skrzynie wzmacniające z gwiezdnymi kartami**
 msgctxt "line_000563"
@@ -3055,7 +3055,7 @@ msgstr ""
 #. pl: TX-130 typu Saber był zwrotnym czołgiem bojowym szybkiego uderzenia będącym na wyposażeniu wojsk Republiki Galaktycznej.
 msgctxt "line_000604"
 msgid "The TX-130 Saber-class fighter tank was a maneuverable, fast-attack vehicle used by select battalions in the Grand Army of the Republic."
-msgstr "Маневрений штурмовий танк класу «Saber» TX-130. Використовувався окремими підрозділами Великої Армії Республіки."
+msgstr "Бойовий танк швидкого реагування TX-130 класу «Шабля» — це маневрена машина, яку використовували окремі підрозділи Великої армії Республіки."
 
 #. pl: ZAGRASZ JAKO {0:s} ZA
 msgctxt "line_000605"
@@ -3090,12 +3090,12 @@ msgstr ""
 #. pl: Pokonaj 5 wrogów dowolnymi granatami.
 msgctxt "line_000611"
 msgid "Defeat 5 Enemies using any grenades."
-msgstr "Убийте 5 ворогів будь-якою гранатою."
+msgstr "Переможіть 5 ворогів будь-якою гранатою."
 
 #. pl: Dwie 8-osobowe drużyny rywalizują ze sobą w scenariuszach polegających na realizowaniu celów.
 msgctxt "line_000612"
 msgid "Two teams of eight players compete in objective-based scenarios."
-msgstr "Командні змагання у форматі «вісім на вісім», де головною метою є виконання поставлених завдань."
+msgstr "Дві команди по вісім гравців змагаються у сценаріях, де головною метою є виконання поставлених завдань."
 
 #. pl: Droid protokolarny: Czy mogę zasugerować ¬mniej inwazyjną procedurę?
 msgctxt "line_000613"
@@ -3165,7 +3165,7 @@ msgstr ""
 #. pl: WYMAGANE POŁĄCZENIE
 msgctxt "line_000626"
 msgid "CONNECTION REQUIRED"
-msgstr "НЕОБХІДНО З'ЄДНАННЯ"
+msgstr "НЕОБХІДНЕ З'ЄДНАННЯ"
 
 #. pl: Luke: Nic mi nie będzie, R2. Zostań tu, dobrze?
 msgctxt "line_000627"
@@ -3245,7 +3245,7 @@ msgstr ""
 #. pl: W ciągu dziesięcioleci po Galaktycznej Wojnie Domowej Pillio pozostawało zwykłą, ignorowaną planetą w zapomnianym układzie. Teraz ten jasny niegdyś świat spowiła ciemność.
 msgctxt "line_000642"
 msgid "In the decades following the Galactic Civil War, Pillio should have remained an ignored, unremarkable planet in a forgotten system. Now darkness shrouds the once bright world."
-msgstr "Упродовж десятиліть після завершення Галактичної громадянської війни Пілліо судилося бути непомітним, звичайним світом на околиці всесвіту. Але сьогодні темрява оповила планету, яка колись сяяла світлом."
+msgstr "Упродовж десятиліть після Галактичної громадянської війни Пілліо мала б залишатися непомітною, звичайною планетою у забутій системі. Тепер цей колись яскравий світ оповила темрява."
 
 #. pl: CZŁOWIEK, REBELIA 02
 msgctxt "line_000643"
@@ -3335,7 +3335,7 @@ msgstr ""
 #. pl: Dostosowany do rękawic kapitan Phasmy szybkostrzelny karabin blasterowy, wyposażony w podwójne przybliżenie, tryb noktowizji oraz chromowane wykończenie. Phasma zleciła jego wykonanie na rodzimej planecie Parnassos po wstąpieniu do Najwyższego Porządku.
 msgctxt "line_000660"
 msgid "Tuned to Captain Phasma's gloves, this high fire-rate blaster has a dual-zoom functionality, including night vision, and a chromium finish. She ordered it on her home planet Parnassos after joining the First Order."
-msgstr ""
+msgstr "Швидкострільний бластер, спеціально пристосований до рукавичок капітанки Фазми, обладнений подвійним наближенням, режимом нічного бачення та хромованим покриттям. Фазма замовила його виготовлення на рідній планеті Парнасос після вступу до лав Верховного Порядку."
 
 #. pl: SKRZYNIA KREDYTÓW LICHWIARZA
 msgctxt "line_000661"
@@ -3930,7 +3930,7 @@ msgstr "PAGE¬DOWN"
 #. pl: OPIS HOTH
 msgctxt "line_000779"
 msgid "HOTH DESCRIPTION"
-msgstr "ХОТ ОПИС"
+msgstr ""
 
 #. pl: HOTH
 msgctxt "line_000780"
@@ -4436,7 +4436,7 @@ msgstr ""
 #. pl: PLAŻA KACHIRHO
 msgctxt "line_000880"
 msgid "KACHIRHO BEACH"
-msgstr "ПЛЯЖ КАЧІРХО"
+msgstr "ПЛЯЖ КАЧІРО"
 
 #. pl: Leema Kai: W tej branży to właściwie emerytura.¬A wy mi ją właśnie rujnujecie!
 msgctxt "line_000881"
@@ -4582,7 +4582,7 @@ msgstr ""
 #. pl: Agent Hask został zneutralizowany
 msgctxt "line_000909"
 msgid "Agent Hask Was Neutralized"
-msgstr "Агент Хаск нейтралізований"
+msgstr "Агент Гаск знищений"
 
 #. pl: DOŚWIADCZONA IDEN VERSIO
 msgctxt "line_000910"
@@ -4592,7 +4592,7 @@ msgstr "ДОСВІДЧЕНА ІДЕН ВЕРСІО"
 #. pl: Ewok polega na swoich wyostrzonych zmysłach, dzięki którym potrafi zwietrzyć i spostrzec osłabionego przeciwnika.
 msgctxt "line_000911"
 msgid "The Ewok draws upon their natural instincts allowing them to uncover and single out weakened enemies. "
-msgstr "Евок покладається на власні природні інстинкти, що дозволяє йому виявляти та вистежувати поранених ворогів. "
+msgstr "Евок покладається на свої загострені почуття, завдяки яким він може винюхати та помітити ослабленого ворога. "
 
 #. pl: STRZELEC WYBOROWY – E-11D
 msgctxt "line_000912"
@@ -4622,12 +4622,12 @@ msgstr ""
 #. pl: NASTĘPNA RUNDA ZA
 msgctxt "line_000917"
 msgid "NEXT ROUND STARTS IN"
-msgstr "НАСТУПНИЙ РАУНД РОЗПОЧНЕТЬСЯ ЗА"
+msgstr "НАСТУПНИЙ РАУНД ЧЕРЕЗ"
 
 #. pl: MOTION CAPTURE ASSISTANT ANIMATOR
 msgctxt "line_000918"
 msgid "MOTION CAPTURE ASSISTANT ANIMATOR"
-msgstr ""
+msgstr "MOTION CAPTURE ASSISTANT ANIMATOR"
 
 #. pl: Czas namierzania cię przez rakiety wroga ulega wydłużeniu.
 msgctxt "line_000919"
@@ -4682,7 +4682,7 @@ msgstr ""
 #. pl: Finn i kapitan Phasma
 msgctxt "line_000929"
 msgid "Finn & Captain Phasma"
-msgstr "Фінн & Капітан Фазма"
+msgstr "Фінн і Капітанка Фазма"
 
 #. pl: Kapitan: Straciliśmy łączność z drużyną w wieży, ¬więc zachowajcie ostrożność.{0.000s:3.720s} Rozproszyć się!{3.740s:5.260s} Komandor Hask kazał nam ich znaleźć!
 msgctxt "line_000930"
@@ -4877,7 +4877,7 @@ msgstr " ADDITIONAL SOUND EDITORS"
 #. pl: EMOTKA „ROZKAZ, ROZKAZ”
 msgctxt "line_000968"
 msgid "\"ROGER ROGER\" EMOTE"
-msgstr ""
+msgstr "ЕМОЦІЯ «ЯСНО, ЯСНО»"
 
 #. pl: WCHODZENIE NA POKŁAD...
 msgctxt "line_000969"
@@ -4958,12 +4958,12 @@ msgstr ""
 #. pl: LOCALIZATION
 msgctxt "line_000984"
 msgid " LOCALIZATION"
-msgstr ""
+msgstr " LOCALIZATION"
 
 #. pl: DIRECTOR GLOBAL LIFECYCLE MARKETING
 msgctxt "line_000985"
 msgid "DIRECTOR GLOBAL LIFECYCLE MARKETING"
-msgstr ""
+msgstr "DIRECTOR GLOBAL LIFECYCLE MARKETING"
 
 #. pl: Zay: Widzę mnóstwo myśliwców TIE. Mnóstwo.
 msgctxt "line_000986"
@@ -5039,7 +5039,7 @@ msgstr ""
 #. pl: Wyeliminuj Haska
 msgctxt "line_001000"
 msgid "Eliminate Hask"
-msgstr "Ліквідувати Хаска"
+msgstr "Знищте Гаска"
 
 #. pl: DIGITAL CONTENT MANAGER
 msgctxt "line_001001"
@@ -5860,7 +5860,7 @@ msgstr ""
 #. pl: POKONUJE CIĘ
 msgctxt "line_001164"
 msgid "DEFEATED BY"
-msgstr "ВАС УБИЛИ"
+msgstr ""
 
 #. pl: Decyduje o jakości i metodzie generowania oświetlenia.
 msgctxt "line_001165"
@@ -6453,6 +6453,7 @@ msgid "VETERAN KYLO REN"
 msgstr "ВЕТЕРАН КАЙЛО РЕН"
 
 #. pl: SPECJALISTA – 70
+#, fuzzy
 msgctxt "line_001283"
 msgid "SPECIALIST 70"
 msgstr "СПЕЦІАЛІСТ 70"
@@ -7123,7 +7124,6 @@ msgid "INCREASED RADIUS"
 msgstr ""
 
 #. pl: DOŁĄCZENIE DO GRY ZA
-#, fuzzy
 msgctxt "line_001417"
 msgid "JOINING MATCH IN"
 msgstr "ПРИЄДНАННЯ ДО ГРИ ЧЕРЕЗ"
@@ -11059,7 +11059,7 @@ msgstr ""
 #. pl: Kapitan Phasma
 msgctxt "line_002203"
 msgid "Captain Phasma"
-msgstr "Капітан Фазма"
+msgstr "Капітанка Фазма"
 
 #. pl: ODBLOKOWUJE EMOTKĘ „POKŁOŃ SIĘ”
 msgctxt "line_002204"
@@ -15014,12 +15014,12 @@ msgstr ""
 #. pl: Wyeliminuj drużyny Rebeliantów
 msgctxt "line_002989"
 msgid "Eliminate Rebel Squads"
-msgstr "Ліквідуйте загони повстанців"
+msgstr "Знищте загони повстанців"
 
 #. pl: Wyeliminuj wsparcie Rebeliantów
 msgctxt "line_002990"
 msgid "Eliminate Rebel Reinforcements"
-msgstr "Ліквідуйте підкріплення повстанців"
+msgstr "Знищте підкріплення повстанців"
 
 #. pl: Dotrzyj do agenta Meeko
 msgctxt "line_002991"
@@ -15054,7 +15054,7 @@ msgstr ""
 #. pl: Wyeliminuj Rebeliantów
 msgctxt "line_002997"
 msgid "Eliminate Rebels"
-msgstr "Ліквідуйте повстанців"
+msgstr "Знищте повстанців"
 
 #. pl: Podążaj za agentem Meeko
 msgctxt "line_002998"
@@ -16798,7 +16798,7 @@ msgstr ""
 #. pl: Wyeliminuj siły imperialne
 msgctxt "line_003345"
 msgid "Eliminate Imperial Forces"
-msgstr "Ліквідуйте імперські сили"
+msgstr "Знищте імперські війська"
 
 #. pl: Przeszukaj jaskinię
 msgctxt "line_003346"
@@ -17293,7 +17293,7 @@ msgstr ""
 #. pl: WYELIMINOWANO
 msgctxt "line_003444"
 msgid "ELIMINATED"
-msgstr "ЛІКВІДОВАНО"
+msgstr "ЗНИЩЕНО"
 
 #. pl: MISJA NIEUDANA
 msgctxt "line_003445"
@@ -17746,6 +17746,7 @@ msgid "Your Personal Shield gains more health and longer active time."
 msgstr ""
 
 #. pl: ZŁOCZYŃCA POKONANY – BOHATER POWRACA
+#, fuzzy
 msgctxt "line_003535"
 msgid "VILLAIN DEFEATED - HERO RETURNING"
 msgstr "ЛИХОДІЙ ПЕРЕМОЖЕНИЙ — ГЕРОЙ ПОВЕРТАЄТЬСЯ"
@@ -20365,7 +20366,7 @@ msgstr " LEAD TEAM"
 #. pl: Pokonaj wroga jako Lando Calrissian.
 msgctxt "line_004058"
 msgid "Defeat an Enemy as Lando Calrissian."
-msgstr "Переможіть ворога, граючи як Лендо Калріссіан."
+msgstr "Переможіть ворога, граючи Лендо Калріссіаном."
 
 #. pl: PRZEBIEGŁOŚĆ
 msgctxt "line_004059"
@@ -21081,7 +21082,7 @@ msgstr "Зловіть Гаска"
 #. pl: Wyeliminuj siły imperialne
 msgctxt "line_004201"
 msgid "Eliminate Imperial Forces"
-msgstr "Ліквідуйте імперські сили"
+msgstr "Знищте імперські війська"
 
 #. pl: DIGITAL COMMERCIAL MANAGERS
 msgctxt "line_004202"
@@ -22456,7 +22457,7 @@ msgstr ""
 #. pl: WYELIMINUJ
 msgctxt "line_004476"
 msgid "ELIMINATE"
-msgstr "ЛІКВІДУЙТЕ"
+msgstr "ЗНИЩТЕ"
 
 #. pl: JAKOŚĆ PRZETW. KOŃCOWEGO
 msgctxt "line_004477"
@@ -97445,7 +97446,7 @@ msgstr ""
 #. pl: GRAJ W DOWOLNYM TRYBIE PRZEZ 10 MINUT.
 msgctxt "line_019466"
 msgid "PLAY ANY MODE FOR 10 MINUTES."
-msgstr "ГРАЙТЕ У БУДЬ-ЯКОМУ РЕЖИМІ ПРОТЯГОМ 10-ТИ ХВИЛИН."
+msgstr "ГРАЙТЕ У БУДЬ-ЯКОМУ РЕЖИМІ ПРОТЯГОМ 10 ХВИЛИН."
 
 #. pl: ROZEGRAJ CEL
 msgctxt "line_019467"

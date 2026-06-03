@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-02 12:33+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-04 08:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -701,7 +701,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_000138"
 msgid "ENGINE UPGRADE"
-msgstr "ВДОСКОНАЛЕННЯ ДВИГУНА"
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Our multi-troop transport is en route to the Naboo palace. Clone resistance is immenent. Escort the MTT and counter trooper ion attacks.
 msgctxt "line_000139"
@@ -3783,6 +3783,7 @@ msgid "EMPEROR"
 msgstr "ІМПЕРАТОР"
 
 #. pl: DOWÓDCA
+#, fuzzy
 msgctxt "line_000750"
 msgid "LEADER"
 msgstr "ЛІДЕР"
@@ -4080,7 +4081,7 @@ msgstr "ASSOCIATE PRODUCT MANAGER"
 #. pl: Del: Ej, miałeś się tym zająć.
 msgctxt "line_000809"
 msgid "Del: Hey. You said you'd fix this."
-msgstr "Дель: Гей, ти ж мав цим зайнятися."
+msgstr "Дел: Гей, ти ж мав цим зайнятися."
 
 #. pl: Leia: Nie wątpię, ale Ruch Oporu się ewakuuje.
 msgctxt "line_000810"
@@ -4205,7 +4206,7 @@ msgstr ""
 #. pl: Ukończ wszystkie poziomy scenariusza bitewnego „No to siup”.
 msgctxt "line_000834"
 msgid "Complete all tiers of the Battle Scenario Here Goes Nothing "
-msgstr "Пройдіть всі рівні бойового сценарію «Ну, поїхали» "
+msgstr "Пройдіть всі рівні бойового сценарію «Пан або пропав» "
 
 #. pl: Iden: Kolejny zestrzelony.
 msgctxt "line_000835"
@@ -4592,7 +4593,7 @@ msgstr "ДОСВІДЧЕНА ІДЕН ВЕРСІО"
 #. pl: Ewok polega na swoich wyostrzonych zmysłach, dzięki którym potrafi zwietrzyć i spostrzec osłabionego przeciwnika.
 msgctxt "line_000911"
 msgid "The Ewok draws upon their natural instincts allowing them to uncover and single out weakened enemies. "
-msgstr "Евок покладається на свої загострені почуття, завдяки яким він може винюхати та помітити ослабленого ворога. "
+msgstr "Евок покладається на свої загострені почуття, завдяки яким винюхує та помічає ослаблених ворогів. "
 
 #. pl: STRZELEC WYBOROWY – E-11D
 msgctxt "line_000912"
@@ -5084,7 +5085,7 @@ msgstr ""
 #. pl: ODNAWIANIE ZDOLNOŚCI
 msgctxt "line_001009"
 msgid "ABILITY RECHARGE"
-msgstr "ПЕРЕЗАРЯДЖАННЯ ЗДІБНОСТЕЙ"
+msgstr "ВІДНОВЛЕННЯ ЗДІБНОСТЕЙ"
 
 #. pl: Del: Jest ich więcej!
 msgctxt "line_001010"
@@ -6090,7 +6091,7 @@ msgstr ""
 #. pl: ABY ROZPOCZĄĆ, NACIŚNIJ **%%OK%%**
 msgctxt "line_001210"
 msgid "PRESS **%%OK%%** TO START"
-msgstr "НАТИСНІТЬ **%%OK%%*, ЩОБ ПОЧАТИ"
+msgstr "НАТИСНІТЬ **%%OK%%**, ЩОБ ПОЧАТИ"
 
 #. pl: Osiągnij żołnierzem szturmowym 22. poziom klasy.
 msgctxt "line_001211"
@@ -6105,7 +6106,7 @@ msgstr ""
 #. pl: Zdobądź 137 704 punktów oficerem.
 msgctxt "line_001213"
 msgid "Earn 137704 score as the Officer."
-msgstr "Заробіть 137704 очок, граючи офіцером."
+msgstr "Заробіть 137704 очки, граючи офіцером."
 
 #. pl: Decyduje o procesach przetwarzania końcowego, takich jak rozmycie w ruchu, zniekształcenia, HDR oraz głębia pola.
 msgctxt "line_001214"
@@ -6300,9 +6301,10 @@ msgstr ""
 #. pl: HUD – SKALA
 msgctxt "line_001252"
 msgid "HUD SCALE"
-msgstr "HUD — ШКАЛА"
+msgstr "ШКАЛА HUD"
 
 #. pl: P SHIFT
+#, fuzzy
 msgctxt "line_001253"
 msgid "R SHIFT"
 msgstr "R SHIFT"
@@ -6506,7 +6508,7 @@ msgstr ""
 #. pl: PORADA
 msgctxt "line_001293"
 msgid "HINT"
-msgstr "ПОРАДА"
+msgstr "ПІДКАЗКА"
 
 #. pl: Są w sali tronowej!
 msgctxt "line_001294"
@@ -6611,7 +6613,7 @@ msgstr ""
 #. pl: SKRZYNIA UXR – ZWYKŁA
 msgctxt "line_001314"
 msgid "UXR CRATE - COMMON"
-msgstr "СКРИНЯ UXR — ЗВИЧАЙНА"
+msgstr "ЗВИЧАЙНА СКРИНЯ UXR"
 
 #. pl: ZABICI ŻOŁNIERZE
 msgctxt "line_001315"
@@ -6831,7 +6833,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_001358"
 msgid "ENGINE UPGRADE"
-msgstr "ПОКРАЩЕННЯ ДВИГУНА"
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Devin Prinn: Osłabiać ich dalej. Wybić ich do nogi.
 msgctxt "line_001359"
@@ -7111,7 +7113,7 @@ msgstr ""
 #. pl: PORADA
 msgctxt "line_001414"
 msgid "HINT"
-msgstr "ПОРАДА"
+msgstr "ПІДКАЗКА"
 
 #. pl: Leema Kai: Hej. Jak to?
 msgctxt "line_001415"
@@ -7506,7 +7508,7 @@ msgstr ""
 #. pl: Dostęp sieciowy dla tej gry został ograniczony. Sprawdź adres e-mail powiązany z twoim kontem EA i zapoznaj się z dodatkowymi szczegółami na stronie ea.com/unable-to-connect.
 msgctxt "line_001493"
 msgid "We have restricted your online access for this game. Check your email associated with your EA account and see ea.com/unable-to-connect for more information."
-msgstr "Доступ до цієї гри в онлайн режимі обмежено. Перевірте електронну пошту, пов'язану з вашим обліковим записом EA, та перейдіть на сторінку ea.com/unable-to-connect, щоб отримати додаткову інформацію."
+msgstr "Доступ до цієї гри в онлайн режимі обмежено. Перевірте електронну пошту, пов'язану з вашим обліковим записом EA, та перейдіть на сторінку ea.com/unable-to-connect для отримання додаткової інформації."
 
 #. pl: Luke: Odsłonię terminal.
 msgctxt "line_001494"
@@ -8196,7 +8198,7 @@ msgstr ""
 #. pl: CZAS ODN. ZDOLNOŚCI
 msgctxt "line_001631"
 msgid "ABILITY RECHARGE TIME"
-msgstr "ЧАС ПЕРЕЗАРЯДЖАННЯ ЗДІБНОСТЕЙ"
+msgstr "ЧАС ВІДНОВЛЕННЯ ЗДІБНОСТЕЙ"
 
 #. pl: PRZYCISK 22
 msgctxt "line_001632"
@@ -8742,7 +8744,7 @@ msgstr ""
 #. pl: CHODZĄCY TRUP
 msgctxt "line_001740"
 msgid "DEAD MAN WALKING"
-msgstr "ХОДЯЧИЙ ТРУП"
+msgstr "ХОДЯЧИЙ МРЕЦЬ"
 
 #. pl: Iden: Zdobyłam ciężką broń.
 msgctxt "line_001741"
@@ -8760,6 +8762,7 @@ msgid "EWOK KILLED"
 msgstr ""
 
 #. pl: Nie można dołączyć do sesji.
+#, fuzzy
 msgctxt "line_001744"
 msgid "You cannot join the same session."
 msgstr "Неможливо приєднатися до сеансу."
@@ -8787,7 +8790,7 @@ msgstr ""
 #. pl: Skrzynia zawierająca emotkę Phasmy „ZABIJĄ WAS WSZYSTKICH”.
 msgctxt "line_001749"
 msgid "This crate contains Phasma \"KILL YOU ALL\" emote."
-msgstr "Скриня містить емоцію Фазми «УБ’Ю ВАС УСІХ»."
+msgstr "Скриня містить емоцію Фазми «УБИТИ ЇХ УСІХ»."
 
 #. pl: Shriv: Dobry pomysł. Nie ryzykujmy zdrowiem Zay.
 msgctxt "line_001750"
@@ -9214,7 +9217,7 @@ msgstr ""
 #. pl: Jako bohater Ruchu Oporu Finn inspiruje pobliskich sojuszników, zapewniając im dodatkowe zdrowie, redukcję obrażeń, niewrażliwość na przegrzanie broni i szybsze odnawianie zdolności.
 msgctxt "line_001834"
 msgid "As a hero of the Resistance, Finn inspires nearby allies supplying them with extra health, damage reduction, no weapon cooldown, and faster ability recharge."
-msgstr "Як герой Руху Опору, Фінн надихає союзників поблизу, надаючи їм додаткове здоров'я, зменшення шкоди від ворогів, відсутність перезаряджання зброї та швидше відновлення здібностей."
+msgstr "Як герой Опору, Фінн надихає союзників поблизу, надаючи їм додаткове здоров'я, зменшення шкоди від ворогів, відсутність перезаряджання зброї та швидше відновлення здібностей."
 
 #. pl: Otrzymaj cztery wyglądy w cenie dwóch. Zestaw zawierający wyglądy żołnierzy-klonów 501. Legionu w wariancie fazy II dla klas żołnierza szturmowego, ciężkiego strzelca, oficera i specjalisty. Każdy duplikat już posiadanego elementu zestawu zostanie wymieniony na 20 000 kredytów.
 msgctxt "line_001835"
@@ -9567,6 +9570,7 @@ msgid "Select gamemode."
 msgstr ""
 
 #. pl: ZWYCIĘSKA SKRZYNIA POJAZDU
+#, fuzzy
 msgctxt "line_001905"
 msgid "VEHICLE VICTORY CRATE"
 msgstr "ПЕРЕМОЖНА СКРИНЯ ТЕХНІКИ"
@@ -9704,7 +9708,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_001932"
 msgid "ENGINE UPGRADE"
-msgstr "ПОКРАЩЕННЯ ДВИГУНА"
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Shriv: Idę za tobą, pamiętasz?
 msgctxt "line_001933"
@@ -11014,7 +11018,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_002194"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: WCZYTYWANIE KOLEKCJI…
 msgctxt "line_002195"
@@ -12044,7 +12048,7 @@ msgstr "x"
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_002400"
 msgid "ENGINE UPGRADE"
-msgstr "ПОКРАЩЕННЯ ДВИГУНА"
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: TURBOLASERY
 msgctxt "line_002401"
@@ -24772,7 +24776,7 @@ msgstr "ПРИНЦЕСА ЛЕЯ"
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_004938"
 msgid "ENGINE UPGRADE"
-msgstr "ПОКРАЩЕННЯ ДВИГУНА"
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: {0:time:hh:mm:ss}
 #, fuzzy
@@ -25153,7 +25157,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_005014"
 msgid "ENGINE UPGRADE"
-msgstr "ПОКРАЩЕННЯ ДВИГУНА"
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Tę skrzynię uzyskano w wydarzeniu.
 msgctxt "line_005015"
@@ -25513,7 +25517,7 @@ msgstr ""
 #. pl: ZAAWANSOWANE ULEPSZENIE SILNIKA
 msgctxt "line_005086"
 msgid "ADVANCED ENGINE UPGRADE"
-msgstr ""
+msgstr "ПРОСУНУТЕ УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: **{0:s}:** ##{1:s}##
 msgctxt "line_005087"
@@ -33329,7 +33333,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_006645"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: TRIUMFALNA SKRZYNIA BOHATERA
 msgctxt "line_006646"
@@ -34174,7 +34178,7 @@ msgstr ""
 #. pl: ZAAWANSOWANE ULEPSZENIE SILNIKA
 msgctxt "line_006814"
 msgid "ADVANCED ENGINE UPGRADE"
-msgstr ""
+msgstr "ПРОСУНУТЕ УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: POZ. TRUDNOŚCI: {0:d}
 msgctxt "line_006815"
@@ -35139,7 +35143,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_007007"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: ODZYSKANA SKRZYNIA
 msgctxt "line_007008"
@@ -38310,7 +38314,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_007641"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: {0:d} PUNKTÓW
 msgctxt "line_007642"
@@ -39245,7 +39249,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_007828"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Zdobądź 389 809 punktów Rey.
 #, fuzzy
@@ -40546,7 +40550,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_008088"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: CONTENT AND DIGITAL STRATEGY
 msgctxt "line_008089"
@@ -43731,7 +43735,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_008725"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: WIEŻYCZKA JONOWA
 msgctxt "line_008726"
@@ -64610,7 +64614,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_012900"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: ODBLOKUJ
 msgctxt "line_012901"
@@ -65315,7 +65319,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_013041"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: NIE
 msgctxt "line_013042"
@@ -65695,7 +65699,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_013117"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: HEROICZNA SKRZYNIA MYŚLIWCA
 msgctxt "line_013118"
@@ -65725,7 +65729,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_013123"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Wyjątkowo mobilna jednostka desantowa stosująca spersonalizowany pancerz i zintegrowany plecak rakietowy, umożliwiający szybkie przemieszczanie się i ataki z zaskoczenia.
 msgctxt "line_013124"
@@ -84691,7 +84695,7 @@ msgstr ""
 #. pl: ULEPSZENIE SILNIKA
 msgctxt "line_016916"
 msgid "ENGINE UPGRADE"
-msgstr ""
+msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 
 #. pl: Iden: Pole zniknęło!
 msgctxt "line_016917"
@@ -92540,7 +92544,7 @@ msgstr ""
 #. pl: ID_SC_VEHICLE_STARCARD_REYS_FALCON_ENGINE_UPGRADE_EFFECTVVVVVVVVVV
 msgctxt "line_018485"
 msgid "ID_SC_VEHICLE_STARCARD_REYS_FALCON_ENGINE_UPGRADE_EFFECTVVVVV"
-msgstr ""
+msgstr "ID_SC_VEHICLE_STARCARD_REYS_FALCON_ENGINE_UPGRADE_EFFECTVVVVV"
 
 #. pl: Śledzenie postępów broni
 msgctxt "line_018486"

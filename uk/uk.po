@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-04 08:12+0000\nLast-Translator: Weblate Admin <davidshevnya@ukr.net>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: TXT→PO Template\nPOT-Creation-Date: \nPO-Revision-Date: 2026-06-13 09:40+0000\nLast-Translator: Nazar <melniknazar88@gmail.com>\nLanguage-Team: Ukrainian <https://translate.justdawy.pp.ua/projects/ukrayinizator-sw-bf2/uk/uk/>\nLanguage: uk\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.17.1\n"
 
 #. pl: ART DEPARTMENT PRODUCTION MANAGER
 msgctxt "line_000001"
@@ -647,10 +647,9 @@ msgid "THERE IS NO ESCAPE"
 msgstr "ВТЕКТИ НЕМОЖЛИВО"
 
 #. pl: NACIŚNIJ %%ACTIVATE%%, ABY GRAĆ JAKO {0:s}
-#, fuzzy
 msgctxt "line_000128"
 msgid "PRESS %%ACTIVATE%% TO PLAY AS {0:s}"
-msgstr "НАТИСНІТЬ %%ACTIVATE%%, ЩОБ ГРАТИ ЯК {0:s}"
+msgstr "НАТИСНІТЬ %%ACTIVATE%%, ЩОБ ГРАТИ ЗА {0:s}"
 
 #. pl: Leia: Pole! Tutaj!
 msgctxt "line_000129"
@@ -1575,7 +1574,7 @@ msgstr ""
 #. pl: Gwiezdne karty można odblokowywać¬i ulepszać w menu KOLEKCJI.
 msgctxt "line_000309"
 msgid "Star Cards can be unlocked and upgraded from the COLLECTION menus"
-msgstr ""
+msgstr "Розблоковуйте та покращуйте зоряні картки в розділі «КОЛЕКЦІЯ»"
 
 #. pl: UWAGA
 msgctxt "line_000310"
@@ -5035,7 +5034,7 @@ msgstr ""
 #. pl: ROZEGRAJ DOWOLNY
 msgctxt "line_000999"
 msgid "PLAY ANY"
-msgstr ""
+msgstr "ЗІГРАТИ ВСЕ"
 
 #. pl: Wyeliminuj Haska
 msgctxt "line_001000"
@@ -5441,7 +5440,7 @@ msgstr ""
 #. pl: Rozegraj 5 rund w trybie potyczki.
 msgctxt "line_001080"
 msgid "Play 5 rounds of Blast."
-msgstr ""
+msgstr "Зіграйте 5 раундів у режимі «Сутичка»."
 
 #. pl: Przez 10 minut graj każdą klasą żołnierzy.
 msgctxt "line_001081"
@@ -5466,7 +5465,7 @@ msgstr ""
 #. pl: Ukończ 5 rund w trybie galaktycznego szturmu.
 msgctxt "line_001085"
 msgid "Complete 5 rounds of Galactic Assault."
-msgstr ""
+msgstr "Завершіть 5 матчів у режимі «Галактична битва»."
 
 #. pl: Pokonaj 20 wrogów dowolnym myśliwcem.
 msgctxt "line_001086"
@@ -6081,7 +6080,7 @@ msgstr ""
 #. pl: TRYB GRY
 msgctxt "line_001208"
 msgid "PLAY MODE"
-msgstr "РЕЖИМ ГРИ"
+msgstr "ЗІГРАТИ"
 
 #. pl: NATARCIE BARKIEM
 msgctxt "line_001209"
@@ -6437,7 +6436,7 @@ msgstr ""
 #. pl: ZAGRAJ SLAVEM I
 msgctxt "line_001279"
 msgid "PLAY AS SLAVE 1"
-msgstr ""
+msgstr "ЗІГРАТИ ЗА РАБА 1"
 
 #. pl: PRODUCT EXPERTS
 msgctxt "line_001280"
@@ -7368,7 +7367,7 @@ msgstr ""
 #. pl: Podczas oczekiwania na zakończenie instalacji STAR WARS™ Battlefront™ II rozegraj bitwę w trybie arcade.¬Zniszcz siły Ruchu Oporu, które napadły na bazę Starkiller. Kylo Ren ukarze wrogów za ich bezczelność.
 msgctxt "line_001465"
 msgid "Play an Arcade battle while you wait for STAR WARS™ Battlefront™ II to install. ¬¬Destroy the Resistance forces that dare to attack Starkiller Base. Kylo Ren will see to it that they are punished for their insolence."
-msgstr ""
+msgstr "Зіграйте в битву в режимі «Аркада», поки очікуєте на встановлення STAR WARS™ Battlefront™ II. ¬¬Знищте сили Опору, які наважилися атакувати базу «Старкіллер». Кайло Рен подбає про те, щоб вони були покарані за своє зухвальство."
 
 #. pl: Lando: Wiecie co?{0.000s:0.940s} Daliście dobry cynk o Operacji Popiół.{0.960s:4.110s} W zamian załatwiłem dwa myśliwce¬specjalnie dla was.
 msgctxt "line_001466"
@@ -7728,7 +7727,7 @@ msgstr ""
 #. pl: Oprócz informacji, które przekazujesz EA bezpośrednio, EA gromadzi niektóre informacje w celu doskonalenia naszych produktów i usług, świadczenia usług na rzecz użytkownika, sprawnego dostarczania aktualizacji oprogramowania i dynamicznie dostarczanych treści oraz zapewnienia wsparcia dla klienta, komunikowania się z nim, a także wzbogacania jego wrażeń podczas korzystania z produktów i usług EA. Dane te nie zostaną udostępnione żadnej stronie trzeciej w sposób umożliwiający identyfikację użytkownika. W przypadku wyłączenia udostępniania statystyk, oprócz danych uniemożliwiających identyfikację, EA będzie gromadzić informacje, które są uzasadniony sposób konieczne do dostarczania produktów i świadczenia usług. ZMIANY ZOSTANĄ ZASTOSOWANE PODCZAS NASTĘPNEJ SESJI GRY.
 msgctxt "line_001537"
 msgid "In addition to information that you give EA directly, EA collects certain information for purposes of improving our products and services, providing services to you, facilitating the provision of software updates, dynamically served content and product support, communicating with you as well as enhancing your experience when using EA products and services. This data will not be shared with any third party in a way that can identify you. When you disable usage data sharing, in addition to anonymous data, EA will continue collecting data reasonably necessary to operate the products and services. CHANGES WILL BE REFLECTED IN YOUR NEXT GAME PLAY SESSION."
-msgstr ""
+msgstr "Окрім інформації, яку ви надаєте EA безпосередньо, EA збирає певні дані з метою вдосконалення наших продуктів і послуг, надання послуг вам, сприяння забезпеченню оновлень програмного забезпечення, динамічного відображення контенту та підтримки продуктів, спілкування з вами, а також покращення вашого досвіду під час використання продуктів і послуг EA. Ці дані не передаватимуться третім особам у спосіб, який дозволить ідентифікувати вашу особу. Якщо ви вимкнете обмін даними про використання, EA, окрім анонімних даних, продовжуватиме збір інформації, яка є обґрунтовано необхідною для функціонування продуктів і послуг. ЗМІНИ НАБЕРУТЬ ЧИННОСТІ ПІД ЧАС НАСТУПНОГО ІГРОВОГО СЕАНСУ."
 
 #. pl: Odwróć oś Y (widok).
 msgctxt "line_001538"
@@ -7793,7 +7792,7 @@ msgstr ""
 #. pl: PUNKTY BITEWNE
 msgctxt "line_001550"
 msgid "BATTLE POINTS"
-msgstr ""
+msgstr "БОЙОВІ КРЕДИТИ"
 
 #. pl: Przyznaje modyfikację podwójnego przybliżenia do karabinu powtarzalnego
 msgctxt "line_001551"
@@ -8068,7 +8067,7 @@ msgstr "ANZ AND MEA COORDINATOR"
 #. pl: Rozegraj 5 rund w trybie potyczki.
 msgctxt "line_001605"
 msgid "Play 5 rounds of Blast."
-msgstr ""
+msgstr "Зіграйте 5 раундів у режимі «Сутичка»."
 
 #. pl: Pokonaj 10 wrogów dowolnymi granatami.
 msgctxt "line_001606"
@@ -8093,7 +8092,7 @@ msgstr ""
 #. pl: Ukończ 5 rund w trybie galaktycznego szturmu.
 msgctxt "line_001610"
 msgid "Complete 5 rounds of Galactic Assault."
-msgstr ""
+msgstr "Завершіть 5 матчів у режимі «Галактична битва»."
 
 #. pl: Pokonaj 20 wrogów dowolnym myśliwcem.
 msgctxt "line_001611"
@@ -8981,7 +8980,7 @@ msgstr "ТАБЛИЦЯ ЛІДЕРІВ"
 #. pl: BLASTER
 msgctxt "line_001787"
 msgid "BLASTER"
-msgstr ""
+msgstr "БЛАСТЕР"
 
 #. pl: W miarę jak Darth Maul pokonuje kolejnych przeciwników, jego zdolności odnawiają się coraz szybciej.
 msgctxt "line_001788"
@@ -9207,7 +9206,7 @@ msgstr ""
 #. pl: Dołącz do gry online
 msgctxt "line_001832"
 msgid "Join multiplayer game"
-msgstr ""
+msgstr "Приєднатися до багатокористувацької гри"
 
 #. pl: Shriv: Iden, walnij jeszcze raz.
 msgctxt "line_001833"
@@ -9227,7 +9226,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO BOBA FETT
 msgctxt "line_001836"
 msgid "PLAY AS BOBA FETT"
-msgstr ""
+msgstr "ГРАТИ ЗА БОБУ ФЕТТА"
 
 #. pl: Zabici karabinami dalekiego zasięgu
 msgctxt "line_001837"
@@ -9603,7 +9602,7 @@ msgstr ""
 #. pl: REPUBLIKA GALAKTYCZNA
 msgctxt "line_001911"
 msgid "GALACTIC REPUBLIC"
-msgstr ""
+msgstr "ГАЛАКТИЧНА РЕСПУБЛІКА"
 
 #. pl: Iden: Mam kolejnego.
 msgctxt "line_001912"
@@ -9763,7 +9762,7 @@ msgstr ""
 #. pl: KOOPERACJA
 msgctxt "line_001943"
 msgid "CO-OP"
-msgstr ""
+msgstr "КООПЕРАТИВНІ МІСІЇ"
 
 #. pl: Skrzynia zawierająca emotkę Kylo Rena „TCHÓRZE”.
 msgctxt "line_001944"
@@ -9793,7 +9792,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO BOSSK
 msgctxt "line_001949"
 msgid "PLAY AS BOSSK"
-msgstr ""
+msgstr "ГРАТИ ЗА БОССКА"
 
 #. pl: ZDOLNOŚĆ 1
 msgctxt "line_001950"
@@ -10428,7 +10427,7 @@ msgstr ""
 #. pl: POTYCZKA
 msgctxt "line_002076"
 msgid "BLAST"
-msgstr "БИТВА"
+msgstr "СУТИЧКА"
 
 #. pl: PIROTECHNIK
 msgctxt "line_002077"
@@ -10458,7 +10457,7 @@ msgstr ""
 #. pl: PUNKTY BITEWNE
 msgctxt "line_002082"
 msgid "BATTLE POINTS"
-msgstr "БОЙОВІ ОЧКИ"
+msgstr "БОЙОВІ КРЕДИТИ"
 
 #. pl: DOŁĄCZANIE DO: {0:s} – {1:s}
 msgctxt "line_002083"
@@ -10503,7 +10502,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO ŻOŁNIERZ ARC
 msgctxt "line_002091"
 msgid "PLAY AS AN ARC TROOPER"
-msgstr ""
+msgstr "ГРАТИ ЗА ARC"
 
 #. pl: CZAS TRWANIA OBRAŻEŃ
 msgctxt "line_002092"
@@ -10683,7 +10682,7 @@ msgstr ""
 #. pl: ŁOWY EWOKÓW
 msgctxt "line_002127"
 msgid "EWOK HUNT"
-msgstr "ПОЛЮВАННЯ НА ЕВОКІВ"
+msgstr "ПОЛЮВАННЯ ЕВОКІВ"
 
 #. pl: KONWÓJ
 msgctxt "line_002128"
@@ -10693,7 +10692,7 @@ msgstr ""
 #. pl: ZMAGANIA BOHATERÓW
 msgctxt "line_002129"
 msgid "HERO SHOWDOWN"
-msgstr "СУТИЧКА ГЕРОЇВ"
+msgstr "ПРОТИСТОЯННЯ"
 
 #. pl: RAKIETOWY ŁADUNEK
 msgctxt "line_002130"
@@ -10783,7 +10782,7 @@ msgstr ""
 #. pl: Pokonaj wroga w trybie zmagań bohaterów jako Darth Vader i Kylo Ren.
 msgctxt "line_002147"
 msgid "Defeat an enemy in Hero Showdown as Darth Vader & Kylo Ren."
-msgstr ""
+msgstr "Здолайте ворога в режимі «Протистояння», граючи за Дарта Вейдера або Кайло Рена."
 
 #. pl: VADER I KYLO REN
 msgctxt "line_002148"
@@ -10813,7 +10812,7 @@ msgstr ""
 #. pl: PUNKTY BITEWNE
 msgctxt "line_002153"
 msgid "BATTLE POINTS"
-msgstr "БОЙОВІ ОЧКИ"
+msgstr "БОЙОВІ КРЕДИТИ"
 
 #. pl: INTENSYWNOŚĆ ROZMYCIA
 msgctxt "line_002154"
@@ -10833,7 +10832,7 @@ msgstr ""
 #. pl: Pokonaj 10 wrogów w trybie łowów Ewoków.
 msgctxt "line_002157"
 msgid "Defeat 10 Enemies in Ewok Hunt."
-msgstr ""
+msgstr "Знищте 10 ворогів у місії «Полювання евоків»."
 
 #. pl: SKRZYNIA KREDYTÓW PRZEMYTNIKA
 msgctxt "line_002158"
@@ -10888,7 +10887,7 @@ msgstr " SOFTWARE ENGINEERS BACKEND"
 #. pl: SUPREMACJA
 msgctxt "line_002168"
 msgid "SUPREMACY"
-msgstr "ПЕРЕВАГА"
+msgstr "ТАКТИЧНА ПЕРЕВАГА"
 
 #. pl: Niektóre cele są odsłonięte tylko przez pewien czas – przygotuj się, by zadać wówczas jak największe szkody!
 msgctxt "line_002169"
@@ -11023,7 +11022,7 @@ msgstr "УДОСКОНАЛЕННЯ ДВИГУНА"
 #. pl: WCZYTYWANIE KOLEKCJI…
 msgctxt "line_002195"
 msgid "LOADING COLLECTION…"
-msgstr ""
+msgstr "ЗАВАНТАЖЕННЯ КОЛЕКЦІЇ…"
 
 #. pl: MODYFIKACJE: {0:d} / {1:d}
 msgctxt "line_002196"
@@ -11268,7 +11267,7 @@ msgstr ""
 #. pl: GRAJ JAKO
 msgctxt "line_002244"
 msgid "PLAY AS"
-msgstr ""
+msgstr "ГРАТИ ЗА"
 
 #. pl: FWMB-10K I 200 KREDYTÓW
 msgctxt "line_002245"
@@ -11403,7 +11402,7 @@ msgstr ""
 #. pl: TRYB
 msgctxt "line_002271"
 msgid "MODE"
-msgstr ""
+msgstr "РЕЖИМ"
 
 #. pl: ALT. STRZAŁ
 msgctxt "line_002272"
@@ -11448,7 +11447,7 @@ msgstr ""
 #. pl: ZABICIE NAJLEPSZEGO GRACZA
 msgctxt "line_002280"
 msgid "TOP PLAYER KILLED"
-msgstr ""
+msgstr "НАЙКРАЩИЙ ГРАВЕЦЬ УБИТИЙ"
 
 #. pl: %%RTHUMB%% ANULUJ
 msgctxt "line_002281"
@@ -11558,7 +11557,7 @@ msgstr ""
 #. pl: Jako Ewok twoja znajomość terenu i instynkty łowieckie dają ci przewagę nad Imperium. Odbij las!
 msgctxt "line_002302"
 msgid "As an Ewok, your hunter's instinct and familiarity with the moon will give you an advantage over the Empire. Retake the forest!"
-msgstr ""
+msgstr "Як евок, твій мисливський інстинкт і знання місцевості дадуть тобі перевагу над Імперією. Виженіть чужаків з лісу!"
 
 #. pl: Pozbawia życia pojedynczego przeciwnika.
 msgctxt "line_002303"
@@ -12819,7 +12818,7 @@ msgstr ""
 #. pl: Wycofaj się
 msgctxt "line_002554"
 msgid "Fall Back"
-msgstr ""
+msgstr "Відступайте"
 
 #. pl: OBCHODY
 msgctxt "line_002555"
@@ -13214,7 +13213,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO LANDO CALRISSIAN
 msgctxt "line_002633"
 msgid "PLAY AS LANDO CALRISSIAN"
-msgstr ""
+msgstr "ГРАТИ ЗА ЛЕНДО КАЛРІССІАНА"
 
 #. pl: Zadaj 1000 pkt. obrażeń WZMOCNIONYM STRZAŁEM żołnierza ARC.
 msgctxt "line_002634"
@@ -14003,10 +14002,9 @@ msgid "SAVE OUR SKINS"
 msgstr "УРЯТУЙТЕ НАШІ ШКУРИ"
 
 #. pl: TRIUMFALNA SKRZYNIA RUCHU OPORU
-#, fuzzy
 msgctxt "line_002791"
 msgid "RESISTANCE TRIUMPHANT CRATE"
-msgstr "ТРІУМФНА СКРИНЯ ОПОРУ"
+msgstr "ТРІУМФНА СКРИНЯ РУХУ ОПОРУ"
 
 #. pl: Del: Nie…
 msgctxt "line_002792"
@@ -14696,7 +14694,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO DARTH MAUL
 msgctxt "line_002928"
 msgid "PLAY AS DARTH MAUL"
-msgstr ""
+msgstr "ГРАТИ ЗА ДАРТА МОЛА"
 
 #. pl: GROUP FINANCE DIRECTOR
 msgctxt "line_002929"
@@ -15166,7 +15164,7 @@ msgstr " SOFTWARE ENGINEERS"
 #. pl: Przygoda Iden trwa dalej w trybie online. Przejdź do ekranu KARIERA > KAMIENIE MILOWE i uzyskaj dostęp do nowych ulepszeń dla trybów online.
 msgctxt "line_003018"
 msgid "Iden’s journey continues in multiplayer. Visit your Career>Milestones page and access new upgrades for multiplayer modes."
-msgstr ""
+msgstr "Подорож Іден продовжується в багатокористувацькій грі. Відвідайте сторінку «Кар'єра» > «Віхи», щоб отримати доступ до нових покращень у мережевих режимах."
 
 #. pl: ŚMIGACZ V-4X-D
 msgctxt "line_003019"
@@ -15442,7 +15440,7 @@ msgstr ""
 #. pl: Ogranicz dostępne klasy.¬Ustawienie DOMYŚLNE stosuje system punktów bitewnych trybu online.
 msgctxt "line_003073"
 msgid "Restrict which classes you can play as.¬'Default' uses the multiplayer Battle Point system."
-msgstr ""
+msgstr "Обмежує класи, за які ви можете грати.¬'Default' активує мережеву систему бойових кредитів."
 
 #. pl: DOWÓDCZYNI REBELII
 msgctxt "line_003074"
@@ -16432,7 +16430,7 @@ msgstr ""
 #. pl: ŁOWY EWOKÓW
 msgctxt "line_003271"
 msgid "EWOK HUNT"
-msgstr "ПОЛЮВАННЯ НА ЕВОКІВ"
+msgstr "ПОЛЮВАННЯ ЕВОКІВ"
 
 #. pl: ZAAWANSOWANE KONDENSATORY
 msgctxt "line_003272"
@@ -17412,7 +17410,7 @@ msgstr ""
 #. pl: AT-ST NAJWYŻSZEGO PORZĄDKU
 msgctxt "line_003467"
 msgid "FIRST ORDER AT-ST"
-msgstr ""
+msgstr "ВЕРХОВНИЙ ПОРЯДОК AT-ST"
 
 #. pl: Hask: To niemożliwe…!
 msgctxt "line_003468"
@@ -17602,7 +17600,7 @@ msgstr "Це героїчна скриня"
 #. pl: PUNKTY BITEWNE
 msgctxt "line_003505"
 msgid "BATTLE POINTS"
-msgstr "БОЙОВІ ОЧКИ"
+msgstr "БОЙОВІ КРЕДИТИ"
 
 #. pl: Portrety dowódców są wyświetlane w lewym górnym rogu w trakcie przerywników w grze. Opcja określa widoczność portretu dowódcy, ale nie odpowiada za słyszalność jego kwestii.
 msgctxt "line_003506"
@@ -18473,7 +18471,7 @@ msgstr ""
 #. pl: Przejmij 15 stanowisk dowodzenia w trybie supremacji na mapie Felucja.
 msgctxt "line_003679"
 msgid "Capture 15 Command Posts in Capital Supremacy on Felucia."
-msgstr ""
+msgstr "Захопіть 15 командних пунктів у режимі «Тактична Перевага» на Фелуції."
 
 #. pl: ZEMŚCIJ SIĘ
 msgctxt "line_003680"
@@ -19773,7 +19771,7 @@ msgstr ""
 #. pl: Pokonaj 10 Ewoków trybie łowów Ewoków.
 msgctxt "line_003939"
 msgid "Defeat 10 Ewoks in Ewok Hunt."
-msgstr ""
+msgstr "Знищте 10 евоків у режимі «Полювання евоків»."
 
 #. pl: Skrzynia zawierająca emotkę Chewbakki „SMUTEK”.
 msgctxt "line_003940"
@@ -20310,7 +20308,7 @@ msgstr ""
 #. pl: Graj razem z innymi, aby zdobywać podwójną liczbę punktów bitewnych.
 msgctxt "line_004046"
 msgid "Play together to double your Battle Points."
-msgstr "Грайте разом з іншими, щоб отримати подвійну кількість бойових очок."
+msgstr "Грайте разом з іншими, щоб отримати подвійну кількість бойових кредитів."
 
 #. pl: WZMOCNIENIE KADŁUBA
 msgctxt "line_004047"
@@ -20520,7 +20518,7 @@ msgstr ""
 #. pl: PKT. BITEWNYCH
 msgctxt "line_004088"
 msgid "BATTLE POINTS"
-msgstr "БОЙОВІ ОЧКИ"
+msgstr "БОЙОВІ КРЕДИТИ"
 
 #. pl: Zapewnia nieograniczone chłodzenie blastera na krótki czas.
 msgctxt "line_004089"
@@ -21201,7 +21199,7 @@ msgstr ""
 #. pl: ALTERNATYWNY TRYB DZIAŁANIA BLASTERA LEI
 msgctxt "line_004224"
 msgid "ALTERNATE FIRE ON LEIA'S BLASTER"
-msgstr ""
+msgstr "АЛЬТЕРНАТИВНИЙ РЕЖИМ ВОГНЮ БЛАСТЕРА ЛЕЇ"
 
 #. pl: Separatyści maszerują na pałac! Mają tu armię droidów, ale jeśli wytrzymamy, wygramy to.¬¬Drużynom przydzielono współrzędne. Pilnujcie ich i odpierajcie brzękacze!
 msgctxt "line_004225"
@@ -21646,7 +21644,7 @@ msgstr ""
 #. pl: Sprawdź postępy kamieni milowych na ekranie kariery.
 msgctxt "line_004313"
 msgid "Check Career > Milestones for progress."
-msgstr ""
+msgstr "Перейдіть у розділ «Кар'єра» > «Віхи», щоб дізнатися про свій прогрес."
 
 #. pl: WYKRYCIE WROGA
 msgctxt "line_004314"
@@ -23709,7 +23707,7 @@ msgstr ""
 #. pl: Rozegraj grę w trybie bohaterów i złoczyńców.
 msgctxt "line_004725"
 msgid "Play a match of Heroes vs Villains."
-msgstr ""
+msgstr "Зіграйте матч у режимі «Герої проти Лиходіїв»."
 
 #. pl: DEBUG. ARCADE
 msgctxt "line_004726"
@@ -24049,7 +24047,7 @@ msgstr "Скриня містить переможну позу Імперато
 #. pl: ZA RUCH OPORU
 msgctxt "line_004793"
 msgid "FOR THE RESISTANCE"
-msgstr "ЗА ОПІР"
+msgstr "ЗА СВОБОДУ"
 
 #. pl: Zawiera kartę żołnierza i myśliwca oraz zestaw przedmiotów wysokiej jakości
 msgctxt "line_004794"
@@ -24550,7 +24548,7 @@ msgstr ""
 #. pl: RUCH OPORU
 msgctxt "line_004893"
 msgid "RESISTANCE"
-msgstr ""
+msgstr "РУХ ОПОРУ"
 
 #. pl: Iden: Znalazłam wyrzutnię rakiet!
 msgctxt "line_004894"
@@ -24636,7 +24634,7 @@ msgstr ""
 #. pl: Powtórz dowolny ukończony rozdział z nowym wyposażeniem lub innymi zdolnościami.
 msgctxt "line_004910"
 msgid "Replay any completed chapter with a new loadout or different abilities."
-msgstr ""
+msgstr "Пройдіть будь-який завершений розділ із новим екіпіруванням чи іншими вміннями."
 
 #. pl: Hask: Wspaniałe zwycięstwo Imperium, oby trwało wiecznie.
 msgctxt "line_004911"
@@ -25197,7 +25195,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO LEIA ORGANA
 msgctxt "line_005022"
 msgid "PLAY AS LEIA ORGANA"
-msgstr ""
+msgstr "ГРАТИ ЗА ЛЕЮ ОРҐАНИ"
 
 #. pl: HEAD OF EA STUDIOS DEV QA
 msgctxt "line_005023"
@@ -25282,7 +25280,7 @@ msgstr ""
 #. pl: JEDEN GRACZ
 msgctxt "line_005039"
 msgid "SINGLE PLAYER"
-msgstr "ОДНООСІБНА ГРА"
+msgstr "ОДНОКОРИСТУВАЦЬКА ГРА"
 
 #. pl: NAPRAWY DROIDA
 msgctxt "line_005040"
@@ -25527,7 +25525,7 @@ msgstr ""
 #. pl: KOOPERACJA
 msgctxt "line_005088"
 msgid "CO-OP"
-msgstr "КООПЕРАТИВ"
+msgstr "КООПЕРАТИВНІ МІСІЇ"
 
 #. pl: Zay: Czysto.{0.000s:1.010s} Uczynisz honory?¬Podłożysz ostatni ładunek?
 msgctxt "line_005089"
@@ -26539,7 +26537,7 @@ msgstr ""
 #. pl: ZAGRAJ MYŚLIWCEM TIE DARTHA VADERA
 msgctxt "line_005290"
 msgid "PLAY AS DARTH VADER'S TIE"
-msgstr ""
+msgstr "ГРАТИ ЗА ДАРТА ВЕЙДЕРА TIE X1"
 
 #. pl: GENERAL MANAGER APAC HD
 msgctxt "line_005291"
@@ -27439,7 +27437,7 @@ msgstr ""
 #. pl: Wkrótce po spotkaniu Hana Solo, Chewbacca i jego Corelliański przyjaciel zgłosili się do napadu organizowanego przez Tobiasa Becketta pracującego jako złodziej do wynajęcia. Poruszając się po kadłubie imperialnego transportowca pędzącego przez kaniony Vandoru, Chewie przedarł się przez zastępy szturmowców, aby zabezpieczyć ładunek i przygotować go do odbioru przez resztę szajki.
 msgctxt "line_005470"
 msgid "Shortly after meeting Han Solo, Chewbacca and his Corellian friend signed on to a heist orchestrated by thief-for-hire Tobias Beckett. Crawling across the exterior of an Imperial conveyex barreling through the canyons of Vandor, Chewie blasted his way through range troopers to liberate the cargo for their crew to pick up."
-msgstr "Невдовзі після зустрічі з Ганом Соло, Чубакка та його кореліанський друг долучилися до пограбування, організованого найманим злодієм Тобіасом Беккетом. Пробираючись обшивкою імперського конвеєкса, що мчав крізь каньйони Вандора, Чубакка з боєм прокладав собі шлях крізь штурмовиків-фронтовиків, щоб визволити вантаж для своєї команди."
+msgstr "Невдовзі після зустрічі з Ханом Соло, Чубакка та його кореліанський друг долучилися до пограбування, організованого найманим злодієм Тобіасом Беккетом. Пробираючись обшивкою імперського конвеєкса, що мчав крізь каньйони Вандора, Чубакка з боєм прокладав собі шлях крізь штурмовиків, щоб визволити вантаж для своєї команди."
 
 #. pl: TK77: Fala bombowców zniszczona. Bronić nadciągającej grupy.
 msgctxt "line_005471"
@@ -27724,7 +27722,7 @@ msgstr ""
 #. pl: MYŚLIWCE BOHATERÓW
 msgctxt "line_005527"
 msgid "HERO STARFIGHTERS"
-msgstr ""
+msgstr "ВИНИЩУВАЧІ ГЕРОЇВ"
 
 #. pl: TORPEDA PROTONOWA [STARE – UŻYĆ WERSJI Z GWIEZDNYCH KART]
 msgctxt "line_005528"
@@ -28476,7 +28474,7 @@ msgstr "Знайдіть базу даних Верховного порядку
 #. pl: Zabici pistoletami blasterowymi
 msgctxt "line_005677"
 msgid "Kills with Blaster Pistol"
-msgstr ""
+msgstr "Убийте з бластерного пістолета"
 
 #. pl: Shriv: Atakują Corvusa!
 msgctxt "line_005678"
@@ -28626,7 +28624,7 @@ msgstr ""
 #. pl: ODBLOKUJ BOHATERA W MENU KOLEKCJI
 msgctxt "line_005707"
 msgid "UNLOCK HERO IN THE COLLECTION MENU"
-msgstr ""
+msgstr "РОЗБЛОКУЙТЕ ГЕРОЯ В РОЗДІЛІ «КОЛЕКЦІЯ»"
 
 #. pl: Przez 10 minut graj każdym typem myśliwca.
 msgctxt "line_005708"
@@ -28702,7 +28700,7 @@ msgstr ""
 #. pl: WYBIERZ TRYB GRY
 msgctxt "line_005722"
 msgid "CHOOSE GAME MODE"
-msgstr ""
+msgstr "ОБЕРІТЬ РЕЖИМ ГРИ"
 
 #. pl: MYŚLIWIEC – DRĄŻKI
 msgctxt "line_005723"
@@ -28909,7 +28907,7 @@ msgstr ""
 #. pl: POTYCZKA
 msgctxt "line_005763"
 msgid "BLAST"
-msgstr "БИТВА"
+msgstr "СУТИЧКА"
 
 #. pl: Zay: Nadchodzą z dołu!
 msgctxt "line_005764"
@@ -29210,12 +29208,12 @@ msgstr ""
 #. pl: ZMAGANIA BOHATERÓW
 msgctxt "line_005823"
 msgid "HERO SHOWDOWN"
-msgstr "СУТИЧКА ГЕРОЇВ"
+msgstr "ПРОТИСТОЯННЯ"
 
 #. pl: MYŚLIWCE BOHATERÓW
 msgctxt "line_005824"
 msgid "HERO STARFIGHTERS"
-msgstr ""
+msgstr "ВИНИЩУВАЧІ ГЕРОЇВ"
 
 #. pl: BROŃ REAKTORA
 msgctxt "line_005825"
@@ -29510,7 +29508,7 @@ msgstr "ПРОСУНУТІ ТОРПЕДИ"
 #. pl: Naciśnij %%FIRE%%, aby zaatakować mieczem świetlnym Luke'a Skywalkera. Naciśnij %%LOCKON%%, aby blokować i odbijać nadlatujące pociski.
 msgctxt "line_005883"
 msgid "Press %%FIRE%% to attack with Luke Skywalker's lightsaber. Press %%LOCKON%% to block and deflect incoming blaster shots."
-msgstr ""
+msgstr "Натисніть %%FIRE%%, щоб атакувати світловим мечем Люка Скайвокера. Натисніть %%LOCKON%%, щоб блокувати та відбивати постріли з бластера."
 
 #. pl: Zay: To nasza szansa! ¬Niszczyciel w każdej chwili może skoczyć w hiperprzestrzeń.
 msgctxt "line_005884"
@@ -29937,7 +29935,7 @@ msgstr "ФОРСАЖ"
 #. pl: ZAGRAJ JAKO DARTH VADER
 msgctxt "line_005968"
 msgid "PLAY AS DARTH VADER"
-msgstr "ГРАЙТЕ ДАРТОМ ВЕЙДЕРОМ"
+msgstr "ГРАТИ ЗА ДАРТА ВЕЙДЕРА"
 
 #. pl: Zay: Jeszcze działam.
 msgctxt "line_005969"
@@ -30328,7 +30326,7 @@ msgstr ""
 #. pl: Wiele postaci i klas dysponuje dodatkowymi zdolnościami pasywnymi, które wyświetlane są w lewej dolnej części ekranu zdolności.
 msgctxt "line_006046"
 msgid "Many characters and classes have additional passive abilities, displayed in the lower left section of your ability overview screen."
-msgstr ""
+msgstr "Багато персонажів і класів мають додаткові пасивні здібності, які відображаються в нижній лівій частині екрана огляду здібностей."
 
 #. pl: Gdy stracisz możliwość odzyskiwania zdrowia (np. z powodu działania GRANATU OSZAŁAMIAJĄCEGO żołnierza Sithów), na twoim pasku zdrowia pojawi się ukośny wzór.
 msgctxt "line_006047"
@@ -30368,7 +30366,7 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie potyczki.
 msgctxt "line_006054"
 msgid "Play 3 rounds of Blast."
-msgstr ""
+msgstr "Зіграйте 3 раунди в режим «Сутичка»."
 
 #. pl: SOFTWARE ENGINEER
 msgctxt "line_006055"
@@ -31287,7 +31285,7 @@ msgstr ""
 #. pl: Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej o ofensywnych zdolnościach Hana Solo.
 msgctxt "line_006237"
 msgid "Press %%ABILITYINFO%% to learn more about Han Solo's aggressive abilities"
-msgstr "Натисніть %%ABILITYINFO%%, щоб дізнатися більше про агресивні здібності Гана Соло"
+msgstr "Натисніть %%ABILITYINFO%%, щоб дізнатися більше про агресивні здібності Хана Соло"
 
 #. pl: ATAK Z DOSKOKU
 msgctxt "line_006238"
@@ -31407,7 +31405,7 @@ msgstr ""
 #. pl: Ulubioną bronią Hana Solo jest mocno zmodyfikowany ciężki pistolet blasterowy DL-44. Zadaje wysokie obrażenia z bliska, lecz szybko się przegrzewa.
 msgctxt "line_006261"
 msgid "Han Solo's weapon of choice is a heavily modified DL-44 heavy blaster pistol. It delivers massive damage at close range but can overheat quickly. "
-msgstr "Улюбленою зброєю Гана Соло є сильно модифікований важкий бластер DL-44. Він завдає величезної шкоди на близькій відстані, але може швидко перегріватися. "
+msgstr "Улюбленою зброєю Хана Соло є сильно модифікований важкий бластер DL-44. Він завдає величезної шкоди на близькій відстані, але може швидко перегріватися. "
 
 #. pl: CHOIR
 msgctxt "line_006262"
@@ -32863,7 +32861,7 @@ msgstr "МЕНЮ ВІДРОДЖЕННЯ"
 #. pl: GALAKTYCZNY SZTURM
 msgctxt "line_006551"
 msgid "GALACTIC ASSAULT"
-msgstr "ГАЛАКТИЧНИЙ ШТУРМ"
+msgstr "ГАЛАКТИЧНА БИТВА"
 
 #. pl: CHEWBACCA: OBEZWŁADNIENIE
 msgctxt "line_006552"
@@ -33893,7 +33891,7 @@ msgstr ""
 #. pl: Gra STAR WARS™ Battlefront™ II jest w pełni zainstalowana. ¬¬Powtórz samouczek w dowolnej chwili dzięki opcji GRAJ > ARCADE w menu gry.
 msgctxt "line_006757"
 msgid "STAR WARS™ Battlefront™ II is fully installed. ¬¬Replay this Tutorial at any time under PLAY > ARCADE in the main menu."
-msgstr ""
+msgstr "STAR WARS™ Battlefront™ II встановлено. ¬¬Ви можете повторно пройти це навчання в будь-який момент у меню «ГРАТИ» > «АРКАДА»."
 
 #. pl: ZABICI W OBRONIE
 msgctxt "line_006758"
@@ -33903,7 +33901,7 @@ msgstr ""
 #. pl: REPUBLIKA GALAKTYCZNA
 msgctxt "line_006759"
 msgid "GALACTIC REPUBLIC"
-msgstr ""
+msgstr "ГАЛАКТИЧНА РЕСПУБЛІКА"
 
 #. pl: Najwyższy Porządek otrzymał informacje, że w zamku Maz przebywają szpiedzy i sympatycy Ruchu Oporu. Przypuszczono atak, mający na celu ich schwytanie, jednak odsiecz przybyła na czas…
 msgctxt "line_006760"
@@ -34258,7 +34256,7 @@ msgstr ""
 #. pl: GRAJ / MISJE / POJEDYNEK
 msgctxt "line_006830"
 msgid "PLAY / MISSIONS / DUEL"
-msgstr ""
+msgstr "ГРАТИ / MIСІЇ / ДУЕЛЬ"
 
 #. pl: BESPIN
 msgctxt "line_006831"
@@ -34276,9 +34274,10 @@ msgid "Penetrating shots"
 msgstr ""
 
 #. pl: Rozegraj grę w trybie zmagań bohaterów.
+#, fuzzy
 msgctxt "line_006834"
 msgid "Play a match of Hero Showdown."
-msgstr ""
+msgstr "Зіграти в режим \"ПРОТИСТОЯННЯ\"."
 
 #. pl: JINGXU
 msgctxt "line_006835"
@@ -35423,7 +35422,7 @@ msgstr ""
 #. pl: ONLINE
 msgctxt "line_007063"
 msgid "MULTIPLAYER"
-msgstr "БАГАТООСІБНА ГРА"
+msgstr "БАГАТОКОРИСТУВАЦЬКА ГРА"
 
 #. pl: DZIAŁA JONOWE
 msgctxt "line_007064"
@@ -36093,7 +36092,7 @@ msgstr ""
 #. pl: Menu opcji
 msgctxt "line_007197"
 msgid "Options menu"
-msgstr ""
+msgstr "Параметри меню"
 
 #. pl: SKRZYNIA WYRZUTNI GRANATÓW
 msgctxt "line_007198"
@@ -36983,7 +36982,7 @@ msgstr ""
 #. pl: POZIOM KOLEKCJI KART
 msgctxt "line_007375"
 msgid "TOTAL CARD COLLECTION LEVEL"
-msgstr ""
+msgstr "РІВЕНЬ КОЛЕКЦІЇ КАРТОК"
 
 #. pl: RZADKA SKRZYNIA BOHATERA
 msgctxt "line_007376"
@@ -37353,7 +37352,7 @@ msgstr ""
 #. pl: Sterowanie myśliwców można dostosować w menu opcji.
 msgctxt "line_007449"
 msgid "Starfighter controls can be customized in the options screen."
-msgstr ""
+msgstr "Налаштувати керування винищувача можна в меню «Налаштування»."
 
 #. pl: ZWIĘKSZENIE REGENERACJI ZDROWIA
 msgctxt "line_007450"
@@ -37613,7 +37612,7 @@ msgstr ""
 #. pl: Oświetl 10 Ewoków latarką trybie łowów Ewoków.
 msgctxt "line_007501"
 msgid "Spot 10 Ewoks with the Flashlight in Ewok Hunt."
-msgstr "Помітьте 10 евоків ліхтариком у режимі «Полювання на евоків»."
+msgstr "Помітьте 10 евоків ліхтариком у режимі «Полювання евоків»."
 
 #. pl: EHDA YUHYI EEDEEZA
 #, fuzzy
@@ -37849,7 +37848,7 @@ msgstr ""
 #. pl: BAZA RUCHU OPORU
 msgctxt "line_007548"
 msgid "RESISTANCE BASE"
-msgstr ""
+msgstr "БАЗА РУХ ОПОРУ"
 
 #. pl: Czas odnawiania zdolności Dartha Maula zostaje skrócony.
 msgctxt "line_007549"
@@ -38044,7 +38043,7 @@ msgstr ""
 #. pl: IMPERIUM GALAKTYCZNE
 msgctxt "line_007587"
 msgid "GALACTIC EMPIRE"
-msgstr ""
+msgstr "ГАЛАКТИЧНА ІМПЕРІЯ"
 
 #. pl: PORADA DOT. MIN. SKALOWANIA ROZDZIELCZOŚCI
 msgctxt "line_007588"
@@ -38199,7 +38198,7 @@ msgstr ""
 #. pl: MYŚLIWCE BOHATERÓW
 msgctxt "line_007618"
 msgid "HERO STARFIGHTERS"
-msgstr ""
+msgstr "ВИНИЩУВАЧІ ГЕРОЇВ"
 
 #. pl: Broń, która wystrzeliwuje ładunki kasetowe zawierające silny kwas zadający obrażenia w czasie.
 msgctxt "line_007619"
@@ -38559,7 +38558,7 @@ msgstr ""
 #. pl: PLAY/PAUSE
 msgctxt "line_007690"
 msgid "PLAY/PAUSE"
-msgstr ""
+msgstr "ГРАТИ/ПАУЗА"
 
 #. pl: Dodatkowy unik i krótszy czas odnawiania uników.
 msgctxt "line_007691"
@@ -39325,7 +39324,7 @@ msgstr ""
 #. pl: No more errors. Do not let the clones fire another ion blast.
 msgctxt "line_007843"
 msgid "No more errors. Do not let the clones fire another ion blast."
-msgstr ""
+msgstr "Досить помилок! Не дайте клонам знову вдарити з іонної гармати."
 
 #. pl: Increase protective measures. Do not let this situation recur.
 msgctxt "line_007844"
@@ -40085,7 +40084,7 @@ msgstr ""
 #. pl: WEŹ UDZIAŁ W GALAKTYCZNYM SZTURMIE
 msgctxt "line_007995"
 msgid "LEAP INTO GALACTIC ASSAULT"
-msgstr ""
+msgstr "УВІРВІТЬСЯ В «ГАЛАКТИЧНУ БИТВУ»"
 
 #. pl: RZADKA KARTA NALOTU BOBY FETTA
 msgctxt "line_007996"
@@ -40305,7 +40304,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO DROID-KOMANDOS
 msgctxt "line_008039"
 msgid "PLAY AS A COMMANDO DROID"
-msgstr ""
+msgstr "ГРАТИ ЗА ДРОЇДА КОМАНДОСА"
 
 #. pl: KARABIN POWTARZALNY
 msgctxt "line_008040"
@@ -40845,7 +40844,7 @@ msgstr ""
 #. pl: Powtórz dowolny ukończony rozdział z nowym wyposażeniem i innymi umiejętnościami lub po prostu znajdź ukryte przedmioty do kolekcji.
 msgctxt "line_008147"
 msgid "Replay any completed chapter with a new loadout, different abilities, or to locate hidden collectibles."
-msgstr ""
+msgstr "Пройдіть будь-який завершений розділ із новим спорядженням, іншими здібностями або знайдіть приховані предмети."
 
 #. pl: Zmienia punkt, w którym drążki kontrolera zaczynają przesyłać sygnał polecenia.
 msgctxt "line_008148"
@@ -41640,7 +41639,7 @@ msgstr ""
 #. pl: HOME
 msgctxt "line_008306"
 msgid "HOME"
-msgstr "HOME"
+msgstr "ГОЛОВНА"
 
 #. pl: Del: Potrzebuję pola ochronnego.
 msgctxt "line_008307"
@@ -42050,7 +42049,7 @@ msgstr ""
 #. pl: GRAJ JAKO
 msgctxt "line_008388"
 msgid "PLAY AS"
-msgstr ""
+msgstr "ГРАТИ ЗА"
 
 #. pl: ...Witaj w Ruchu Oporu.
 msgctxt "line_008389"
@@ -42120,7 +42119,7 @@ msgstr ""
 #. pl: ROZEGRAJ TRYB
 msgctxt "line_008402"
 msgid "PLAY MODE"
-msgstr "ГРАТИ У РЕЖИМ"
+msgstr "ЗІГРАТИ"
 
 #. pl: INTENSYWNOŚĆ
 msgctxt "line_008403"
@@ -42515,7 +42514,7 @@ msgstr ""
 #. pl: OTWÓRZ SKRZYNIĘ
 msgctxt "line_008481"
 msgid "OPEN CRATE"
-msgstr ""
+msgstr "ВІДКРИТИ СКРИНЮ"
 
 #. pl: Del: Zastyga na zawołanie.
 msgctxt "line_008482"
@@ -42720,7 +42719,7 @@ msgstr ""
 #. pl: JESZCZE JEDEN DO MOJEJ KOLEKCJI
 msgctxt "line_008522"
 msgid "ANOTHER ONE TO THE COLLECTION"
-msgstr ""
+msgstr "ПОПОВНЕННЯ ДО МОЄЇ КОЛЕКЦІЇ"
 
 #. pl: Ujawnia wszystkich przeciwników na skanerze. Zakłóca pobliskie skanery wroga. Udostępnia niegenerującą ciepło broń średniodystansową.
 msgctxt "line_008523"
@@ -43055,7 +43054,7 @@ msgstr ""
 #. pl: Masz jeden lub więcej punktów umiejętności do przeznaczenia na postacie! Przejdź do ekranu kolekcji, aby odblokować lub ulepszyć gwiezdną kartę.
 msgctxt "line_008589"
 msgid "You have one or more Skill Points to use on your characters! Head to the Collection screen to unlock or upgrade a Star Card."
-msgstr ""
+msgstr "Доступні кількість балів для прокачування здібності ваших персонажів! Завітайте до «Колекції», щоб відкрити чи вдосконалити зоряну картку."
 
 #. pl: ULEPSZ KARTĘ DO: {0:s}
 msgctxt "line_008590"
@@ -43850,7 +43849,7 @@ msgstr ""
 #. pl: ZMIEŃ FRAKCJĘ
 msgctxt "line_008748"
 msgid "CHANGE FACTION"
-msgstr ""
+msgstr "ЗМІНИТИ ФРАКЦІЮ"
 
 #. pl: PIŁA TARCZOWA
 msgctxt "line_008749"
@@ -44105,7 +44104,7 @@ msgstr "КОЛЕКЦІЯ"
 #. pl: ONLINE
 msgctxt "line_008799"
 msgid "MULTIPLAYER"
-msgstr "БАГАТООСІБНА ГРА"
+msgstr "БАГАТОКОРИСТУВАЦЬКА ГРА"
 
 #. pl: POV 4 PŁD.
 msgctxt "line_008800"
@@ -44130,7 +44129,7 @@ msgstr ""
 #. pl: Rozegraj dowolny
 msgctxt "line_008804"
 msgid "Play Any"
-msgstr ""
+msgstr "Зіграти будь-що"
 
 #. pl: ODBLOKOWUJE ZWYCIĘSKĄ POZĘ – PHASMA
 msgctxt "line_008805"
@@ -44245,7 +44244,7 @@ msgstr ""
 #. pl: IMPERIUM GALAKTYCZNE
 msgctxt "line_008827"
 msgid "GALACTIC EMPIRE"
-msgstr ""
+msgstr "ГАЛАКТИЧНА ІМПЕРІЯ"
 
 #. pl: NIEUGIĘTY: ZBIERACZ
 msgctxt "line_008828"
@@ -44730,7 +44729,7 @@ msgstr ""
 #. pl: ZAGRAJ JAKO LUKE SKYWALKER
 msgctxt "line_008924"
 msgid "PLAY AS LUKE SKYWALKER"
-msgstr ""
+msgstr "ГРАТИ ЗА ЛЮКА СКАЙВОКЕРА"
 
 #. pl: NIE POZWÓLCIE NAJWYŻSZEMU PORZĄDKOWI UKRAŚĆ ARTEFAKTU
 msgctxt "line_008925"
@@ -47035,12 +47034,12 @@ msgstr ""
 #. pl: Supremacja
 msgctxt "line_009385"
 msgid "Supremacy"
-msgstr ""
+msgstr "Тактична перевага"
 
 #. pl: Łowy Ewoków
 msgctxt "line_009386"
 msgid "Ewok Hunt"
-msgstr ""
+msgstr "Полювання евоків"
 
 #. pl: Konwój
 msgctxt "line_009387"
@@ -47050,12 +47049,12 @@ msgstr ""
 #. pl: Zmagania bohaterów
 msgctxt "line_009388"
 msgid "Hero Showdown"
-msgstr ""
+msgstr "Протистояння"
 
 #. pl: Myśliwce bohaterów
 msgctxt "line_009389"
 msgid "Hero Starfighters"
-msgstr ""
+msgstr "Винищувачі Героїв"
 
 #. pl: Szybka akcja
 msgctxt "line_009390"
@@ -47065,7 +47064,7 @@ msgstr ""
 #. pl: Misje – Kooperacja
 msgctxt "line_009391"
 msgid "CO-OP MISSIONS"
-msgstr "Місії — Кооператив"
+msgstr "КООПЕРАТИВНІ МІСІЇ"
 
 #. pl: Rakietowy ładunek
 msgctxt "line_009392"
@@ -47320,7 +47319,7 @@ msgstr ""
 #. pl: Galaktyczny szturm
 msgctxt "line_009442"
 msgid "Galactic Assault"
-msgstr ""
+msgstr "Галактична битва"
 
 #. pl: SENIOR MANAGER DIGITAL INTELLIGENCE
 msgctxt "line_009443"
@@ -48495,7 +48494,7 @@ msgstr ""
 #. pl: PLAY/PAUSE
 msgctxt "line_009677"
 msgid "PLAY/PAUSE"
-msgstr ""
+msgstr "ГРАТИ/ПАУЗА"
 
 #. pl: Garrick: Jeden z wielu, tak.
 msgctxt "line_009678"
@@ -48720,7 +48719,7 @@ msgstr ""
 #. pl: Uderzenie/Konwój
 msgctxt "line_009722"
 msgid "Strike/Extraction"
-msgstr ""
+msgstr "Диверсія/Евакуація"
 
 #. pl: BROŃCIE PROMIENI ŚCIĄGAJĄCYCH
 msgctxt "line_009723"
@@ -48775,7 +48774,7 @@ msgstr ""
 #. pl: Gwiezdne karty ulepszają lub zastępują zdolności postaci. Każda postać i statek mogą w danym momencie używać do trzech kart. Karty ODBLOKOWUJE SIĘ za pomocą punktów umiejętności.¬¬Punkty umiejętności przynależą do klasy i uzyskuje się je po zgromadzeniu odpowiedniej ilości PD i zdobyciu poziomu.
 msgctxt "line_009733"
 msgid "Star Cards can boost or replace character abilities. Each character and starfighter can have up to three cards equipped at any time. You can UNLOCK Star Cards by using Skill Points.¬¬Skill Points are class-specific and received each time you gain enough XP to gain a level."
-msgstr ""
+msgstr "Зоряні картки можуть посилювати або замінювати здібності персонажів. Кожен персонаж і зірковий винищувач може мати до трьох одночасно споряджених карток. Ви можете РОЗБЛОКУВАТИ зоряні картки за допомогою Кількістю Балів.¬¬Кількість балів унікальні для кожного класу. Вони видаються щоразу, коли ви накопичуєте достатньо досвіду для отримання нового рівня."
 
 #. pl: Del: Odciągnijcie te bombowce od Corvusa!
 msgctxt "line_009734"
@@ -49060,7 +49059,7 @@ msgstr ""
 #. pl: CAŁA KOLEKCJA
 msgctxt "line_009790"
 msgid "TOTAL COLLECTION"
-msgstr ""
+msgstr "ЗАГАЛЬНА КОЛЕКЦІЯ"
 
 #. pl: ZOBACZ ZDOLNOŚCI
 msgctxt "line_009791"
@@ -49291,7 +49290,7 @@ msgstr ""
 #. pl: Naciśnij %%INTERACT%%, aby hakować. Droid jest w stanie zhakować m.in. systemy bezpieczeństwa i konsole.
 msgctxt "line_009836"
 msgid "Press %%INTERACT%% to Slice. The droid can hack into security systems, override consoles, and more while Slicing"
-msgstr ""
+msgstr "Натисніть %%INTERACT%%, щоб здійснити взлом. Дроїд здатний зламувати системи безпеки, обходити захист консолей та багато іншого"
 
 #. pl: NUMPAD .
 msgctxt "line_009837"
@@ -49491,7 +49490,7 @@ msgstr ""
 #. pl: Tac: Reaktor dużo więcej nie wytrzyma. Już prawie nam się udało.
 msgctxt "line_009876"
 msgid "The reactor can't take much more. We almost have this."
-msgstr ""
+msgstr "Реактор на межі. Ми майже добили його."
 
 #. pl: {0:d} d {1:d} h
 #, fuzzy
@@ -49757,7 +49756,7 @@ msgstr ""
 #. pl: Podczas przybliżenia EWOCKI ŁOWCA może mierzyć ręcznie i wypuścić strzałę z większą siłą.
 msgctxt "line_009929"
 msgid "The EWOK HUNTER can aim manually and build more power with the bow while zooming."
-msgstr ""
+msgstr "ЕВОК-МИСЛИВЕЦЬ може цілитися вручну, а прицілювання дозволяє сильніше натягувати лук для смертельного пострілу."
 
 #. pl: Kucając, EWOCKI ŁOWCA zyskuje szybsze odnawianie wszystkich zdolności.
 msgctxt "line_009930"
@@ -49807,7 +49806,7 @@ msgstr ""
 #. pl: ROZEGRAJ SAMOUCZEK
 msgctxt "line_009939"
 msgid "PLAY TUTORIAL"
-msgstr ""
+msgstr "ПРОЙТИ ПІДГОТОВКУ"
 
 #. pl: Skrzynia zawierająca emotkę Hana Solo „DWA DO ZERA”.
 msgctxt "line_009940"
@@ -50337,7 +50336,7 @@ msgstr ""
 #. pl: PKT. UMIEJĘTNOŚCI
 msgctxt "line_010045"
 msgid "SKILL POINTS"
-msgstr ""
+msgstr "КІЛЬКІСТЬ БАЛІВ"
 
 #. pl: KUCANIE / PRZEWRÓT BOJOWY
 msgctxt "line_010046"
@@ -51467,7 +51466,7 @@ msgstr ""
 #. pl: Ukończ 5 rund w trybie galaktycznego szturmu.
 msgctxt "line_010271"
 msgid "Complete 5 rounds of Galactic Assault."
-msgstr ""
+msgstr "Пройдіть 5 раундів у режимі «Галактична битва»."
 
 #. pl: Pokonaj 5 wrogów jednostką specjalną.
 msgctxt "line_010272"
@@ -51477,7 +51476,7 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie bohaterów i złoczyńców.
 msgctxt "line_010273"
 msgid "Play 3 rounds of Heroes vs Villains."
-msgstr ""
+msgstr "Зіграйте 3 раунди в режимі «Герої проти Лиходіїв»."
 
 #. pl: Pokonaj 10 wrogów bohaterem z mieczem świetlnym.
 msgctxt "line_010274"
@@ -51922,7 +51921,7 @@ msgstr ""
 #. pl: Pokonaj 10 wrogów w trybie zmagań bohaterów jako Imperator Palpatine lub Dath Vader.
 msgctxt "line_010362"
 msgid "Defeat 10 Enemies as Emperor Palpatine or Darth Vader in Hero Showdown."
-msgstr ""
+msgstr "Здолайте 10 ворогів як Імператор Палпатін або Дарт Вейдер у «Протистояння»."
 
 #. pl: MANAGER, PUBLIC RELATIONS
 msgctxt "line_010363"
@@ -52052,7 +52051,7 @@ msgstr ""
 #. pl: MYŚLIWCE BOHATERÓW
 msgctxt "line_010388"
 msgid "HERO STARFIGHTERS"
-msgstr ""
+msgstr "ВИНИЩУВАЧІ ГЕРОЇВ"
 
 #. pl: LUCASFILM GAMES TEAM
 msgctxt "line_010389"
@@ -52558,7 +52557,7 @@ msgstr ""
 #. pl: BRAK GRACZA
 msgctxt "line_010489"
 msgid "NO PLAYER"
-msgstr ""
+msgstr "БЕЗ ГРАВЦЯ"
 
 #. pl: Zbadaj jaskinię
 msgctxt "line_010490"
@@ -52833,7 +52832,7 @@ msgstr ""
 #. pl: Pokonaj 10 wrogów w trybie zmagań bohaterów jako Han Solo lub Lando Calrissian.
 msgctxt "line_010544"
 msgid "Defeat 10 Enemies as Han Solo or Lando Calrissian in Hero Showdown."
-msgstr ""
+msgstr "Здолайте 10 ворогів у режимі «Протистояння», граючи за Хана Соло або Лендо Калріссіана."
 
 #. pl: ENVIRONMENT ARTISTS
 msgctxt "line_010545"
@@ -52868,7 +52867,7 @@ msgstr ""
 #. pl: RUCH OPORU
 msgctxt "line_010551"
 msgid "RESISTANCE"
-msgstr ""
+msgstr "РУХ ОПОРУ"
 
 #. pl: OCHRONA KLUCZOWYCH UKŁADÓW
 msgctxt "line_010552"
@@ -53764,7 +53763,7 @@ msgstr ""
 #. pl: ZDOBĄDŹ WIĘCEJ KRYSZTAŁÓW
 msgctxt "line_010730"
 msgid "GET MORE CRYSTALS"
-msgstr ""
+msgstr "ПРИДБАТИ БІЛЬШЕ КРИСТАЛІВ"
 
 #. pl: PRZYBYŁY KORWETY – ZNISZCZCIE JE
 msgctxt "line_010731"
@@ -53829,7 +53828,7 @@ msgstr ""
 #. pl: TRYB GRY
 msgctxt "line_010743"
 msgid "GAME MODE"
-msgstr ""
+msgstr "ЗІГРАТИ"
 
 #. pl: Skrzynia zawierająca zwycięską pozę – Darth Maul.
 msgctxt "line_010744"
@@ -53969,7 +53968,7 @@ msgstr ""
 #. pl: W trybie kooperacji grasz ze znajomymi przeciwko wrogom sterowanym przez SI i zwiększasz poziom swoich postaci jak zwykle.
 msgctxt "line_010771"
 msgid "In co-op, you play with friends against AI opponents and level up your characters normally."
-msgstr ""
+msgstr "У кооперативному режимі ви граєте разом із друзями проти ШІ і підвищуєте рівень своїх персонажів у звичайному режимі."
 
 #. pl: ROZWALIĆ GO!
 msgctxt "line_010772"
@@ -54424,7 +54423,7 @@ msgstr ""
 #. pl: Punkty bitewne
 msgctxt "line_010862"
 msgid "Battle Points "
-msgstr ""
+msgstr "Бойові кредити "
 
 #. pl: DIALOGUE EDITOR
 msgctxt "line_010863"
@@ -54979,7 +54978,7 @@ msgstr ""
 #. pl: Wyglądy można odblokować w menu KOLEKCJI.
 msgctxt "line_010973"
 msgid "Appearances can be unlocked from the COLLECTION menus"
-msgstr ""
+msgstr "Відкривайте нові образи для своїх бійців у розділі «КОЛЕКЦІЯ»"
 
 #. pl: FILTRUJ PRZEKLEŃSTWA
 msgctxt "line_010974"
@@ -56169,7 +56168,7 @@ msgstr ""
 #. pl: EPOKA REPUBLIKI
 msgctxt "line_011211"
 msgid "AGE OF THE REPUBLIC"
-msgstr ""
+msgstr "ЕРА РЕСПУБЛІКИ"
 
 #. pl: IDEN VERSIO
 msgctxt "line_011212"
@@ -56699,7 +56698,7 @@ msgstr ""
 #. pl: Bohaterowie i złoczyńcy
 msgctxt "line_011317"
 msgid "Heroes vs Villains"
-msgstr ""
+msgstr "Герої проти Лиходіїв"
 
 #. pl: Iden: Uwaga! Jinata ma AT-ST.
 msgctxt "line_011318"
@@ -57204,7 +57203,7 @@ msgstr ""
 #. pl: SOJUSZ SEPARATYSTÓW
 msgctxt "line_011418"
 msgid "SEPARATIST ALLIANCE"
-msgstr ""
+msgstr "СЕПАРАТИСТИ"
 
 #. pl: Lando: Jak nie umiesz czegoś obsłużyć, rozwal to.
 msgctxt "line_011419"
@@ -57414,7 +57413,7 @@ msgstr ""
 #. pl: Po uzyskaniu odpowiedniego poziomu klasy wykorzystaj punkty umiejętności, aby kupić lub ulepszyć gwiezdne karty.
 msgctxt "line_011460"
 msgid "Use your Skill Points to buy and upgrade Star Cards, once you have reached the required Class Level."
-msgstr ""
+msgstr "Відкривайте та покращуйте зоряні картки за кількість балів, щойно досягнете необхідного рівня класу."
 
 #. pl: Na określonych poziomach klasy odkryjesz jej nowe gwiezdne karty. Aby ich użyć, odblokuj je przeznaczając na to punkt umiejętności.
 msgctxt "line_011461"
@@ -57589,7 +57588,7 @@ msgstr ""
 #. pl: Rozegraj grę w trybie myśliwców bohaterów.
 msgctxt "line_011495"
 msgid "Play a match of Hero Starfighters."
-msgstr ""
+msgstr "Зіграти у «Винищувачі Героїв»."
 
 #. pl: KRYTYCZNE ODBICIE
 msgctxt "line_011496"
@@ -58444,7 +58443,7 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie galaktycznego szturmu.
 msgctxt "line_011666"
 msgid "Play 3 rounds of Galactic Assault."
-msgstr ""
+msgstr "Зіграйте 3 раунди в режим «Галактична битва»."
 
 #. pl: KONTYNUACJA ZA
 msgctxt "line_011667"
@@ -59324,7 +59323,7 @@ msgstr ""
 #. pl: Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej o zdolnościach Mocy Luke'a Skywalkera.
 msgctxt "line_011842"
 msgid "Press %%ABILITYINFO%% to learn more about Luke Skywalker's Force abilities"
-msgstr ""
+msgstr "Натисніть %%ABILITYINFO%%, щоб дізнатися більше про здібності Сили Люка Скайвокера"
 
 #. pl: Del: Nie spali nam to broni?
 msgctxt "line_011843"
@@ -60219,7 +60218,7 @@ msgstr ""
 #. pl: RUCH OPORU
 msgctxt "line_012021"
 msgid "RESISTANCE"
-msgstr ""
+msgstr "РУХ ОПОРУ"
 
 #. pl: WYBIĆ ICH
 msgctxt "line_012022"
@@ -61024,7 +61023,7 @@ msgstr ""
 #. pl: Rzuć 15 SAKIEWKAMI Z OGNIKAMI trybie łowów Ewoków.
 msgctxt "line_012182"
 msgid "Throw 15 Wistie Pouches in Ewok Hunt."
-msgstr "Жбурніть 15 мішечків із вісті у режимі «Полювання на евоків»."
+msgstr "Жбурніть 15 мішечків у режимі «Полювання евоків»."
 
 #. pl: THLEEK SIZ
 msgctxt "line_012183"
@@ -61534,7 +61533,7 @@ msgstr ""
 #. pl: SCENERIUSZE DO ODBLOKOWANIA: {0:d}
 msgctxt "line_012284"
 msgid "{0:d} MORE SCENARIOS TO UNLOCK"
-msgstr ""
+msgstr "{0:d} ДЛЯ РОЗБЛОКУВАННЯ ЗАЛИШИЛОСЯ СЦЕНАРІЇВ"
 
 #. pl: Hask: Nie.{0.000s:1.010s} Jesteś zdrajczynią.{1.550s:2.690s} Nie zasługujesz na życie.{3.130s:4.490s} Więc musisz zginąć.
 msgctxt "line_012285"
@@ -61559,7 +61558,7 @@ msgstr ""
 #. pl: EPOKA RUCHU OPORU
 msgctxt "line_012289"
 msgid "AGE OF RESISTANCE"
-msgstr ""
+msgstr "ЕРА ОПОРУ"
 
 #. pl: Paldora: Wiesz, że tylko 77% strzałów szturmowców sięga celu?
 msgctxt "line_012290"
@@ -61904,7 +61903,7 @@ msgstr ""
 #. pl: NAJWYŻSZY PORZĄDEK
 msgctxt "line_012358"
 msgid "FIRST ORDER"
-msgstr ""
+msgstr "ВЕРХОВНИЙ ПОРЯДОК"
 
 #. pl: DEVELOPMENT AND RELEASE ENGINEERING
 msgctxt "line_012359"
@@ -61929,7 +61928,7 @@ msgstr ""
 #. pl: POZIOM TRUDNOŚCI SI: {0:s}
 msgctxt "line_012363"
 msgid "AI DIFFICULTY: {0:s}"
-msgstr ""
+msgstr "СКЛАДНІСТЬ ШІ: {0:s}"
 
 #. pl: WIĘKSZE OBRAŻENIA
 msgctxt "line_012364"
@@ -62604,12 +62603,12 @@ msgstr ""
 #. pl: Utracono połączenie z partnerem. Tryb kooperacji wymaga dwóch graczy.
 msgctxt "line_012498"
 msgid "Connection to your partner was lost. Co-op requires two players."
-msgstr ""
+msgstr "Зв'язок із вашим напарником було втрачено. Для кооперативного режиму потрібно двоє гравців."
 
 #. pl: Partner wyszedł z gry. Tryb kooperacji wymaga dwóch graczy.
 msgctxt "line_012499"
 msgid "Your partner has quit the game. Co-op requires two players."
-msgstr ""
+msgstr "Ваш напарник вийшов з гри. Для кооперативного режиму потрібно двоє гравців."
 
 #. pl: Przyśpiesza odnawianie zdolności. Cecha wzmacniana zabiciami oraz ranami zadanymi bohaterom. Efekt ma zastosowanie po osiągnięciu pełnej cechy.
 msgctxt "line_012500"
@@ -62754,7 +62753,7 @@ msgstr ""
 #. pl: UDERZENIE / KONWÓJ
 msgctxt "line_012528"
 msgid "STRIKE / EXTRACTION"
-msgstr "УДАР / ЕВАКУАЦІЯ"
+msgstr "ДИВЕРСІЯ / ЕВАКУАЦІЯ"
 
 #. pl: SKRZYNIA ZW. POZY HANA SOLO
 msgctxt "line_012529"
@@ -64564,7 +64563,7 @@ msgstr ""
 #. pl: MIEJSCE
 msgctxt "line_012890"
 msgid "LOCATION"
-msgstr ""
+msgstr "ЛОКАЦІЇ"
 
 #. pl: Skrzynia zawierająca emotkę żołnierza „CZŁOWIEK PUSTYNI”.
 msgctxt "line_012891"
@@ -64734,7 +64733,7 @@ msgstr ""
 #. pl: Dziękujemy za grę w STAR WARS™ Battlefront™ II! Aby móc kontynuować, musisz posiadać grę. Jeśli jesteś abonentem Origin Access, otrzymasz na nią 10% zniżkę. Możesz też wypróbować tryby online i arcade do czasu zakończenia okresu próbnego.
 msgctxt "line_012924"
 msgid "Thank you for playing STAR WARS™ Battlefront™ II! To continue your story progress, you need to own the game. You can purchase the game now and if you are a member of Origin Access, you will get a 10% purchase discount. Alternatively, you can try the Multiplayer and Arcade modes until your Trial ends."
-msgstr ""
+msgstr "Дякуємо, що граєте в STAR WARS™ Battlefront™ II! Щоб продовжити проходження сюжетної кампанії, вам потрібно придбати гру. Ви можете купити її просто зараз, і якщо ви є учасником Origin Access, то отримаєте 10% знижки на покупку. Крім того, ви можете спробувати режими «Багатокористувацька гра» та «Аркада», поки не закінчиться термін дії вашої пробної версії."
 
 #. pl: ULEPSZONE ZAKŁÓCENIE
 msgctxt "line_012925"
@@ -65014,7 +65013,7 @@ msgstr ""
 #. pl: HOME
 msgctxt "line_012980"
 msgid "HOME"
-msgstr "HOME"
+msgstr "ГОЛОВНА"
 
 #. pl: KANA
 msgctxt "line_012981"
@@ -66564,7 +66563,7 @@ msgstr ""
 #. pl: Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej o zakłócających zdolnościach Landa Calrissiana.
 msgctxt "line_013290"
 msgid "Press %%ABILITYINFO%% to learn more about Lando Calrissian's disruptive abilities"
-msgstr ""
+msgstr "Натисніть %%ABILITYINFO%%, щоб дізнатися більше про дезорганізуючі здібності Лендо Калріссіана"
 
 #. pl: Del: Ma uzbrojenie! Czego więcej chcieć?
 msgctxt "line_013291"
@@ -67304,7 +67303,7 @@ msgstr ""
 #. pl: TWOJA KOLEKCJA
 msgctxt "line_013438"
 msgid "YOUR COLLECTION"
-msgstr ""
+msgstr "ВАША КОЛЕКЦІЯ"
 
 #. pl: ACCOUNT MANAGERS
 msgctxt "line_013439"
@@ -67334,7 +67333,7 @@ msgstr ""
 #. pl: Wybierz tryb gry.
 msgctxt "line_013444"
 msgid "Select a game mode."
-msgstr ""
+msgstr "Оберіть у що зіграти."
 
 #. pl: Większa szybkostrzelność.
 msgctxt "line_013445"
@@ -67364,7 +67363,7 @@ msgstr ""
 #. pl: Naciśnij %%ABILITYINFO%%, aby dowiedzieć się więcej o zabójczych zdolnościach Kylo Rena.
 msgctxt "line_013450"
 msgid "Press %%ABILITYINFO%% to learn more about Kylo Ren's lethal abilities"
-msgstr ""
+msgstr "Натисніть %%ABILITYINFO%%: детальніше про смертоносні здібності Кайло Рена"
 
 #. pl: REDUKCJA OBRAŻEŃ
 msgctxt "line_013451"
@@ -67619,7 +67618,7 @@ msgstr ""
 #. pl: NAJWYŻSZY PORZĄDEK
 msgctxt "line_013501"
 msgid "FIRST ORDER"
-msgstr ""
+msgstr "ВЕРХОВНИЙ ПОРЯДОК"
 
 #. pl: Luke: Osłaniaj mnie, a ja osłonię ciebie.
 msgctxt "line_013502"
@@ -67749,7 +67748,7 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie bohaterów i złoczyńców.
 msgctxt "line_013527"
 msgid "Play 3 rounds of Heroes vs Villains."
-msgstr ""
+msgstr "Зіграйте 3 матчі в режимі «Герої проти Лиходіїв»."
 
 #. pl: Dari Sarisha: To już prawie wszystkie transportowce. Wykończyć resztę!
 msgctxt "line_013528"
@@ -68689,7 +68688,7 @@ msgstr ""
 #. pl: SOJUSZ REBELIANCKI
 msgctxt "line_013715"
 msgid "REBEL ALLIANCE"
-msgstr ""
+msgstr "АЛЬЯНС ПОВСТАНЦІВ"
 
 #. pl: TAKTYCZNE ODRODZENIE
 msgctxt "line_013716"
@@ -68934,7 +68933,7 @@ msgstr ""
 #. pl: Sprawdź sterowanie w menu opcji.
 msgctxt "line_013764"
 msgid "Check out the options menu to view the controls."
-msgstr ""
+msgstr "Переглянути керування можна в параметри."
 
 #. pl: Trzymanie się członków zespołu to sposób na lepszy wynik i krótszy czas odnawiania zdolności.
 msgctxt "line_013765"
@@ -70944,7 +70943,7 @@ msgstr ""
 #. pl: PUNKTY BITEWNE: {0:d}
 msgctxt "line_014166"
 msgid "BATTLE POINTS: {0:d}"
-msgstr ""
+msgstr "БОЙОВІ КРЕДИТИ: {0:d}"
 
 #. pl: Del: Przyjąłem!
 msgctxt "line_014167"
@@ -72084,7 +72083,7 @@ msgstr ""
 #. pl: TRYB GRY
 msgctxt "line_014394"
 msgid "GAME MODE"
-msgstr ""
+msgstr "РЕЖИМ ГРИ"
 
 #. pl: GAMEPLAY SOFTWARE ENGINEER
 msgctxt "line_014395"
@@ -72214,7 +72213,7 @@ msgstr ""
 #. pl: Pokonaj 10 wrogów w trybie galaktycznego szturmu.
 msgctxt "line_014420"
 msgid "Defeat 10 Enemies in Galactic Assault."
-msgstr ""
+msgstr "Знищте 10 ворогів у режимі «Галактична битва»."
 
 #. pl: Iden: Agencie Hask, ¬wyłączam ogniwa chłodzące działa jonowego. Pozycja?
 msgctxt "line_014421"
@@ -72479,7 +72478,7 @@ msgstr "Зіграйте 3 раунди в режимі «Аркада»."
 #. pl: Rozegraj 3 rundy w trybie galaktycznego szturmu.
 msgctxt "line_014473"
 msgid "Play 3 rounds of Galactic Assault."
-msgstr "Зіграйте 3 раунди в режимі «Галактичний штурм»."
+msgstr "Зіграйте 3 раунди в режимі «Галактична битва»."
 
 #. pl: Pokonaj 30 wrogów.
 msgctxt "line_014474"
@@ -72509,7 +72508,7 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie bohaterów i złoczyńców.
 msgctxt "line_014479"
 msgid "Play 3 rounds of Heroes vs Villains."
-msgstr ""
+msgstr "Зіграйте 3 матчі в режимі «Герої проти Лиходіїв»."
 
 #. pl: Pokonaj 10 wrogów bohaterem z blasterem.
 msgctxt "line_014480"
@@ -72669,7 +72668,7 @@ msgstr ""
 #. pl: Rozegraj 5 rund w trybie bohaterów i złoczyńców.
 msgctxt "line_014511"
 msgid "Play 5 rounds of Heroes vs Villains."
-msgstr ""
+msgstr "Зіграйте 5 матчів у режимі «Герої проти Лиходіїв»."
 
 #. pl: ADDITIONAL LAUNCH SUPPORT
 msgctxt "line_014512"
@@ -72924,7 +72923,7 @@ msgstr ""
 #. pl: Kolekcja trofeów ze STAR WARS™ Battlefront™ II
 msgctxt "line_014562"
 msgid "The Trophy collection for STAR WARS™ Battlefront™ II"
-msgstr ""
+msgstr "Колекція трофеїв STAR WARS™ Battlefront™ II"
 
 #. pl: SOUND EDITORS
 msgctxt "line_014563"
@@ -73634,7 +73633,7 @@ msgstr ""
 #. pl: RUCH OPORU
 msgctxt "line_014704"
 msgid "RESISTANCE"
-msgstr ""
+msgstr "РУХ ОПОРУ"
 
 #. pl: SNAJPERSKI EKSPERT
 msgctxt "line_014705"
@@ -73959,7 +73958,7 @@ msgstr ""
 #. pl: Przejdź do ekranu KARIERA > KAMIENIE MILOWE i uzyskaj dostęp do nowych ulepszeń dla trybów online.
 msgctxt "line_014769"
 msgid "Visit your Career>Milestones page and access new upgrades for multiplayer modes."
-msgstr ""
+msgstr "Перейдіть у розділ «Кар'єра» > «Віхи», щоб отримати нові покращення для багатокористувацьких режимів."
 
 #. pl: Shriv: Do konwoju lecą posiłki!
 msgctxt "line_014770"
@@ -73999,7 +73998,7 @@ msgstr ""
 #. pl: Masz nieotwarte SKRZYNIE!¬¬Skrzynie będziesz otrzymywać codziennie po rozpoczęciu gry.
 msgctxt "line_014777"
 msgid "You have unopened CRATES!¬¬You will earn crates daily when you start the game."
-msgstr ""
+msgstr "У вас є невідкриті СКРИНІ!¬¬Вони нараховуються щодня при вході у гру."
 
 #. pl: %%CURRENCY_GRIND%% {0:d}
 msgctxt "line_014778"
@@ -74304,7 +74303,7 @@ msgstr ""
 #. pl: SOJUSZ REBELIANCKI
 msgctxt "line_014838"
 msgid "REBEL ALLIANCE"
-msgstr ""
+msgstr "АЛЬЯНС ПОВСТАНЦІВ"
 
 #. pl: DOMYŚLNE
 msgctxt "line_014839"
@@ -74394,7 +74393,7 @@ msgstr ""
 #. pl: UKRYJ — wyłącza okna rozmów¬WYSKAKUJĄCE — wyświetla okna podczas aktywności¬POKAZUJ — stale wyświetla okna
 msgctxt "line_014856"
 msgid "Chat log options. Hide disables, Popup shows when active, Show always enables the log."
-msgstr ""
+msgstr "Налаштування чату: «Приховати» — вимикає чат; «Спливаючий» — з'являється під час активності; «Завжди показувати» — вмикає чат на постійній основі."
 
 #. pl: COFNIJ WYBÓR
 msgctxt "line_014857"
@@ -75659,7 +75658,7 @@ msgstr ""
 #. pl: Kryształy służą do kupna wyjątkowych ładunków w Porcie Kosmicznym. W ładunkach znaleźć można przedmioty takie jak modyfikacje zdolności, emotki czy wyglądy.
 msgctxt "line_015109"
 msgid "Crystals are used to purchase exclusive Shipments at the Starport. Shipments contain items such as Ability Modifiers, Emotes, Skins, and more!"
-msgstr ""
+msgstr "За кристали можна придбати ексклюзивні вантажі в космопорті. У цих вантажах ви знайдете модифікатори здібностей, емоції, скіни та інші речі!"
 
 #. pl: Droid jest wyposażony w technologię zwiadowczą pozwalającą identyfikować zagrożenia znajdujące się za ścianami. Po wykryciu wroga zaczyna emitować sygnał dźwiękowy.
 msgctxt "line_015110"
@@ -75959,7 +75958,7 @@ msgstr ""
 #. pl: Przejmijcie 4 000 000 stanowisk dowodzenia w trybie supremacji jako społeczność, aby zdobyć wygląd Lei Organy w stroju księżniczki.
 msgctxt "line_015169"
 msgid "Capture 4,000,000 command posts in Capital Supremacy as a community and get Leia Organa's Princess Appearance."
-msgstr ""
+msgstr "Захопіть 4,000,000 командних пунктів у Тактичній перевазі силами спільноти й отримайте скін Леї Орґани «Принцеса»."
 
 #. pl: PODWÓJNE PRZYBLIŻENIE
 msgctxt "line_015170"
@@ -76289,7 +76288,7 @@ msgstr ""
 #. pl: Pkt. umiejętności
 msgctxt "line_015235"
 msgid "Skill Points"
-msgstr ""
+msgstr "Кількість Балів"
 
 #. pl: ASYSTA
 msgctxt "line_015236"
@@ -76474,7 +76473,7 @@ msgstr ""
 #. pl: WYCHODZENIE…
 msgctxt "line_015272"
 msgid "QUITTING..."
-msgstr ""
+msgstr "ВИХІД..."
 
 #. pl: ŁADUNEK JONOWY
 msgctxt "line_015273"
@@ -77379,7 +77378,7 @@ msgstr ""
 #. pl: CIEMNA STRONA
 msgctxt "line_015453"
 msgid "DARK SIDE"
-msgstr ""
+msgstr "ТЕМНА СТОРОНА"
 
 #. pl: Del: Dostałem!
 msgctxt "line_015454"
@@ -77844,7 +77843,7 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie galaktycznego szturmu.
 msgctxt "line_015546"
 msgid "Play 3 rounds of Galactic Assault."
-msgstr ""
+msgstr "Зіграйте 3 раунди в режим «Галактична битва»."
 
 #. pl: Pokonaj 30 wrogów.
 msgctxt "line_015547"
@@ -77874,7 +77873,7 @@ msgstr ""
 #. pl: Rozegraj 3 rundy w trybie bohaterów i złoczyńców.
 msgctxt "line_015552"
 msgid "Play 3 rounds of Heroes vs Villains."
-msgstr ""
+msgstr "Зіграйте 3 раунди в режимі «Герої проти Лиходіїв»."
 
 #. pl: Pokonaj 10 wrogów bohaterem z mieczem świetlnym.
 msgctxt "line_015553"
@@ -77969,7 +77968,7 @@ msgstr ""
 #. pl: POKAŻ OPCJE
 msgctxt "line_015571"
 msgid "SHOW OPTIONS"
-msgstr ""
+msgstr "ПОКАЗАТИ ПАРАМЕТРИ"
 
 #. pl: %%FIRE%%
 msgctxt "line_015572"
@@ -79074,7 +79073,7 @@ msgstr ""
 #. pl: Rozegraj grę w trybie galaktycznego szturmu.
 msgctxt "line_015792"
 msgid "Play a match of Galactic Assault."
-msgstr ""
+msgstr "Зіграйте в режим «Галактична битва»."
 
 #. pl: Iden: Droidzie, otwórz celę.
 msgctxt "line_015793"
@@ -81365,7 +81364,7 @@ msgstr ""
 #. pl: KOLEKCJE KART
 msgctxt "line_016250"
 msgid "CARD COLLECTIONS"
-msgstr ""
+msgstr "КОЛЕКЦІЇ КАРТОК"
 
 #. pl: CORE QA SITE TEST MANAGER
 msgctxt "line_016251"
@@ -82250,7 +82249,7 @@ msgstr ""
 #. pl: Zagraj najgroźniejszymi złoczyńcami lub największymi bohaterami ze wszystkich trzech filmowych er sagi Gwiezdnych Wojen™: Kylo Renem, Rey, Darthem Maulem, Yodą i wieloma innymi.
 msgctxt "line_016427"
 msgid "Play as - and against - STAR WARS™ most feared villains and cherished heroes from all three eras, including Kylo Ren, Rey, Darth Maul, Yoda and many more."
-msgstr ""
+msgstr "Грайте за — та проти — найстрашніших лиходіїв і найулюбленіших героїв STAR WARS™ з усіх трьох епох, серед яких Кайло Рен, Рей, Дарт Мол, Йода та багато інших."
 
 #. pl: Pokonaj 10 wrogów myśliwcem przechwytującym.
 msgctxt "line_016428"
@@ -82525,7 +82524,7 @@ msgstr ""
 #. pl: ROZEGRAJ TRYB
 msgctxt "line_016482"
 msgid "PLAY GAME MODE"
-msgstr ""
+msgstr "ЗІГРАТИ В РЕЖИМ ГРИ"
 
 #. pl: DODAJ GWIEZDNE KARTY
 msgctxt "line_016483"
@@ -82575,7 +82574,7 @@ msgstr ""
 #. pl: NAJWYŻSZY PORZĄDEK
 msgctxt "line_016492"
 msgid "FIRST ORDER"
-msgstr ""
+msgstr "ВЕРХОВНИЙ ПОРЯДОК"
 
 #. pl: BLASTERY
 msgctxt "line_016493"
@@ -82655,7 +82654,7 @@ msgstr ""
 #. pl: POZIOM TRUDNOŚCI SI
 msgctxt "line_016508"
 msgid "AI DIFFICULTY"
-msgstr ""
+msgstr "СКЛАДНІСТЬ ШІ"
 
 #. pl: Przybył krążownik droidów. Brońcie go!
 msgctxt "line_016509"
@@ -84985,7 +84984,7 @@ msgstr ""
 #. pl: SKRZYNIA GALAKTYCZNEGO SZTURMU
 msgctxt "line_016974"
 msgid "GALACTIC ASSAULT CRATE"
-msgstr "СКРИНЯ ГАЛАКТИЧНОГО ШТУРМУ"
+msgstr "СКРИНЯ ГАЛАКТИЧНОЇ БИТВИ"
 
 #. pl: SKRZYNIA WZMACNIAJĄCA MYŚLIWCA BOHATERA
 msgctxt "line_016975"
@@ -85055,7 +85054,7 @@ msgstr ""
 #. pl: Udało ci się osiągnąć kamień milowy! Przejdź do sekcji KARIERA i ODBIERZ NAGRODĘ w postaci skrzyni, emotki lub kredytów.
 msgctxt "line_016988"
 msgid "You have completed a milestone! Go to CAREER to CLAIM REWARD which will grant you, for example, a crate, an emote or credits."
-msgstr ""
+msgstr "Віху завершено! Зайдіть у меню КАР'ЄРА та натисніть ЗАБРАТИ НАГОРОДУ, щоб отримати свій ящик, емоцію чи кредити."
 
 #. pl: Skrzynia zawierająca zwycięską pozę – Lando.
 msgctxt "line_016989"
@@ -87221,7 +87220,7 @@ msgstr ""
 #. pl: TRYB GRY
 msgctxt "line_017421"
 msgid "GAME MODE"
-msgstr ""
+msgstr "РЕЖИМ ГРИ"
 
 #. pl: Skrzynia zawierająca do 3 gwiezdnych kart Phasmy i kredyty.
 msgctxt "line_017422"
@@ -87427,7 +87426,7 @@ msgstr ""
 #. pl: Po unicestwieniu Gwiazdy Śmierci Han Solo, Luke Skywalker i Chewbacca zostali odznaczeni w Wielkiej Świątyni na pokrytym dżunglą księżycu Yavin 4. Han w ciągu życia spędzonego na przemytnictwie i kanciarstwie usłyszał na swój temat wiele opinii, ale najtrudniej było mu przyzwyczaić się do nowego określenia – „szanowany”.
 msgctxt "line_017462"
 msgid "Following the destruction of the Death Star, Han Solo, Luke Skywalker, and Chewbacca were celebrated in the Great Temple on the jungle-covered moon of Yavin 4. Having been called all sorts of things over a career as a smuggler and con artist, Han was least comfortable with his newest description: “respectable”."
-msgstr ""
+msgstr "Знищивши Зірку Смерті, Хан Соло, Люк Скайвокер та Чубакка стали героями святкування у Великому храмі серед джунглів супутника Явін 4. Ким тільки не називали Хана за часи його контрабандистського та шахрайського минулого, та найменше йому пасувало нове прізвисько: «поважний»."
 
 #. pl: ZAKŁÓCAJĄCE HAKOWANIE
 msgctxt "line_017463"
@@ -88047,7 +88046,7 @@ msgstr "ГРАТИ"
 #. pl: JASNA STRONA
 msgctxt "line_017586"
 msgid "LIGHT SIDE"
-msgstr ""
+msgstr "СВІТЛА СТОРОНА"
 
 #. pl: Iden: Dio, poszukaj w mieście nadajników ratunkowych.
 msgctxt "line_017587"
@@ -89097,7 +89096,7 @@ msgstr ""
 #. pl: Steruj za pomocą %%YAW%%. Sterowanie myśliwcami można dostosować w menu opcji.
 msgctxt "line_017796"
 msgid "To navigate, use %%YAW%%. Flight controls are customizable in the Options menu"
-msgstr ""
+msgstr "Для керування застосуйте %%YAW%%. Налаштування польоту можна змінити в меню параметрів"
 
 #. pl: Klientka: Mogę wam załatwić tyle wełny z muunyaka,¬ile zapragniecie.{0.000s:4.740s} Pytanie brzmi: czy stać was na nią.
 msgctxt "line_017797"
@@ -89907,7 +89906,7 @@ msgstr ""
 #. pl: MISJE – KOOPERACJA
 msgctxt "line_017958"
 msgid "CO-OP MISSIONS"
-msgstr "МІСІЇ — КООПЕРАТИВ"
+msgstr "КООПЕРАТИВНІ МІСІЇ"
 
 #. pl: WYDŁUŻENIE CZASU TRWANIA ROZPRASZACZA CIEPŁA
 msgctxt "line_017959"
@@ -90022,7 +90021,7 @@ msgstr ""
 #. pl: SUPREMACJA
 msgctxt "line_017981"
 msgid "SUPREMACY"
-msgstr "ПЕРЕВАГА"
+msgstr "ТАКТИЧНА ПЕРЕВАГА"
 
 #. pl: ENDOR
 msgctxt "line_017982"
@@ -91078,12 +91077,12 @@ msgstr ""
 #. pl: Wygraj grę w trybie galaktycznego szturmu.
 msgctxt "line_018192"
 msgid "Win a match of Galactic Assault."
-msgstr ""
+msgstr "Виграйте матч у режимі «Галактична битва»."
 
 #. pl: Pokonaj 50 wrogów w trybie bohaterów i złoczyńców.
 msgctxt "line_018193"
 msgid "Defeat 50 enemies in Heroes Vs Villains."
-msgstr ""
+msgstr "Здолайте 50 ворогів у режимі «Герої проти Лиходіїв»."
 
 #. pl: Bądź pierwszą osobą, która pokona przeciwnika w grze online.
 msgctxt "line_018194"
@@ -91093,7 +91092,7 @@ msgstr ""
 #. pl: Wygraj grę w trybie bohaterów i złoczyńców.
 msgctxt "line_018195"
 msgid "Win a match of Heroes vs Villains."
-msgstr ""
+msgstr "Здобудьте перемогу в матчі «Герої проти Лиходіїв»."
 
 #. pl: Zagraj każdym z premierowych bohaterów w trybie online.
 msgctxt "line_018196"
@@ -91103,7 +91102,7 @@ msgstr ""
 #. pl: Wygraj po jednej grze w każdym z trybów online.
 msgctxt "line_018197"
 msgid "Win one match in each Multiplayer game mode."
-msgstr ""
+msgstr "Виграйте по одному матчу в кожному режимі багатокористувацької гри."
 
 #. pl: Zabij w sumie 500 wrogów jako bohater na dowolnej mapie w trybie online.
 msgctxt "line_018198"
@@ -92709,7 +92708,7 @@ msgstr ""
 #. pl: GALAKTYCZNY SZTURM
 msgctxt "line_018518"
 msgid "GALACTIC ASSAULT"
-msgstr "ГАЛАКТИЧНИЙ ШТУРМ"
+msgstr "ГАЛАКТИЧНА БИТВА"
 
 #. pl: SKRZYNIA „NIC Z TEGO”
 msgctxt "line_018519"
@@ -92904,7 +92903,7 @@ msgstr ""
 #. pl: EPOKA REBELII
 msgctxt "line_018557"
 msgid "AGE OF REBELLION"
-msgstr ""
+msgstr "ЕРА ПОВСТАННЯ"
 
 #. pl: Del: Proszę strzelać w antenę celowniczą!
 msgctxt "line_018558"
@@ -94250,7 +94249,7 @@ msgstr ""
 #. pl: Czy na pewno chcesz wyjść? Niezapisane postępy zostaną utracone.
 msgctxt "line_018826"
 msgid "Are you sure you want to quit?  Any unsaved progress will be lost."
-msgstr ""
+msgstr "Ви справді хочете вийти? Весь незбережений прогрес буде втрачено."
 
 #. pl: Zwiększa zwrotność Slave'a I Boby Fetta.
 msgctxt "line_018827"
@@ -94305,7 +94304,7 @@ msgstr ""
 #. pl: Gracz {0:d}. DRUŻYNA: {1:d}
 msgctxt "line_018837"
 msgid "Player {0:d} TEAM: {1:d}"
-msgstr ""
+msgstr "Гравець {0:d} КОМАНДА: {1:d}"
 
 #. pl: LOD INFO DEBUG. WYŁ.
 msgctxt "line_018838"
@@ -96410,7 +96409,7 @@ msgstr ""
 #. pl: Gra w: {(C)RP_CTX_GAME_MODE} na mapie: {(C)RP_CTX_LEVEL}
 msgctxt "line_019258"
 msgid "Playing {(C)RP_CTX_GAME_MODE} on {(C)RP_CTX_LEVEL}"
-msgstr ""
+msgstr "Грає в {(C)RP_CTX_GAME_MODE} на локації {(C)RP_CTX_LEVEL}"
 
 #. pl: OTOCZONY STRACHEM
 msgctxt "line_019259"
@@ -96605,7 +96604,7 @@ msgstr ""
 #. pl: Zestaw różnorodnych trybów gry z całej galaktyki, będących  wyjątkowym i ekscytującym wyzwaniem dla graczy.
 msgctxt "line_019297"
 msgid "A diverse set of game modes explore scenarios from across the galaxy, challenging players in unique and exciting ways!"
-msgstr ""
+msgstr "Різноманітний набір ігрових режимів дозволяє досліджувати різні куточки галактики, ставлячи перед гравцями унікальні та захопливі виклики!"
 
 #. pl: Rebeliant: Hydraulika nie działa. ¬Eksplozja zablokowała drzwi.
 msgctxt "line_019298"
@@ -96695,7 +96694,7 @@ msgstr ""
 #. pl: OTWÓRZ SKRZYNIE
 msgctxt "line_019315"
 msgid "OPEN YOUR CRATES"
-msgstr ""
+msgstr "ВІДКРИЙТЕ СВОЇ СКРИНІ"
 
 #. pl: Oficer: To powinno być w ładowni!
 msgctxt "line_019316"
@@ -96965,7 +96964,7 @@ msgstr ""
 #. pl: Połącz siły ze znajomym i współpracuj w trybie arcade na podzielonym ekranie.
 msgctxt "line_019369"
 msgid "Team up with a friend in a split-screen co-op Arcade."
-msgstr ""
+msgstr "Об'єднайтеся з другом у кооперативному режимі «Аркада» на розділеному екрані."
 
 #. pl: Przyznaje modyfikację zmniejszonego odrzutu do E-11D
 msgctxt "line_019370"
@@ -97450,7 +97449,7 @@ msgstr ""
 #. pl: GRAJ W DOWOLNYM TRYBIE PRZEZ 10 MINUT.
 msgctxt "line_019466"
 msgid "PLAY ANY MODE FOR 10 MINUTES."
-msgstr "ГРАЙТЕ У БУДЬ-ЯКОМУ РЕЖИМІ ПРОТЯГОМ 10 ХВИЛИН."
+msgstr "ЗІГРАЙТЕ У БУДЬ-ЯКОМУ РЕЖИМІ ПРОТЯГОМ 10 ХВИЛИН."
 
 #. pl: ROZEGRAJ CEL
 msgctxt "line_019467"
